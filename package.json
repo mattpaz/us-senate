@@ -1,0 +1,15 @@
+{
+  "name": "civil-services-us-senate",
+  "version": "1.0.0",
+  "description": "Civil Services US Senate",
+  "license": "MIT",
+  "main": "data/senate.json",
+  "homepage": "https://github.com/civilserviceusa/us-senate#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civilserviceusa/us-senate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/civilserviceusa/us-senate/issues"
+  }
+}

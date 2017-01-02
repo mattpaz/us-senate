@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>115th United States Senate</title>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <style>
+        html, body, ul, li, h1, a, p {
+            padding: 0;
+            margin: 0;
+        }
+        html {
+            box-sizing: border-box;
+        }
+        *, *:before, *:after {
+            box-sizing: inherit;
+        }
+        ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 300;
+        }
+        ::-moz-placeholder { /* Firefox 19+ */
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 300;
+        }
+        :-ms-input-placeholder { /* IE 10+ */
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 300;
+        }
+        :-moz-placeholder { /* Firefox 18- */
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 300;
+        }
+        body {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 300;
+            color: #222;
+        }
+        .wrapper {
+            margin: 0 auto;
+            max-width: 1250px;
+        }
+        .logo {
+            width: 125px;
+            height: 125px;
+            background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/240px-Seal_of_the_United_States_Senate.svg.png) center center no-repeat;
+            background-size: cover;
+            display: inline-block;
+            float: left;
+            margin-right: 20px;
+        }
+        .wrapper > h1 {
+            font-weight: 300;
+            margin-bottom: 20px;
+            font-size: 40px;
+            width: 100%;
+            height: 125px;
+            line-height: 125px;
+            margin-top: 20px;
+        }
+
+        h1.name {
+            padding: 4px 8px;
+            position: absolute;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            width: 100%;
+            margin: 0;
+            font-size: 16px !important;
+            opacity: 1;
+            transition: opacity 0.25s ease;
+        }
+        .buttons {
+            margin-top: 16px;
+            text-align: center;
+        }
+        .buttons a {
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 24px;
+            margin-right: 10px;
+        }
+        .buttons a:hover {
+            color: #FFF;
+        }
+        .senators {
+            color: #FFF;
+            margin: 20px 0 40px 0;
+            height: 5000px;
+            width: 1250px;
+        }
+        .senators li {
+            display: inline-block;
+            float: left;
+            width: 250px;
+            height: 250px;
+            background: center center no-repeat;
+            background-size: 100% 100%;
+            position: relative;
+            transition: background-size 0.5s ease;
+        }
+        .senators .data {
+            background: rgba(0, 0, 0, 0.8);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            transition: opacity 0.25s ease;
+            padding: 20px;
+        }
+        .senators li:hover {
+            background-size: 120% 120%;
+        }
+        .senators li:hover h1.name {
+            opacity: 0;
+        }
+        .senators li:hover .data {
+            opacity: 1;
+        }
+        .senators h1 {
+            font-size: 20px;
+            font-weight: 300;
+            text-align: center;
+        }
+        .stats {
+            color: #bbb;
+            font-size: 20px;
+            display: inline-block;
+            margin-left: 6px;
+        }
+        .stats span {
+            color: #666;
+            font-weight: 400;
+        }
+        .stats .percent {
+            color: #bbb;
+        }
+        .control-group {
+            display: block;
+            vertical-align: top;
+            background: #fff;
+            text-align: left;
+        }
+        .control-group h2 {
+            font-weight: 300;
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+            min-width: 100px;
+            text-align: right;
+            margin-right: 10px;
+        }
+        .control {
+            display: inline-block;
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-right: 10px;
+            font-weight: 300;
+        }
+        .control input {
+            position: absolute;
+            z-index: -1;
+            opacity: 0;
+        }
+        .control__indicator {
+            position: absolute;
+            top: 2px;
+            left: 0;
+            height: 20px;
+            width: 20px;
+            background: #e6e6e6;
+        }
+        .control--radio .control__indicator {
+            border-radius: 50%;
+        }
+        .control:hover input ~ .control__indicator,
+        .control input:focus ~ .control__indicator {
+            background: #ccc;
+        }
+        .control input:checked ~ .control__indicator {
+            background: #2aa1c0;
+        }
+        .control:hover input:not([disabled]):checked ~ .control__indicator,
+        .control input:checked:focus ~ .control__indicator {
+            background: #0e647d;
+        }
+        .control input:disabled ~ .control__indicator {
+            background: #e6e6e6;
+            opacity: 0.6;
+            pointer-events: none;
+        }
+        .control__indicator:after {
+            content: '';
+            position: absolute;
+            display: none;
+        }
+        .control input:checked ~ .control__indicator:after {
+            display: block;
+        }
+        .control--checkbox .control__indicator:after {
+            left: 8px;
+            top: 4px;
+            width: 5px;
+            height: 10px;
+            border: solid #fff;
+            border-width: 0 2px 2px 0;
+            transform: rotate(45deg);
+        }
+        .control--checkbox input:disabled ~ .control__indicator:after {
+            border-color: #7b7b7b;
+        }
+
+        input[type="text"] {
+            font-size: 16px;
+            line-height: 30px;
+            height: 30px;
+            padding: 0 8px;
+        }
+        input[type="text"]:focus {
+            outline: none;
+        }
+        .search-note {
+            color: #BBB;
+            margin-left: 10px;
+        }
+        sup {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+
+    <h1>
+        <div class="logo"></div>
+
+        115<sup>th</sup> United States Senate
+        <div class="stats">
+            Viewing <span class="count"></span> of <span class="total"></span> ( <span class="percent"></span> )
+        </div>
+    </h1>
+
+    <div class="filters">
+        <div class="control-group">
+            <h2>Search:</h2>
+            <input type="text" name="q" id="search" onkeyup="doSearch()" placeholder="Find a Senator ...">
+            <span class="search-note">( Overwrites Filters Below )</span>
+        </div>
+
+        <div class="control-group">
+            <h2>Party:</h2>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="democrat" id="party-democrat"> Democrat
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="republican" id="party-republican"> Republican
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="independent" id="party-independent"> Independent
+                <div class="control__indicator"></div>
+            </label>
+        </div>
+
+        <div class="control-group">
+            <h2>Gender:</h2>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="female" id="gender-female"> Female
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="male" id="gender-male"> Male
+                <div class="control__indicator"></div>
+            </label>
+        </div>
+
+        <div class="control-group">
+            <h2>Ethnicity:</h2>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="african-american" id="ethnicity-african-american"> African American
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="asian-american" id="ethnicity-asian-american"> Asian American
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="hispanic-american" id="ethnicity-hispanic-american"> Hispanic American
+                <div class="control__indicator"></div>
+            </label>
+            <label class="control control--checkbox">
+                <input type="checkbox" value="white" id="ethnicity-white"> White
+                <div class="control__indicator"></div>
+            </label>
+        </div>
+    </div>
+
+    <div class="senators"></div>
+</div>
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script>
+
+  var items = [];
+
+  function doSearch(){
+    var search = $('#search').val();
+
+    if (search && search !== '') {
+      $('li').hide();
+      $('li[data-name*="' + search.toLowerCase() + '"]').show();
+    } else {
+      $('li').show();
+    }
+
+    var count = $('li:visible').length;
+    var total = items.length;
+    var percent = Math.round((count / total) * 100);
+
+    $('span.count').text(count);
+    $('span.total').text(total);
+    $('span.percent').text(percent + '%');
+  }
+
+  function updateSenators () {
+    var $dem = $('li[data-party="democrat"]');
+    var $rep = $('li[data-party="republican"]');
+    var $ind = $('li[data-party="independent"]');
+
+    var $male = $('li[data-gender="male"]');
+    var $female = $('li[data-gender="female"]');
+
+    var $white = $('li[data-ethnicity="white"]');
+    var $african = $('li[data-ethnicity="african-american"]');
+    var $asian = $('li[data-ethnicity="asian-american"]');
+    var $hispanic = $('li[data-ethnicity="hispanic-american"]');
+
+    $dem.show();
+    $rep.show();
+    $ind.show();
+
+    $male.show();
+    $female.show();
+
+    $white.show();
+    $african.show();
+    $asian.show();
+    $hispanic.show();
+
+    var democrat = $('#party-democrat').is(':checked');
+    var republican = $('#party-republican').is(':checked');
+    var independent = $('#party-independent').is(':checked');
+
+    var male = $('#gender-male').is(':checked');
+    var female = $('#gender-female').is(':checked');
+
+    var white = $('#ethnicity-white').is(':checked');
+    var african = $('#ethnicity-african-american').is(':checked');
+    var asian = $('#ethnicity-asian-american').is(':checked');
+    var hispanic = $('#ethnicity-hispanic-american').is(':checked');
+
+    if (democrat || republican || independent) {
+      if (!democrat) {
+        $dem.hide();
+      }
+      if (!republican) {
+        $rep.hide();
+      }
+      if (!independent) {
+        $ind.hide();
+      }
+    }
+
+    if (male || female) {
+      if (!male) {
+        $male.hide();
+      }
+      if (!female) {
+        $female.hide();
+      }
+    }
+
+    // Hide if any are selected, if all are not selected, ignore
+    if (white || african || asian || hispanic) {
+      if (!white) {
+        $white.hide();
+      }
+      if (!african) {
+        $african.hide();
+      }
+      if (!asian) {
+        $asian.hide();
+      }
+      if (!hispanic) {
+        $hispanic.hide();
+      }
+    }
+
+    var count = $('li:visible').length;
+    var total = items.length;
+    var percent = Math.round((count / total) * 100);
+
+    $('span.count').text(count);
+    $('span.total').text(total);
+    $('span.percent').text(percent + '%');
+  }
+
+  $.getJSON("data/senate.json", function (data) {
+    $.each(data, function (key, senator) {
+
+      var title = senator.name + ' ( ' + senator.party.substr(0,1).toUpperCase() + ' - ' + senator.state + ' )';
+      var name = senator.name.toLowerCase();
+
+      items.push('<li style="background-image: url(' + senator.photo_url + ')" data-name="' + name + '" data-status="' + senator.status + '" data-party="' + senator.party + '" data-gender="' + senator.gender + '" data-ethnicity="' + senator.ethnicity + '"><h1 class="name">' + title + '</h1><div class="data">' +
+
+        '<h1>' + senator.name + '</h1>' +
+        '<div>State:&nbsp; ' + senator.state + '</div>' +
+        '<div>Party:&nbsp; ' + senator.party + '</div>' +
+        '<div>Class:&nbsp; ' + senator.class + '</div>' +
+        '<div>Entered Office:&nbsp; ' + senator.entered_office + '</div>' +
+        '<div>Term Ends:&nbsp; ' + senator.term_end + '</div>' +
+        '<div>DOB:&nbsp; ' + senator.date_of_birth + '</div>' +
+        '<div class="buttons">' +
+        '<a href="tel:' + senator.phone + '" title="Call Senator" target="_blank"><i class="fa fa-fw fa-phone-square"></i></a>' +
+        '<a href="' + senator.website + '" title="Visit Website" target="_blank"><i class="fa fa-fw fa-external-link-square"></i></a>' +
+        '<a href="https://maps.google.com/?daddr=' + senator.address.replace(/ /g, '+') + '" title="View Senator Address" target="_blank"><i class="fa fa-fw fa-map-marker"></i></a>' +
+        '<a href="' + senator.twitter_url + '" title="View Senator Twitter" target="_blank"><i class="fa fa-fw fa-twitter-square"></i></a>' +
+        '<a href="' + senator.facebook_url + '" title="View Senator Facebook" target="_blank"><i class="fa fa-fw fa-facebook-square"></i></a>' +
+
+        '</div>' +
+        '</div></li>');
+    });
+
+    $("<ul/>", { html: items }).appendTo('.senators');
+
+    $('input[type="checkbox"]').change(updateSenators);
+
+    updateSenators();
+  });
+</script>
+</body>
+</html>
