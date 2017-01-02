@@ -4,12 +4,17 @@
   "description": "View Contact Information for United States Senators, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.",
   "license": "MIT",
   "main": "index.html",
-  "homepage": "https://github.com/civilserviceusa/us-senate#readme",
+  "homepage": "https://civilserviceusa.github.io/us-senate/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/civilserviceusa/us-senate.git"
   },
   "bugs": {
     "url": "https://github.com/civilserviceusa/us-senate/issues"
+  },
+  "author": {
+    "name" : "Peter Schmalfeldt",
+    "email" : "me@peterschmalfeldt.com",
+    "url" : "https://peterschmalfeldt.com"
   }
 }

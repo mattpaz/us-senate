@@ -8,7 +8,11 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/api/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/api.svg)](https://github.com/CivilServiceUSA/api/graphs/contributors)
 
-### [View Senators](https://civilserviceusa.github.io/us-senate/)
+![Screenshot](screenshot.jpg "Screenshot")
+
+We have also built an interactive search tool that can show you some interesting demographic data on US Senators.
+
+## [★ Search US Senators ⧁](https://civilserviceusa.github.io/us-senate/)
 
 Senator Headshots
 ---
