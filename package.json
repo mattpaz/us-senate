@@ -1,9 +1,9 @@
 {
   "name": "civil-services-us-senate",
   "version": "1.0.0",
-  "description": "Civil Services US Senate",
+  "description": "View Contact Information for United States Senators, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.",
   "license": "MIT",
-  "main": "data/senate.json",
+  "main": "index.html",
   "homepage": "https://github.com/civilserviceusa/us-senate#readme",
   "repository": {
     "type": "git",
