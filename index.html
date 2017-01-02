@@ -228,12 +228,15 @@
             transition: opacity 0.25s ease;
             padding: 20px;
         }
+        .senators li.hover,
         .senators li:hover {
             background-size: 120% 120%;
         }
+        .senators li.hover h1.name,
         .senators li:hover h1.name {
             opacity: 0;
         }
+        .senators li.hover .data,
         .senators li:hover .data {
             opacity: 1;
         }
@@ -700,6 +703,16 @@
     });
 
     $("<ul/>", { html: items }).appendTo('.senators');
+
+    $('li').click(function(){
+      if ($(this).hasClass('hover')) {
+        $('li.hover').removeClass('hover');
+      } else {
+        $('li.hover').removeClass('hover');
+        $(this).addClass('hover');
+      }
+
+    });
 
     $('input[type="checkbox"]').change(updateSenators);
 
