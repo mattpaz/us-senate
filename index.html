@@ -558,17 +558,27 @@
   var items = [];
   var filtersShowing = false;
 
+  function trackEvent(category, action, label) {
+    if(typeof window.ga !== 'undefined') {
+      ga('US_Senate.send', 'event', category, action, label);
+    }
+  }
+
   function toggleFilters() {
     if (filtersShowing) {
       $('.filters').hide();
       $('.open-search').removeClass('hide');
       $('.close-search').addClass('hide');
 
+      trackEvent('Nav', 'Filter', 'Close');
+
       filtersShowing = false;
     } else {
       $('.filters').show();
       $('.open-search').addClass('hide');
       $('.close-search').removeClass('hide');
+
+      trackEvent('Nav', 'Filter', 'Open');
 
       filtersShowing = true;
     }
@@ -579,7 +589,7 @@
 
     if (search && search !== '') {
       $('li').hide();
-      $('li[data-name*="' + search.toLowerCase() + '"]').show();
+      $('li[data-name*="' + search + '" i]').show();
     } else {
       $('li').show();
     }
@@ -591,9 +601,13 @@
     $('span.count').text(count);
     $('span.total').text(total);
     $('span.percent').text(percent + '%');
+
+    trackEvent('Search', 'Term', search);
+    trackEvent('Search', 'Match Number', count);
+    trackEvent('Search', 'Match Percent', percent);
   }
 
-  function updateSenators () {
+  function updateSenators (init) {
     var $dem = $('li[data-party="democrat"]');
     var $rep = $('li[data-party="republican"]');
     var $ind = $('li[data-party="independent"]');
@@ -633,21 +647,35 @@
     if (democrat || republican || independent) {
       if (!democrat) {
         $dem.hide();
+      } else {
+        trackEvent('Search', 'Party', 'Democrat');
       }
+
       if (!republican) {
         $rep.hide();
+      } else {
+        trackEvent('Search', 'Party', 'Republican');
       }
+
       if (!independent) {
         $ind.hide();
+      } else {
+        trackEvent('Search', 'Party', 'Independent');
       }
     }
 
     if (male || female) {
       if (!male) {
         $male.hide();
+      } else {
+        trackEvent('Search', 'Gender', 'Male');
       }
+
       if (!female) {
         $female.hide();
+      }
+      else {
+        trackEvent('Search', 'Gender', 'Female');
       }
     }
 
@@ -655,15 +683,26 @@
     if (white || african || asian || hispanic) {
       if (!white) {
         $white.hide();
+      } else {
+        trackEvent('Search', 'Ethnicity', 'White');
       }
+
       if (!african) {
         $african.hide();
+      } else {
+        trackEvent('Search', 'Ethnicity', 'African American');
       }
+
       if (!asian) {
         $asian.hide();
+      } else {
+        trackEvent('Search', 'Ethnicity', 'Asian American');
       }
+
       if (!hispanic) {
         $hispanic.hide();
+      } else {
+        trackEvent('Search', 'Ethnicity', 'Hispanic American');
       }
     }
 
@@ -674,15 +713,19 @@
     $('span.count').text(count);
     $('span.total').text(total);
     $('span.percent').text(percent + '%');
+
+    if (!init) {
+      trackEvent('Search', 'Match Number', count);
+      trackEvent('Search', 'Match Percent', percent);
+    }
   }
 
   $.getJSON("data/senate.json", function (data) {
     $.each(data, function (key, senator) {
 
       var title = senator.name + ' ( ' + senator.party.substr(0,1).toUpperCase() + ' - ' + senator.state + ' )';
-      var name = senator.name.toLowerCase();
 
-      items.push('<li style="background-image: url(' + senator.photo_url + ')" data-name="' + name + '" data-status="' + senator.status + '" data-party="' + senator.party + '" data-gender="' + senator.gender + '" data-ethnicity="' + senator.ethnicity + '"><h1 class="name">' + title + '</h1><div class="data">' +
+      items.push('<li style="background-image: url(' + senator.photo_url + ')" data-name="' + senator.name + '" data-state="' + senator.state + '" data-party="' + senator.party + '" data-gender="' + senator.gender + '" data-ethnicity="' + senator.ethnicity + '"><h1 class="name">' + title + '</h1><div class="data">' +
 
         '<h1>' + senator.name + '</h1>' +
         '<div>State:&nbsp; ' + senator.state + '</div>' +
@@ -710,13 +753,43 @@
       } else {
         $('li.hover').removeClass('hover');
         $(this).addClass('hover');
+
+        var data = $(this).data();
+
+        trackEvent('Senator', 'Ethnicity', data.ethnicity);
+        trackEvent('Senator', 'Gender', data.gender);
+        trackEvent('Senator', 'Name', data.name);
+        trackEvent('Senator', 'State', data.state);
+        trackEvent('Senator', 'Party', data.party);
       }
+    });
+
+    $('li a').on('click', function(){
+      var title = $(this).attr('title');
+      var data = $(this).closest('li').data();
+
+      trackEvent('Button', 'Click', title);
+      trackEvent('Button', 'Ethnicity', data.ethnicity);
+      trackEvent('Button', 'Gender', data.gender);
+      trackEvent('Button', 'Name', data.name);
+      trackEvent('Button', 'State', data.state);
+      trackEvent('Button', 'Party', data.party);
     });
 
     $('input[type="checkbox"]').change(updateSenators);
 
-    updateSenators();
+    updateSenators(true);
   });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89110231-2', 'auto', 'US_Senate');
+  ga('US_Senate.send', 'pageview');
+
 </script>
 </body>
 </html>
