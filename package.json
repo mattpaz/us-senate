@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-senate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "View Contact Information for United States Senators, including: Phone Number, Mailing Address, Official Website, Twitter & Facebook Accounts.",
   "license": "MIT",
   "main": "index.html",
