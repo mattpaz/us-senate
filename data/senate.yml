@@ -225,7 +225,7 @@
     biography: 'Dianne Feinstein, a Senator from California; born in San Francisco, Calif., June 22, 1933; attended the San Francisco public schools and graduated from the Convent of the Sacred Heart High School 1951; graduated, Stanford University 1955; Member, California Women''s Board of Terms and Parole 1960-1966; Member, San Francisco Board of Supervisors 1970-1978, serving as president 1970-1971, 1974-1975, 1978; mayor of San Francisco 1978-1988; director, Bank of California 1988-1989; co-chair, San Francisco Education Fund''s Permanent Fund 1988-1989; unsuccessful candidate for Governor of California 1990; elected in a special election on November 3, 1992, as a Democrat to the United States Senate to fill the term left vacant by the resignation of Pete Wilson; took office on November 4, 1992, and took the oath of office on November 10, 1992; reelected in 1994, 2000, 2006, and again in 2012 for the term ending January 3, 2019; chair, Committee on Rules and Administration (One Hundred Tenth Congress), Select Committee on Intelligence (One Hundred Eleventh to One Hundred Thirteenth Congresses).'
 -
     state: CA
-    congress_id: null
+    congress_id: H001075
     party: democrat
     status: active
     majority_leader: false
@@ -247,7 +247,7 @@
     twitter_url: 'https://twitter.com/kamalaharris'
     facebook_url: 'https://www.facebook.com/kamalaharris'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/kamala-harris.jpg'
-    biography: null
+    biography: 'Kamala Harris, a Senator from California; born in Oakland, Calif., October 20, 1964; B.A., Howard University, 1986; J.D., University of California, Hastings College of the Law, 1989; admitted to the California bar in 1990; deputy district attorney, Alameda County, Calif., 1990-1998; managing attorney, San Francisco District Attorney''s Office; chief of the San Francisco City Attorney’s Division on Children and Families; district attorney of San Francisco 2004-2011; attorney general of California 2011-2016; elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: CO
     congress_id: G000562
@@ -675,7 +675,7 @@
     biography: 'Richard Durbin, a Senator and a Representative from Illinois; born in East St. Louis, St. Clair County, Ill., November 21, 1944; graduated from Assumption High School, East St. Louis 1962; B.S., Georgetown University School of Foreign Service, Washington, DC 1966; intern in the office of Illinois Senator Paul Douglas during his senior year in College; J.D., Georgetown University Law Center 1969; admitted to the Illinois bar 1969, and commenced practice in Springfield; legal counsel to Illinois Lieutenant Governor Paul Simon 1969-1972; legal counsel, Illinois State Senate Judiciary Committee 1972-1982; Democratic nominee for lieutenant governor of Illinois 1978; associate professor, Southern Illinois University School of Medicine, Springfield 1978-1983; delegate, Democratic National Conventions 1984, 1988, 1992 and 1996; chairman of Illinois state delegation in 1996; elected as a Democrat to the Ninety-eighth and to the six succeeding Congresses (January 3, 1983-January 2, 1997); elected as a Democrat to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; Democratic party whip (2005-).'
 -
     state: IL
-    congress_id: null
+    congress_id: D000622
     party: democrat
     status: active
     majority_leader: false
@@ -697,7 +697,7 @@
     twitter_url: 'https://twitter.com/tammyforil'
     facebook_url: 'https://www.facebook.com/TammyforIllinois'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/tammy-duckworth.jpg'
-    biography: null
+    biography: 'Tammy Duckworth, a Senator and a Representative from Illinois; born in Bangkok, Thailand, March 12, 1968; graduated from President William McKinley High School, Honolulu, Hawaii, 1985; B.A., University of Hawaii, Manoa, Hawaii, 1989; M.A., The George Washington University, Washington, D.C., 1992; attended Northern Illinois University, DeKalb, Ill.; Illinois Army National Guard, 1996-present; unsuccessful candidate for election to the United States House of Representatives in 2006; director, Ill. department of veterans'' affairs, 2006-2009; assistant secretary, United States Department of Veterans'' Affairs, 2009-2011; delegate to the Democratic National Convention, 2012; elected as a Democrat to the One Hundred Thirteenth Congress and to the succeeding Congress (January 3, 2013-January 3, 2017); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: IN
     congress_id: D000607
@@ -725,7 +725,7 @@
     biography: 'Joe Donnelly, a Senator and a Representative from Indiana; born in Queens, Queens County, N.Y., September 28, 1955; B.A., University of Notre Dame, Notre Dame, Ind., 1977; J.D., University of Notre Dame, Notre Dame, Ind., 1981; lawyer, private practice; business owner; unsuccessful candidate for the 108th Congress in 2004; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019.'
 -
     state: IN
-    congress_id: null
+    congress_id: Y000064
     party: republican
     status: active
     majority_leader: false
@@ -747,7 +747,7 @@
     twitter_url: 'https://twitter.com/SenToddYoung'
     facebook_url: 'https://www.facebook.com/toddyoungindiana'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/todd-young.jpg'
-    biography: null
+    biography: 'Todd Young, a Senator and a Representative from Indiana; born in Lancaster, Lancaster County, Pa., August 24, 1972; graduated from Carmel High School, Carmel, Ind., 1990; B.S., United States Naval Academy, Annapolis, Md., 1995; M.B.A., University of Chicago, Chicago, Ill., 2000; M.A., University of London, London, England, 2001; J.D., Robert H. McKinney School of Law, Indiana University, Indianapolis, Ind., 2006; United States Navy, 1990-1991; United States Marine Corps, 1995-2000; staff, United States Senator Richard Lugar of Indiana, 2001-2003; Orange County, Ind., deputy prosecutor, 2007-2010; consultant; lawyer, private practice; elected as a Republican to the One Hundred Twelfth and to the two succeeding Congresses (January 3, 2011-January 3, 2017); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: KS
     congress_id: M000934
@@ -875,7 +875,7 @@
     biography: 'Bill Cassidy, a Senator and a Representative from Louisiana; born in Highland Park, Lake County, Ill., September 28, 1957; B.S., Louisiana State University, Baton Rouge, La., 1979; M.D., Louisiana State University Medical School, New Orleans, La., 1983; physician; member of the Louisiana state senate, 2006-2008; elected as a Republican to the One Hundred Eleventh and to the two succeeding Congresses (January 3, 2009-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.'
 -
     state: LA
-    congress_id: null
+    congress_id: K000393
     party: republican
     status: active
     majority_leader: false
@@ -897,7 +897,7 @@
     twitter_url: 'https://twitter.com/johnkennedyla'
     facebook_url: 'https://www.facebook.com/johnkennedylouisiana'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/john-kennedy.jpg'
-    biography: null
+    biography: 'John Kennedy, a Senator from Louisiana; born in Centreville, Miss., November 21, 1951; B.A., Vanderbilt University, 1973; J.D., University of Virginia School of Law, 1977; B.C.L., Oxford University, Oxford, England, 1979; lawyer; special counsel to Louisiana Governor Buddy Roemer; secretary to Governor Roemer''s Cabinet; Secretary of the state Department of Revenue in the Cabinet of Louisiana Governor Mike Foster 1996-1999; Louisiana state Treasurer 1999-2016; elected as a Republican to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: MA
     congress_id: W000817
@@ -975,7 +975,7 @@
     biography: 'Benjamin Cardin, a Senator and a Representative from Maryland; born in Baltimore, Md., October 5, 1943; attended public schools; graduated from Baltimore City College, Baltimore, Md., 1961; B.A., University of Pittsburgh, Pittsburgh, Pa., 1964; J.D., University of Maryland, Baltimore, Md., 1967; lawyer, private practice; member of the Maryland state house of delegates, 1966-1986, speaker, 1979-1986; elected as a Democrat to the One Hundredth and to the nine succeeding Congresses (January 3, 1987-January 3, 2007); one of the managers appointed by the House of Representatives in 1989 to conduct the impeachment proceedings against Walter L. Nixon, judge of the United States District Court for the District Court of Mississippi; not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019.'
 -
     state: MD
-    congress_id: null
+    congress_id: V000128
     party: democrat
     status: active
     majority_leader: false
@@ -997,7 +997,7 @@
     twitter_url: 'https://twitter.com/chrisvanhollen'
     facebook_url: 'https://www.facebook.com/vanhollenformd'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/chris-van-hollen.jpg'
-    biography: null
+    biography: 'Christopher Van Hollen, a Senator and a Representative from Maryland; born in Karachi, Pakistan, January 10, 1959; B.A., Swarthmore College, Swarthmore, Pa., 1982; M.P.P., Harvard University, Cambridge, Mass., 1985; J.D., Georgetown University, Washington, D.C., 1990; lawyer, private practice; member of the Maryland state house of representatives, 1990-1994; member of the Maryland state senate, 1994-2002; elected as a Democrat to the One Hundred Eighth and to the six succeeding Congresses (January 3, 2003-January 3, 2017); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: ME
     congress_id: K000383
@@ -1475,7 +1475,7 @@
     biography: 'Jeanne Shaheen, a Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State Senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.'
 -
     state: NH
-    congress_id: null
+    congress_id: H001076
     party: democrat
     status: active
     majority_leader: false
@@ -1497,7 +1497,7 @@
     twitter_url: 'https://twitter.com/maggie_hassan'
     facebook_url: 'https://www.facebook.com/maggiefornh'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/maggie-hassan.jpg'
-    biography: null
+    biography: 'Maggie Hassan, a Senator from New Hampshire; born in Boston, Mass., February 27, 1958; B.A., Brown University, 1980; J.D., Northeastern University School of Law, 1985; lawyer; member of the New Hampshire Advisory Committee to the Adequacy in Education and Finance Commission; member of the New Hampshire state Senate 2005-2010, serving as majority leader 2008-2010; governor of New Hampshire 2013-2016; elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: NJ
     congress_id: M000639
@@ -1625,7 +1625,7 @@
     biography: 'Dean Heller, a Senator and a Representative from Nevada; born in Castro Valley, Alameda County, Calif., May 10, 1960; graduated from Carson High School, Carson City, Nev.; B.S., University of Southern California, Los Angeles, Calif., 1985; member of the Nevada state assembly 1990-1994; Nevada secretary of state 1995-2007; elected as a Republican to the One Hundred Tenth and to the two succeeding Congresses, and served from January 3, 2007, to May 9, 2011, when he resigned to become a U.S. Senator; appointed May 3, 2011, to the United States Senate for the term ending January 3, 2013, to fill the vacancy caused by the resignation of John E. Ensign; took the oath of office on May 9, 2011; subsequently elected in 2012 for the term ending January 3, 2019.'
 -
     state: NV
-    congress_id: null
+    congress_id: C001113
     party: democrat
     status: active
     majority_leader: false
@@ -1647,7 +1647,7 @@
     twitter_url: 'https://twitter.com/catherinefornv'
     facebook_url: 'https://www.facebook.com/catherinecortezmasto'
     photo_url: 'https://cdn.civil.services/senate/headshots/512x512/catherine-cortez-masto.jpg'
-    biography: null
+    biography: 'Catherine Cortez Masto, a Senator from Nevada; born in Las Vegas, Nev., March 29, 1964; B.A., University of Nevada, 1986; J.D., Gonzaga University School of Law, 1990; admitted to the Nevada bar in 1990; assistant county manager, Clark County, Nev.; chief of staff to Nevada Governor Bob Miller; federal prosecutor; attorney general of Nevada 2007-2015; executive vice chancellor for the Nevada System of Higher Education; elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.'
 -
     state: NY
     congress_id: S000148
