@@ -14,6 +14,7 @@ We have also built an interactive search tool that can show you some interesting
 
 ## [★ Search US Senators ⧁](https://civilserviceusa.github.io/us-senate/)
 
+
 Senator Headshots
 ---
 
@@ -29,18 +30,18 @@ You can either copy the `headshots` folder into your project, or we also offer a
 
 If you are using the image `headshots/512x512/bernard-sanders.jpg` the CDN for that file would be `https://cdn.civil.services/senate/headshots/512x512/bernard-sanders.jpg`
 
+
 Senator Data
 ---
 
 This project offers data for the 115th United States Senate in the following formats:
 
 * [CSV](data/senate.csv)
-* [GeoJSON](data/senate.geojson)
 * [JSON](data/senate.json)
-* [SQL](data/senate.sql)
-* [XLSX](data/senate.xlsx)
+* [SQL](data/senate.sql) & [SQL Table](data/senate.table.sql) 
 * [XML](data/senate.xml)
 * [YML](data/senate.yml)
+
 
 Data Set
 ---
@@ -50,7 +51,11 @@ The following information is available for each US Senator.
 property          | type    | description
 ------------------|---------|------------
 `state`           | string  | State City Council belongs to
-`congress_id`     | string  | Unique Congress ID from Congress.gov
+`bioguide`        | string  | The alphanumeric ID for this legislator on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
+`thomas`          | string  | The numeric ID for this legislator ( not really used anymore )
+`govtrack`        | string  | The numeric ID for this legislator on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )
+`opensecrets`     | string  | The alphanumeric ID for this legislator on OpenSecrets.org ( https://www.opensecrets.org/politicians/summary.php?cid=N00030245 )
+`votesmart`       | string  | The numeric ID for this legislator on VoteSmart.org ( http://votesmart.org/candidate/69494 )
 `party`           | enum    | Party of City Council Representative `['democrat','republican','independent']`
 `status`          | enum    | Status of Senator `['active','inactive']`
 `majority_leader` | boolean | Senator is Majority Leader of Party
@@ -61,6 +66,7 @@ property          | type    | description
 `gender`          | enum    | Gender of Senator `['female','male']`
 `ethnicity`       | enum    | Ethnicity of Senator `['african-american','asian-american','hispanic-american','white']`
 `name`            | string  | Name of City Council Representative
+`slug`            | string  | Name converted to Slug ( lower case & dashes only )
 `date_of_birth`   | date    | Senator's Date of Birth
 `entered_office`  | date    | Date Senator First Entered Office
 `term_end`        | date    | Date Senator's Tern Ends
@@ -73,3 +79,15 @@ property          | type    | description
 `facebook_url`    | string  | Facebook URL
 `photo_url`       | string  | Photo URL
 `biography`       | string  | Senator's Biography from Congress.gov
+
+
+Developers
+---
+
+The main data file is `data/senate.json` and is the only one you need to make changes too.  Once changes are made
+you can automatically gernate the CSV, SQL, XML & YML files automagically by running the following in a terminal window:
+
+```bash
+npm install
+npm run convert
+```
