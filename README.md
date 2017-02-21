@@ -60,11 +60,11 @@ Senator Data
 
 This project offers data for the 115th United States Senate in the following formats:
 
-* [CSV](us-senate/data/senate.csv)
-* [JSON](us-senate/data/senate.json)
-* [SQL](us-senate/data/senate.sql) & [SQL Table](us-senate/data/us-senate.table.sql) 
-* [XML](us-senate/data/senate.xml)
-* [YML](us-senate/data/senate.yml)
+* [CSV](us-senate/data/us-senate.csv)
+* [JSON](us-senate/data/us-senate.json)
+* [SQL](us-senate/data/us-senate.sql) & [SQL Table](us-senate/data/us-senate.table.sql) 
+* [XML](us-senate/data/us-senate.xml)
+* [YML](us-senate/data/us-senate.yml)
 
 Provided Data
 ---
