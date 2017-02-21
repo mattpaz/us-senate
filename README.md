@@ -35,7 +35,6 @@ We have completed the following Data Collection for this set of data. [Watch Pro
 - [X] US House Data Created
 - [X] Representative Headshots Created
 - [X] Images Uploaded to CDN
-- [X] GeoJSON File Created
 - [X] Published NPM Package
 
 

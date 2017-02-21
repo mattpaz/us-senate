@@ -1,7 +1,7 @@
 {
   "name": "civil-services-us-senate",
   "version": "1.1.1",
-  "description": "115th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( GeoJSON. JSON, XML, CSV, SQL, XLSX  & YML formats )",
+  "description": "115th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
     "Civil Services",
@@ -13,7 +13,6 @@
     "government",
     "data",
     "json",
-    "geojson",
     "csv",
     "yml",
     "sql",
@@ -77,10 +76,9 @@
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "if ( test -e ./source/us-senate.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/us-senate.csv ( see ./source/README.md )\n'; fi",
-    "build-geojson": "node ./.scripts/create-geojson.js",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-senate/data/us-senate.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-senate/data/us-senate.csv\n'; fi",
-    "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && npm run -s build-geojson && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
+    "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
     "bluebird": "^3.4.7",
