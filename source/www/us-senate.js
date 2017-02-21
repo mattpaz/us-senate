@@ -422,6 +422,9 @@ function doSearch(){
 
   $('.senators').addClass('enabled');
   $('#loading').fadeOut();
+
+  clearTimeout(lazyInterval);
+  lazyInterval = setTimeout(LazyLoad.lazyLoadImages, 250);
 }
 
 function updateRepresentatives () {
@@ -1108,6 +1111,9 @@ function updateRepresentatives () {
 
   $('.senators').addClass('enabled');
   $('#loading').fadeOut();
+
+  clearTimeout(lazyInterval);
+  lazyInterval = setTimeout(LazyLoad.lazyLoadImages, 250);
 }
 
 window.addEventListener('keydown', function (e) {
