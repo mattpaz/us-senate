@@ -1,4 +1,4 @@
-![Civil Services Logo](https://raw.githubusercontent.com/CivilServiceUSA/api/master/docs/img/logo.png "Civil Services Logo")
+![Civil Services Logo](https://cdn.civil.services/common/github-logo.png "Civil Services Logo")
 
 __Civil Services__ is a collection of tools that make it possible for citizens to be apart of what is happening in their Local, State & Federal Governments.
 
@@ -13,6 +13,12 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 We have also built an interactive search tool that can show you some interesting demographic data on US Senators.
 
 ## [★ Search US Senators ⧁](https://civilserviceusa.github.io/us-senate/)
+
+
+Data Source
+---
+
+Our team Manages the [115th Congress United States Senate Demographic Data](http://bit.ly/115th-congress-us-senate) on Google Sheets.  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn now.
 
 
 Senator Headshots
@@ -36,11 +42,11 @@ Senator Data
 
 This project offers data for the 115th United States Senate in the following formats:
 
-* [CSV](data/senate.csv)
-* [JSON](data/senate.json)
-* [SQL](data/senate.sql) & [SQL Table](data/senate.table.sql) 
-* [XML](data/senate.xml)
-* [YML](data/senate.yml)
+* [CSV](us-senate/data/senate.csv)
+* [JSON](us-senate/data/senate.json)
+* [SQL](us-senate/data/senate.sql) & [SQL Table](us-senate/data/us-senate.table.sql) 
+* [XML](us-senate/data/senate.xml)
+* [YML](us-senate/data/senate.yml)
 
 
 Data Set
