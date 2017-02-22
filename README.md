@@ -79,9 +79,7 @@ Parameter               | Type   | Description
 `state_state_name_slug` | string | Name of State converted to lowercase letters and spaces replaced with dashes
 `state_code`            | string | Two Letter State Abbreviation
 `state_code_slug`       | string | Two Letter State Abbreviation in lowercase letters
-`district`              | mixed  | N/A For Senators, left in for Elected Officials Consistency
-`at_large`              | enum   | Senator is considered At-Large
-`vacant`                | enum   | Whether Seat is Vacant
+`class`                 | enum   | Senate to be divided into three classes for purposes of elections `['I','II','III']`
 `bioguide`              | string | The alphanumeric ID for this Senator on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
 `thomas`                | string | The numeric ID for this Senator ( not really used anymore )
 `govtrack`              | string | The numeric ID for this Senator on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )

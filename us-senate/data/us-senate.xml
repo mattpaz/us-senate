@@ -5,9 +5,7 @@
         <state_name_slug>alaska</state_name_slug>
         <state_code>AK</state_code>
         <state_code_slug>ak</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>S001198</bioguide>
         <thomas>2290</thomas>
         <govtrack>412665</govtrack>
@@ -23,8 +21,8 @@
         <name_slug>daniel-sullivan</name_slug>
         <first_name>Daniel</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Daniel</name_suffix>
+        <last_name>Sullivan</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Dan</goes_by>
         <pronunciation>DAN SUHL-ih-vuhn</pronunciation>
         <gender>male</gender>
@@ -61,9 +59,7 @@
         <state_name_slug>alaska</state_name_slug>
         <state_code>AK</state_code>
         <state_code_slug>ak</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>M001153</bioguide>
         <thomas>1694</thomas>
         <govtrack>300075</govtrack>
@@ -79,8 +75,8 @@
         <name_slug>lisa-murkowski</name_slug>
         <first_name>Lisa</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Lisa</name_suffix>
+        <last_name>Murkowski</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>LEE-suh mer-COW-skee</pronunciation>
         <gender>female</gender>
@@ -117,9 +113,7 @@
         <state_name_slug>alabama</state_name_slug>
         <state_code>AL</state_code>
         <state_code_slug>al</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>S001141</bioguide>
         <thomas>1548</thomas>
         <govtrack>300088</govtrack>
@@ -135,8 +129,8 @@
         <name_slug>jeff-sessions</name_slug>
         <first_name>Jeff</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jeff</name_suffix>
+        <last_name>Sessions</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JEFF SESH-uhnz</pronunciation>
         <gender>male</gender>
@@ -173,9 +167,7 @@
         <state_name_slug>alabama</state_name_slug>
         <state_code>AL</state_code>
         <state_code_slug>al</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>S000320</bioguide>
         <thomas>1049</thomas>
         <govtrack>300089</govtrack>
@@ -191,8 +183,8 @@
         <name_slug>richard-shelby</name_slug>
         <first_name>Richard </first_name>
         <middle_name>C.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Richard </name_suffix>
+        <last_name>Shelby</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RICH-erd SHELL-bee</pronunciation>
         <gender>male</gender>
@@ -229,9 +221,7 @@
         <state_name_slug>arkansas</state_name_slug>
         <state_code>AR</state_code>
         <state_code_slug>ar</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>B001236</bioguide>
         <thomas>1687</thomas>
         <govtrack>400040</govtrack>
@@ -247,8 +237,8 @@
         <name_slug>john-boozman</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Boozman</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN BOHZ-muhn</pronunciation>
         <gender>male</gender>
@@ -285,9 +275,7 @@
         <state_name_slug>arkansas</state_name_slug>
         <state_code>AR</state_code>
         <state_code_slug>ar</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001095</bioguide>
         <thomas>2098</thomas>
         <govtrack>412508</govtrack>
@@ -303,8 +291,8 @@
         <name_slug>tom-cotton</name_slug>
         <first_name>Tom</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tom</name_suffix>
+        <last_name>Cotton</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAHM KAH-tn</pronunciation>
         <gender>male</gender>
@@ -341,9 +329,7 @@
         <state_name_slug>arizona</state_name_slug>
         <state_code>AZ</state_code>
         <state_code_slug>az</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>F000444</bioguide>
         <thomas>1633</thomas>
         <govtrack>400134</govtrack>
@@ -359,8 +345,8 @@
         <name_slug>jeff-flake</name_slug>
         <first_name>Jeff</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jeff</name_suffix>
+        <last_name>Flake</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JEFF FLAYK</pronunciation>
         <gender>male</gender>
@@ -397,9 +383,7 @@
         <state_name_slug>arizona</state_name_slug>
         <state_code>AZ</state_code>
         <state_code_slug>az</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>M000303</bioguide>
         <thomas>754</thomas>
         <govtrack>300071</govtrack>
@@ -415,8 +399,8 @@
         <name_slug>john-mccain</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>McCain</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN muh-KAYN</pronunciation>
         <gender>male</gender>
@@ -453,9 +437,7 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>F000062</bioguide>
         <thomas>1332</thomas>
         <govtrack>300043</govtrack>
@@ -471,8 +453,8 @@
         <name_slug>dianne-feinstein</name_slug>
         <first_name>Dianne</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Dianne</name_suffix>
+        <last_name>Feinstein</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>DIE-ann FINE-stine</pronunciation>
         <gender>female</gender>
@@ -509,9 +491,7 @@
         <state_name_slug>california</state_name_slug>
         <state_code>CA</state_code>
         <state_code_slug>ca</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>H001075</bioguide>
         <thomas>null</thomas>
         <govtrack>412678</govtrack>
@@ -527,8 +507,8 @@
         <name_slug>kamala-harris</name_slug>
         <first_name>Kamala</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Kamala</name_suffix>
+        <last_name>Harris</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KAH-muh-luh HAIR-iss</pronunciation>
         <gender>female</gender>
@@ -565,9 +545,7 @@
         <state_name_slug>colorado</state_name_slug>
         <state_code>CO</state_code>
         <state_code_slug>co</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>G000562</bioguide>
         <thomas>1998</thomas>
         <govtrack>412406</govtrack>
@@ -583,8 +561,8 @@
         <name_slug>cory-gardner</name_slug>
         <first_name>Cory</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Cory</name_suffix>
+        <last_name>Gardner</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>CORE-ee GAHRD-ner</pronunciation>
         <gender>male</gender>
@@ -621,9 +599,7 @@
         <state_name_slug>colorado</state_name_slug>
         <state_code>CO</state_code>
         <state_code_slug>co</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>B001267</bioguide>
         <thomas>1965</thomas>
         <govtrack>412330</govtrack>
@@ -639,8 +615,8 @@
         <name_slug>michael-bennet</name_slug>
         <first_name>Michael </first_name>
         <middle_name>F.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Michael </name_suffix>
+        <last_name>Bennet</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MAHY-kuhl BEN-ett</pronunciation>
         <gender>male</gender>
@@ -677,9 +653,7 @@
         <state_name_slug>connecticut</state_name_slug>
         <state_code>CT</state_code>
         <state_code_slug>ct</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>M001169</bioguide>
         <thomas>1837</thomas>
         <govtrack>412194</govtrack>
@@ -695,8 +669,8 @@
         <name_slug>christopher-murphy</name_slug>
         <first_name>Christopher</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Christopher</name_suffix>
+        <last_name>Murphy</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Chris</goes_by>
         <pronunciation>KRISS MER-fee</pronunciation>
         <gender>male</gender>
@@ -733,9 +707,7 @@
         <state_name_slug>connecticut</state_name_slug>
         <state_code>CT</state_code>
         <state_code_slug>ct</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>B001277</bioguide>
         <thomas>2076</thomas>
         <govtrack>412490</govtrack>
@@ -751,8 +723,8 @@
         <name_slug>richard-blumenthal</name_slug>
         <first_name>Richard</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Richard</name_suffix>
+        <last_name>Blumenthal</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Dick</goes_by>
         <pronunciation>DICK BLOO-mun-thawl</pronunciation>
         <gender>male</gender>
@@ -789,9 +761,7 @@
         <state_name_slug>delaware</state_name_slug>
         <state_code>DE</state_code>
         <state_code_slug>de</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001088</bioguide>
         <thomas>1984</thomas>
         <govtrack>412390</govtrack>
@@ -807,8 +777,8 @@
         <name_slug>christopher-coons</name_slug>
         <first_name>Christopher</first_name>
         <middle_name>A.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Christopher</name_suffix>
+        <last_name>Coons</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Chris</goes_by>
         <pronunciation>KRISS KOONZ</pronunciation>
         <gender>male</gender>
@@ -845,9 +815,7 @@
         <state_name_slug>delaware</state_name_slug>
         <state_code>DE</state_code>
         <state_code_slug>de</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C000174</bioguide>
         <thomas>179</thomas>
         <govtrack>300019</govtrack>
@@ -863,8 +831,8 @@
         <name_slug>thomas-carper</name_slug>
         <first_name>Thomas</first_name>
         <middle_name>R.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Thomas</name_suffix>
+        <last_name>Carper</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Tom</goes_by>
         <pronunciation>TAHM KAR-per</pronunciation>
         <gender>male</gender>
@@ -901,9 +869,7 @@
         <state_name_slug>florida</state_name_slug>
         <state_code>FL</state_code>
         <state_code_slug>fl</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>N000032</bioguide>
         <thomas>859</thomas>
         <govtrack>300078</govtrack>
@@ -919,8 +885,8 @@
         <name_slug>bill-nelson</name_slug>
         <first_name>Bill</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Bill</name_suffix>
+        <last_name>Nelson</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BILL NELL-suhn</pronunciation>
         <gender>male</gender>
@@ -957,9 +923,7 @@
         <state_name_slug>florida</state_name_slug>
         <state_code>FL</state_code>
         <state_code_slug>fl</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>R000595</bioguide>
         <thomas>2084</thomas>
         <govtrack>412491</govtrack>
@@ -975,8 +939,8 @@
         <name_slug>marco-rubio</name_slug>
         <first_name>Marco</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Marco</name_suffix>
+        <last_name>Rubio</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MAR-koh ROO-bee-oh</pronunciation>
         <gender>male</gender>
@@ -1013,9 +977,7 @@
         <state_name_slug>georgia</state_name_slug>
         <state_code>GA</state_code>
         <state_code_slug>ga</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>P000612</bioguide>
         <thomas>2286</thomas>
         <govtrack>412666</govtrack>
@@ -1031,8 +993,8 @@
         <name_slug>david-perdue</name_slug>
         <first_name>David</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>David</name_suffix>
+        <last_name>Perdue</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>DAY-vid pur-DOO</pronunciation>
         <gender>male</gender>
@@ -1069,9 +1031,7 @@
         <state_name_slug>georgia</state_name_slug>
         <state_code>GA</state_code>
         <state_code_slug>ga</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>I000055</bioguide>
         <thomas>1608</thomas>
         <govtrack>400194</govtrack>
@@ -1087,8 +1047,8 @@
         <name_slug>johnny-isakson</name_slug>
         <first_name>Johnny</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Johnny</name_suffix>
+        <last_name>Isakson</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAH-nee AHY-zick-suhn</pronunciation>
         <gender>male</gender>
@@ -1125,9 +1085,7 @@
         <state_name_slug>hawaii</state_name_slug>
         <state_code>HI</state_code>
         <state_code_slug>hi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>S001194</bioguide>
         <thomas>2173</thomas>
         <govtrack>412507</govtrack>
@@ -1143,8 +1101,8 @@
         <name_slug>brian-shcatz</name_slug>
         <first_name>Brian</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Brian</name_suffix>
+        <last_name>Shcatz</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BRAHY-uhn SHAHTS [Rhymes with shots, not cats]</pronunciation>
         <gender>male</gender>
@@ -1181,9 +1139,7 @@
         <state_name_slug>hawaii</state_name_slug>
         <state_code>HI</state_code>
         <state_code_slug>hi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>H001042</bioguide>
         <thomas>1844</thomas>
         <govtrack>412200</govtrack>
@@ -1199,8 +1155,8 @@
         <name_slug>mazie-hirono</name_slug>
         <first_name>Mazie</first_name>
         <middle_name>K.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mazie</name_suffix>
+        <last_name>Hirono</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MAY-zee hear-OH-noh [O's unrounded]</pronunciation>
         <gender>female</gender>
@@ -1237,9 +1193,7 @@
         <state_name_slug>iowa</state_name_slug>
         <state_code>IA</state_code>
         <state_code_slug>ia</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>G000386</bioguide>
         <thomas>457</thomas>
         <govtrack>300048</govtrack>
@@ -1255,8 +1209,8 @@
         <name_slug>charles-grassley</name_slug>
         <first_name>Charles</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Charles</name_suffix>
+        <last_name>Grassley</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Chuck</goes_by>
         <pronunciation>CHUHK GRASS-lee</pronunciation>
         <gender>male</gender>
@@ -1293,9 +1247,7 @@
         <state_name_slug>iowa</state_name_slug>
         <state_code>IA</state_code>
         <state_code_slug>ia</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>E000295</bioguide>
         <thomas>2283</thomas>
         <govtrack>412667</govtrack>
@@ -1311,8 +1263,8 @@
         <name_slug>joni-ernst</name_slug>
         <first_name>Joni</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Joni</name_suffix>
+        <last_name>Ernst</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JOH-nee URNST</pronunciation>
         <gender>female</gender>
@@ -1349,9 +1301,7 @@
         <state_name_slug>idaho</state_name_slug>
         <state_code>ID</state_code>
         <state_code_slug>id</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>R000584</bioguide>
         <thomas>1896</thomas>
         <govtrack>412322</govtrack>
@@ -1367,8 +1317,8 @@
         <name_slug>james-risch</name_slug>
         <first_name>James</first_name>
         <middle_name>E.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>James</name_suffix>
+        <last_name>Risch</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Jim</goes_by>
         <pronunciation>JIM RESH [Rhymes with mesh]</pronunciation>
         <gender>male</gender>
@@ -1405,9 +1355,7 @@
         <state_name_slug>idaho</state_name_slug>
         <state_code>ID</state_code>
         <state_code_slug>id</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>C000880</bioguide>
         <thomas>250</thomas>
         <govtrack>300030</govtrack>
@@ -1423,8 +1371,8 @@
         <name_slug>mike-crapo</name_slug>
         <first_name>Mike</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mike</name_suffix>
+        <last_name>Crapo</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MIKE CRAY-poh</pronunciation>
         <gender>male</gender>
@@ -1461,9 +1409,7 @@
         <state_name_slug>illinois</state_name_slug>
         <state_code>IL</state_code>
         <state_code_slug>il</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>D000563</bioguide>
         <thomas>326</thomas>
         <govtrack>300038</govtrack>
@@ -1479,8 +1425,8 @@
         <name_slug>richard-durbin</name_slug>
         <first_name>Richard</first_name>
         <middle_name>J.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Richard</name_suffix>
+        <last_name>Durbin</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Dick</goes_by>
         <pronunciation>DICK DER-buhn</pronunciation>
         <gender>male</gender>
@@ -1517,9 +1463,7 @@
         <state_name_slug>illinois</state_name_slug>
         <state_code>IL</state_code>
         <state_code_slug>il</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>D000622</bioguide>
         <thomas>2123</thomas>
         <govtrack>412533</govtrack>
@@ -1535,8 +1479,8 @@
         <name_slug>tammy-duckworth</name_slug>
         <first_name>Tammy</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tammy</name_suffix>
+        <last_name>Duckworth</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAM-ee DUCK-werth</pronunciation>
         <gender>female</gender>
@@ -1573,9 +1517,7 @@
         <state_name_slug>indiana</state_name_slug>
         <state_code>IN</state_code>
         <state_code_slug>in</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>D000607</bioguide>
         <thomas>1850</thomas>
         <govtrack>412205</govtrack>
@@ -1591,8 +1533,8 @@
         <name_slug>joe-donnelly</name_slug>
         <first_name>Joe</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Joe</name_suffix>
+        <last_name>Donnelly</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JOH DAH-nuh-lee</pronunciation>
         <gender>male</gender>
@@ -1629,9 +1571,7 @@
         <state_name_slug>indiana</state_name_slug>
         <state_code>IN</state_code>
         <state_code_slug>in</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>Y000064</bioguide>
         <thomas>2019</thomas>
         <govtrack>412428</govtrack>
@@ -1647,8 +1587,8 @@
         <name_slug>todd-young</name_slug>
         <first_name>Todd</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Todd</name_suffix>
+        <last_name>Young</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAHD YUHNG</pronunciation>
         <gender>male</gender>
@@ -1685,9 +1625,7 @@
         <state_name_slug>kansas</state_name_slug>
         <state_code>KS</state_code>
         <state_code_slug>ks</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>M000934</bioguide>
         <thomas>1507</thomas>
         <govtrack>400284</govtrack>
@@ -1703,8 +1641,8 @@
         <name_slug>jerry-moran</name_slug>
         <first_name>Jerry</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jerry</name_suffix>
+        <last_name>Moran</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAIR-ee more-ANN</pronunciation>
         <gender>male</gender>
@@ -1741,9 +1679,7 @@
         <state_name_slug>kansas</state_name_slug>
         <state_code>KS</state_code>
         <state_code_slug>ks</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>R000307</bioguide>
         <thomas>968</thomas>
         <govtrack>300083</govtrack>
@@ -1759,8 +1695,8 @@
         <name_slug>pat-roberts</name_slug>
         <first_name>Pat</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Pat</name_suffix>
+        <last_name>Roberts</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>PATT RAH-berts</pronunciation>
         <gender>male</gender>
@@ -1797,9 +1733,7 @@
         <state_name_slug>kentucky</state_name_slug>
         <state_code>KY</state_code>
         <state_code_slug>ky</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>M000355</bioguide>
         <thomas>1395</thomas>
         <govtrack>300072</govtrack>
@@ -1815,8 +1749,8 @@
         <name_slug>mitch-mcconnell</name_slug>
         <first_name>Mitch</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mitch</name_suffix>
+        <last_name>McConnell</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MITCH muh-KAH-nuhl</pronunciation>
         <gender>male</gender>
@@ -1853,9 +1787,7 @@
         <state_name_slug>kentucky</state_name_slug>
         <state_code>KY</state_code>
         <state_code_slug>ky</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>P000603</bioguide>
         <thomas>2082</thomas>
         <govtrack>412492</govtrack>
@@ -1871,8 +1803,8 @@
         <name_slug>rand-paul</name_slug>
         <first_name>Rand</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Rand</name_suffix>
+        <last_name>Paul</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RANND PAWL</pronunciation>
         <gender>male</gender>
@@ -1909,9 +1841,7 @@
         <state_name_slug>louisiana</state_name_slug>
         <state_code>LA</state_code>
         <state_code_slug>la</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001075</bioguide>
         <thomas>1925</thomas>
         <govtrack>412269</govtrack>
@@ -1927,8 +1857,8 @@
         <name_slug>bill-cassidy</name_slug>
         <first_name>Bill</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Bill</name_suffix>
+        <last_name>Cassidy</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BILL CASS-ih-dee</pronunciation>
         <gender>male</gender>
@@ -1965,9 +1895,7 @@
         <state_name_slug>louisiana</state_name_slug>
         <state_code>LA</state_code>
         <state_code_slug>la</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>K000393</bioguide>
         <thomas>null</thomas>
         <govtrack>412679</govtrack>
@@ -1983,8 +1911,8 @@
         <name_slug>john-kennedy</name_slug>
         <first_name>John</first_name>
         <middle_name>Neely</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Kennedy</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN KEN-uh-dee</pronunciation>
         <gender>male</gender>
@@ -2021,9 +1949,7 @@
         <state_name_slug>massachusetts</state_name_slug>
         <state_code>MA</state_code>
         <state_code_slug>ma</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>M000133</bioguide>
         <thomas>735</thomas>
         <govtrack>400253</govtrack>
@@ -2039,8 +1965,8 @@
         <name_slug>edward-markey</name_slug>
         <first_name>Edward</first_name>
         <middle_name>J.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Edward</name_suffix>
+        <last_name>Markey</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Ed</goes_by>
         <pronunciation>ED MAR-kee</pronunciation>
         <gender>male</gender>
@@ -2077,9 +2003,7 @@
         <state_name_slug>massachusetts</state_name_slug>
         <state_code>MA</state_code>
         <state_code_slug>ma</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>W000817</bioguide>
         <thomas>2182</thomas>
         <govtrack>412542</govtrack>
@@ -2095,8 +2019,8 @@
         <name_slug>elizabeth-warren</name_slug>
         <first_name>Elizabeth</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Elizabeth</name_suffix>
+        <last_name>Warren</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>uh-LIZ-uh-bith WAR-en</pronunciation>
         <gender>female</gender>
@@ -2133,9 +2057,7 @@
         <state_name_slug>maryland</state_name_slug>
         <state_code>MD</state_code>
         <state_code_slug>md</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C000141</bioguide>
         <thomas>174</thomas>
         <govtrack>400064</govtrack>
@@ -2151,8 +2073,8 @@
         <name_slug>benjamin-cardin</name_slug>
         <first_name>Benjamin</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Benjamin</name_suffix>
+        <last_name>Cardin</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Ben</goes_by>
         <pronunciation>BEHN KAHR-dn</pronunciation>
         <gender>male</gender>
@@ -2189,9 +2111,7 @@
         <state_name_slug>maryland</state_name_slug>
         <state_code>MD</state_code>
         <state_code_slug>md</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>V000128</bioguide>
         <thomas>1729</thomas>
         <govtrack>400415</govtrack>
@@ -2207,8 +2127,8 @@
         <name_slug>chris-van-hollen</name_slug>
         <first_name>Chris</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Chris</name_suffix>
+        <last_name>Van Hollen</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KRISS vann HAH-lenn</pronunciation>
         <gender>male</gender>
@@ -2245,9 +2165,7 @@
         <state_name_slug>maine</state_name_slug>
         <state_code>ME</state_code>
         <state_code_slug>me</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>K000383</bioguide>
         <thomas>2185</thomas>
         <govtrack>412545</govtrack>
@@ -2263,8 +2181,8 @@
         <name_slug>angus-king</name_slug>
         <first_name>Angus</first_name>
         <middle_name>S.</middle_name>
-        <last_name>Jr.</last_name>
-        <name_suffix>Angus</name_suffix>
+        <last_name>King</last_name>
+        <name_suffix>Jr.</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>AYN-guhs KEENG</pronunciation>
         <gender>male</gender>
@@ -2301,9 +2219,7 @@
         <state_name_slug>maine</state_name_slug>
         <state_code>ME</state_code>
         <state_code_slug>me</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001035</bioguide>
         <thomas>1541</thomas>
         <govtrack>300025</govtrack>
@@ -2319,8 +2235,8 @@
         <name_slug>susan-collins</name_slug>
         <first_name>Susan</first_name>
         <middle_name>M.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Susan</name_suffix>
+        <last_name>Collins</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>SOO-zuhn KAH-lunz</pronunciation>
         <gender>female</gender>
@@ -2357,9 +2273,7 @@
         <state_name_slug>michigan</state_name_slug>
         <state_code>MI</state_code>
         <state_code_slug>mi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>S000770</bioguide>
         <thomas>1531</thomas>
         <govtrack>300093</govtrack>
@@ -2375,8 +2289,8 @@
         <name_slug>debbie-stabenow</name_slug>
         <first_name>Debbie</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Debbie</name_suffix>
+        <last_name>Stabenow</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>DEH-bee STAB-en-oh</pronunciation>
         <gender>female</gender>
@@ -2413,9 +2327,7 @@
         <state_name_slug>michigan</state_name_slug>
         <state_code>MI</state_code>
         <state_code_slug>mi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>P000595</bioguide>
         <thomas>1929</thomas>
         <govtrack>412305</govtrack>
@@ -2431,8 +2343,8 @@
         <name_slug>gary-peters</name_slug>
         <first_name>Gary</first_name>
         <middle_name>C.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Gary</name_suffix>
+        <last_name>Peters</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>GAIR-ee PEE-terz</pronunciation>
         <gender>male</gender>
@@ -2469,9 +2381,7 @@
         <state_name_slug>minnesota</state_name_slug>
         <state_code>MN</state_code>
         <state_code_slug>mn</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>F000457</bioguide>
         <thomas>1969</thomas>
         <govtrack>412378</govtrack>
@@ -2487,8 +2397,8 @@
         <name_slug>al-franken</name_slug>
         <first_name>Al</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Al</name_suffix>
+        <last_name>Franken</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>AL FRAYNK-uhn</pronunciation>
         <gender>male</gender>
@@ -2525,9 +2435,7 @@
         <state_name_slug>minnesota</state_name_slug>
         <state_code>MN</state_code>
         <state_code_slug>mn</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>K000367</bioguide>
         <thomas>1826</thomas>
         <govtrack>412242</govtrack>
@@ -2543,8 +2451,8 @@
         <name_slug>amy-klobuchar</name_slug>
         <first_name>Amy</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Amy</name_suffix>
+        <last_name>Klobuchar</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>AY-mee KLOH-buh-shar</pronunciation>
         <gender>female</gender>
@@ -2581,9 +2489,7 @@
         <state_name_slug>missouri</state_name_slug>
         <state_code>MO</state_code>
         <state_code_slug>mo</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>M001170</bioguide>
         <thomas>1820</thomas>
         <govtrack>412243</govtrack>
@@ -2599,8 +2505,8 @@
         <name_slug>claire-mccaskill</name_slug>
         <first_name>Claire</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Claire</name_suffix>
+        <last_name>McCaskill</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KLAIR muh-KASS-kuhl</pronunciation>
         <gender>female</gender>
@@ -2637,9 +2543,7 @@
         <state_name_slug>missouri</state_name_slug>
         <state_code>MO</state_code>
         <state_code_slug>mo</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>B000575</bioguide>
         <thomas>1464</thomas>
         <govtrack>400034</govtrack>
@@ -2655,8 +2559,8 @@
         <name_slug>roy-blunt</name_slug>
         <first_name>Roy</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Roy</name_suffix>
+        <last_name>Blunt</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>ROY BLUHNT</pronunciation>
         <gender>male</gender>
@@ -2693,9 +2597,7 @@
         <state_name_slug>mississippi</state_name_slug>
         <state_code>MS</state_code>
         <state_code_slug>ms</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>W000437</bioguide>
         <thomas>1226</thomas>
         <govtrack>400432</govtrack>
@@ -2711,8 +2613,8 @@
         <name_slug>roger-wicker</name_slug>
         <first_name>Roger</first_name>
         <middle_name>F.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Roger</name_suffix>
+        <last_name>Wicker</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RAH-jer WIK-er</pronunciation>
         <gender>male</gender>
@@ -2749,9 +2651,7 @@
         <state_name_slug>mississippi</state_name_slug>
         <state_code>MS</state_code>
         <state_code_slug>ms</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C000567</bioguide>
         <thomas>213</thomas>
         <govtrack>300023</govtrack>
@@ -2767,8 +2667,8 @@
         <name_slug>thad-cochran</name_slug>
         <first_name>Thad</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Thad</name_suffix>
+        <last_name>Cochran</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>THADD KAHK-rin</pronunciation>
         <gender>male</gender>
@@ -2805,9 +2705,7 @@
         <state_name_slug>montana</state_name_slug>
         <state_code>MT</state_code>
         <state_code_slug>mt</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>T000464</bioguide>
         <thomas>1829</thomas>
         <govtrack>412244</govtrack>
@@ -2823,8 +2721,8 @@
         <name_slug>jon-tester</name_slug>
         <first_name>Jon</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jon</name_suffix>
+        <last_name>Tester</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN TEH-ster</pronunciation>
         <gender>male</gender>
@@ -2861,9 +2759,7 @@
         <state_name_slug>montana</state_name_slug>
         <state_code>MT</state_code>
         <state_code_slug>mt</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>D000618</bioguide>
         <thomas>2138</thomas>
         <govtrack>412549</govtrack>
@@ -2879,8 +2775,8 @@
         <name_slug>steve-daines</name_slug>
         <first_name>Steve</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Steve</name_suffix>
+        <last_name>Daines</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>STEEV DAYNZ</pronunciation>
         <gender>male</gender>
@@ -2917,9 +2813,7 @@
         <state_name_slug>north-carolina</state_name_slug>
         <state_code>NC</state_code>
         <state_code_slug>nc</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>B001135</bioguide>
         <thomas>153</thomas>
         <govtrack>400054</govtrack>
@@ -2935,8 +2829,8 @@
         <name_slug>richard-burr</name_slug>
         <first_name>Richard</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Richard</name_suffix>
+        <last_name>Burr</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RICH-erd BUR</pronunciation>
         <gender>male</gender>
@@ -2973,9 +2867,7 @@
         <state_name_slug>north-carolina</state_name_slug>
         <state_code>NC</state_code>
         <state_code_slug>nc</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>T000476</bioguide>
         <thomas>2291</thomas>
         <govtrack>412668</govtrack>
@@ -2991,8 +2883,8 @@
         <name_slug>thom-tillis</name_slug>
         <first_name>Thom</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Thom</name_suffix>
+        <last_name>Tillis</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAHM TIL-iss</pronunciation>
         <gender>male</gender>
@@ -3029,9 +2921,7 @@
         <state_name_slug>north-dakota</state_name_slug>
         <state_code>ND</state_code>
         <state_code_slug>nd</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>H001069</bioguide>
         <thomas>2174</thomas>
         <govtrack>412554</govtrack>
@@ -3047,8 +2937,8 @@
         <name_slug>heidi-heitkamp</name_slug>
         <first_name>Heidi</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Heidi</name_suffix>
+        <last_name>Heitkamp</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>HIGH-dee HEIGHT-kamp</pronunciation>
         <gender>female</gender>
@@ -3085,9 +2975,7 @@
         <state_name_slug>north-dakota</state_name_slug>
         <state_code>ND</state_code>
         <state_code_slug>nd</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>H001061</bioguide>
         <thomas>2079</thomas>
         <govtrack>412494</govtrack>
@@ -3103,8 +2991,8 @@
         <name_slug>john-hoeven</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Hoeven</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN HOH-vuhn</pronunciation>
         <gender>male</gender>
@@ -3141,9 +3029,7 @@
         <state_name_slug>nebraska</state_name_slug>
         <state_code>NE</state_code>
         <state_code_slug>ne</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>S001197</bioguide>
         <thomas>2289</thomas>
         <govtrack>412671</govtrack>
@@ -3159,8 +3045,8 @@
         <name_slug>ben-sasse</name_slug>
         <first_name>Ben</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Ben</name_suffix>
+        <last_name>Sasse</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BEN SASS</pronunciation>
         <gender>male</gender>
@@ -3197,9 +3083,7 @@
         <state_name_slug>nebraska</state_name_slug>
         <state_code>NE</state_code>
         <state_code_slug>ne</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>F000463</bioguide>
         <thomas>2179</thomas>
         <govtrack>412556</govtrack>
@@ -3215,8 +3099,8 @@
         <name_slug>deb-fischer</name_slug>
         <first_name>Deb</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Deb</name_suffix>
+        <last_name>Fischer</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>DEBB FISH-er</pronunciation>
         <gender>female</gender>
@@ -3253,9 +3137,7 @@
         <state_name_slug>new-hampshire</state_name_slug>
         <state_code>NH</state_code>
         <state_code_slug>nh</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>S001181</bioguide>
         <thomas>1901</thomas>
         <govtrack>412323</govtrack>
@@ -3271,8 +3153,8 @@
         <name_slug>jeanne-shaheen</name_slug>
         <first_name>Jeanne</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jeanne</name_suffix>
+        <last_name>Shaheen</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JEEN shuh-HEEN</pronunciation>
         <gender>female</gender>
@@ -3309,9 +3191,7 @@
         <state_name_slug>new-hampshire</state_name_slug>
         <state_code>NH</state_code>
         <state_code_slug>nh</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>H001076</bioguide>
         <thomas>null</thomas>
         <govtrack>412680</govtrack>
@@ -3327,8 +3207,8 @@
         <name_slug>margaret-hassan</name_slug>
         <first_name>Margaret</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Margaret</name_suffix>
+        <last_name>Hassan</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Maggie</goes_by>
         <pronunciation>MAG-ee HASS-uhn</pronunciation>
         <gender>female</gender>
@@ -3365,9 +3245,7 @@
         <state_name_slug>new-jersey</state_name_slug>
         <state_code>NJ</state_code>
         <state_code_slug>nj</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>B001288</bioguide>
         <thomas>2194</thomas>
         <govtrack>412598</govtrack>
@@ -3383,8 +3261,8 @@
         <name_slug>cory-booker</name_slug>
         <first_name>Cory</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Cory</name_suffix>
+        <last_name>Booker</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KOR-ee BOOK-er</pronunciation>
         <gender>male</gender>
@@ -3421,9 +3299,7 @@
         <state_name_slug>new-jersey</state_name_slug>
         <state_code>NJ</state_code>
         <state_code_slug>nj</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>M000639</bioguide>
         <thomas>791</thomas>
         <govtrack>400272</govtrack>
@@ -3439,8 +3315,8 @@
         <name_slug>robert-menendez</name_slug>
         <first_name>Robert</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Robert</name_suffix>
+        <last_name>Menendez</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BAHB men-EN-dez</pronunciation>
         <gender>male</gender>
@@ -3477,9 +3353,7 @@
         <state_name_slug>new-mexico</state_name_slug>
         <state_code>NM</state_code>
         <state_code_slug>nm</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>H001046</bioguide>
         <thomas>1937</thomas>
         <govtrack>412281</govtrack>
@@ -3495,8 +3369,8 @@
         <name_slug>martin-heinrich</name_slug>
         <first_name>Martin</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Martin</name_suffix>
+        <last_name>Heinrich</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MAR-tn HINE-rehk</pronunciation>
         <gender>male</gender>
@@ -3533,9 +3407,7 @@
         <state_name_slug>new-mexico</state_name_slug>
         <state_code>NM</state_code>
         <state_code_slug>nm</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>U000039</bioguide>
         <thomas>1567</thomas>
         <govtrack>400413</govtrack>
@@ -3551,8 +3423,8 @@
         <name_slug>tom-udall</name_slug>
         <first_name>Tom</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tom</name_suffix>
+        <last_name>Udall</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAHM YOO-dawl</pronunciation>
         <gender>male</gender>
@@ -3589,9 +3461,7 @@
         <state_name_slug>nevada</state_name_slug>
         <state_code>NV</state_code>
         <state_code_slug>nv</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>C001113</bioguide>
         <thomas>null</thomas>
         <govtrack>412681</govtrack>
@@ -3607,8 +3477,8 @@
         <name_slug>catherine-masto</name_slug>
         <first_name>Catherine</first_name>
         <middle_name>Cortez</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Catherine</name_suffix>
+        <last_name>Masto</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KATH-rin KOR-tez MASS-toh</pronunciation>
         <gender>female</gender>
@@ -3645,9 +3515,7 @@
         <state_name_slug>nevada</state_name_slug>
         <state_code>NV</state_code>
         <state_code_slug>nv</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>H001041</bioguide>
         <thomas>1863</thomas>
         <govtrack>412218</govtrack>
@@ -3663,8 +3531,8 @@
         <name_slug>dean-heller</name_slug>
         <first_name>Dean</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Dean</name_suffix>
+        <last_name>Heller</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>DEEN HELL-er</pronunciation>
         <gender>male</gender>
@@ -3701,9 +3569,7 @@
         <state_name_slug>new-york</state_name_slug>
         <state_code>NY</state_code>
         <state_code_slug>ny</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>S000148</bioguide>
         <thomas>1036</thomas>
         <govtrack>300087</govtrack>
@@ -3719,8 +3585,8 @@
         <name_slug>charles-schumer</name_slug>
         <first_name>Charles</first_name>
         <middle_name>E.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Charles</name_suffix>
+        <last_name>Schumer</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Chuck</goes_by>
         <pronunciation>CHUHK SHOO-mer</pronunciation>
         <gender>male</gender>
@@ -3757,9 +3623,7 @@
         <state_name_slug>new-york</state_name_slug>
         <state_code>NY</state_code>
         <state_code_slug>ny</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>G000555</bioguide>
         <thomas>1866</thomas>
         <govtrack>412223</govtrack>
@@ -3775,8 +3639,8 @@
         <name_slug>kirsten-gillibrand</name_slug>
         <first_name>Kirsten</first_name>
         <middle_name>E.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Kirsten</name_suffix>
+        <last_name>Gillibrand</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>KEER-stin JILL-uh-brand</pronunciation>
         <gender>female</gender>
@@ -3813,9 +3677,7 @@
         <state_name_slug>ohio</state_name_slug>
         <state_code>OH</state_code>
         <state_code_slug>oh</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>P000449</bioguide>
         <thomas>924</thomas>
         <govtrack>400325</govtrack>
@@ -3831,8 +3693,8 @@
         <name_slug>rob-portman</name_slug>
         <first_name>Rob</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Rob</name_suffix>
+        <last_name>Portman</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RAHB PORT-min</pronunciation>
         <gender>male</gender>
@@ -3869,9 +3731,7 @@
         <state_name_slug>ohio</state_name_slug>
         <state_code>OH</state_code>
         <state_code_slug>oh</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>B000944</bioguide>
         <thomas>136</thomas>
         <govtrack>400050</govtrack>
@@ -3887,8 +3747,8 @@
         <name_slug>sherrod-brown</name_slug>
         <first_name>Sherrod</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Sherrod</name_suffix>
+        <last_name>Brown</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>SHAIR-uhd BROWN</pronunciation>
         <gender>male</gender>
@@ -3925,9 +3785,7 @@
         <state_name_slug>oklahoma</state_name_slug>
         <state_code>OK</state_code>
         <state_code_slug>ok</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>I000024</bioguide>
         <thomas>583</thomas>
         <govtrack>300055</govtrack>
@@ -3943,8 +3801,8 @@
         <name_slug>james-inhofe</name_slug>
         <first_name>James</first_name>
         <middle_name>M.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>James</name_suffix>
+        <last_name>Inhofe</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Jim</goes_by>
         <pronunciation>JIM IN-hawf</pronunciation>
         <gender>male</gender>
@@ -3981,9 +3839,7 @@
         <state_name_slug>oklahoma</state_name_slug>
         <state_code>OK</state_code>
         <state_code_slug>ok</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>L000575</bioguide>
         <thomas>2050</thomas>
         <govtrack>412464</govtrack>
@@ -3999,8 +3855,8 @@
         <name_slug>james-lankford</name_slug>
         <first_name>James</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>James</name_suffix>
+        <last_name>Lankford</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAYMZ LAYNK-ferd</pronunciation>
         <gender>male</gender>
@@ -4037,9 +3893,7 @@
         <state_name_slug>oregon</state_name_slug>
         <state_code>OR</state_code>
         <state_code_slug>or</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>M001176</bioguide>
         <thomas>1900</thomas>
         <govtrack>412325</govtrack>
@@ -4055,8 +3909,8 @@
         <name_slug>jeff-merkley</name_slug>
         <first_name>Jeff</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jeff</name_suffix>
+        <last_name>Merkley</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JEFF MER-klee</pronunciation>
         <gender>male</gender>
@@ -4093,9 +3947,7 @@
         <state_name_slug>oregon</state_name_slug>
         <state_code>OR</state_code>
         <state_code_slug>or</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>W000779</bioguide>
         <thomas>1247</thomas>
         <govtrack>300100</govtrack>
@@ -4111,8 +3963,8 @@
         <name_slug>ron-wyden</name_slug>
         <first_name>Ron</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Ron</name_suffix>
+        <last_name>Wyden</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RAHN WAHY-dn</pronunciation>
         <gender>male</gender>
@@ -4149,9 +4001,7 @@
         <state_name_slug>pennsylvania</state_name_slug>
         <state_code>PA</state_code>
         <state_code_slug>pa</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>T000461</bioguide>
         <thomas>2085</thomas>
         <govtrack>400408</govtrack>
@@ -4167,8 +4017,8 @@
         <name_slug>patrick-tommey</name_slug>
         <first_name>Patrick</first_name>
         <middle_name>J.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Patrick</name_suffix>
+        <last_name>Tommey</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Pat</goes_by>
         <pronunciation>PATT TOO-mee</pronunciation>
         <gender>male</gender>
@@ -4205,9 +4055,7 @@
         <state_name_slug>pennsylvania</state_name_slug>
         <state_code>PA</state_code>
         <state_code_slug>pa</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C001070</bioguide>
         <thomas>1828</thomas>
         <govtrack>412246</govtrack>
@@ -4223,8 +4071,8 @@
         <name_slug>robert-casey</name_slug>
         <first_name>Robert</first_name>
         <middle_name>P.</middle_name>
-        <last_name>Jr.</last_name>
-        <name_suffix>Robert</name_suffix>
+        <last_name>Casey</last_name>
+        <name_suffix>Jr.</name_suffix>
         <goes_by>Rob</goes_by>
         <pronunciation>BAHB KAY-see</pronunciation>
         <gender>male</gender>
@@ -4261,9 +4109,7 @@
         <state_name_slug>rhode-island</state_name_slug>
         <state_code>RI</state_code>
         <state_code_slug>ri</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>R000122</bioguide>
         <thomas>949</thomas>
         <govtrack>300081</govtrack>
@@ -4279,8 +4125,8 @@
         <name_slug>jack-reed</name_slug>
         <first_name>Jack</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Jack</name_suffix>
+        <last_name>Reed</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JACK REED</pronunciation>
         <gender>male</gender>
@@ -4317,9 +4163,7 @@
         <state_name_slug>rhode-island</state_name_slug>
         <state_code>RI</state_code>
         <state_code_slug>ri</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>W000802</bioguide>
         <thomas>1823</thomas>
         <govtrack>412247</govtrack>
@@ -4335,8 +4179,8 @@
         <name_slug>sheldon-whitehouse</name_slug>
         <first_name>Sheldon</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Sheldon</name_suffix>
+        <last_name>Whitehouse</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>SHELL-duhn WHITE-house</pronunciation>
         <gender>male</gender>
@@ -4373,9 +4217,7 @@
         <state_name_slug>south-carolina</state_name_slug>
         <state_code>SC</state_code>
         <state_code_slug>sc</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>G000359</bioguide>
         <thomas>452</thomas>
         <govtrack>300047</govtrack>
@@ -4391,8 +4233,8 @@
         <name_slug>lindsey-graham</name_slug>
         <first_name>Lindsey</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Lindsey</name_suffix>
+        <last_name>Graham</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>LIN-zee GRAM</pronunciation>
         <gender>male</gender>
@@ -4429,9 +4271,7 @@
         <state_name_slug>south-carolina</state_name_slug>
         <state_code>SC</state_code>
         <state_code_slug>sc</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>S001184</bioguide>
         <thomas>2056</thomas>
         <govtrack>412471</govtrack>
@@ -4447,8 +4287,8 @@
         <name_slug>tim-scott</name_slug>
         <first_name>Tim</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tim</name_suffix>
+        <last_name>Scott</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TIMM SKAHT</pronunciation>
         <gender>male</gender>
@@ -4485,9 +4325,7 @@
         <state_name_slug>south-dakota</state_name_slug>
         <state_code>SD</state_code>
         <state_code_slug>sd</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>T000250</bioguide>
         <thomas>1534</thomas>
         <govtrack>400546</govtrack>
@@ -4503,8 +4341,8 @@
         <name_slug>john-thune</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Thune</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN THOON</pronunciation>
         <gender>male</gender>
@@ -4541,9 +4379,7 @@
         <state_name_slug>south-dakota</state_name_slug>
         <state_code>SD</state_code>
         <state_code_slug>sd</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>R000605</bioguide>
         <thomas>2288</thomas>
         <govtrack>412669</govtrack>
@@ -4559,8 +4395,8 @@
         <name_slug>mike-rounds</name_slug>
         <first_name>Mike</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mike</name_suffix>
+        <last_name>Rounds</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MIKE ROWNDZ</pronunciation>
         <gender>male</gender>
@@ -4597,9 +4433,7 @@
         <state_name_slug>tennessee</state_name_slug>
         <state_code>TN</state_code>
         <state_code_slug>tn</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C001071</bioguide>
         <thomas>1825</thomas>
         <govtrack>412248</govtrack>
@@ -4615,8 +4449,8 @@
         <name_slug>bob-corker</name_slug>
         <first_name>Bob</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Bob</name_suffix>
+        <last_name>Corker</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>BAHB KORK-er</pronunciation>
         <gender>male</gender>
@@ -4653,9 +4487,7 @@
         <state_name_slug>tennessee</state_name_slug>
         <state_code>TN</state_code>
         <state_code_slug>tn</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>A000360</bioguide>
         <thomas>1695</thomas>
         <govtrack>300002</govtrack>
@@ -4671,8 +4503,8 @@
         <name_slug>lamar-alexander</name_slug>
         <first_name>Lamar</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Lamar</name_suffix>
+        <last_name>Alexander</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>luh-MAR al-egg-ZAN-der</pronunciation>
         <gender>male</gender>
@@ -4709,9 +4541,7 @@
         <state_name_slug>texas</state_name_slug>
         <state_code>TX</state_code>
         <state_code_slug>tx</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001056</bioguide>
         <thomas>1692</thomas>
         <govtrack>300027</govtrack>
@@ -4727,8 +4557,8 @@
         <name_slug>john-cornyn</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Cornyn</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN KOR-nuhn</pronunciation>
         <gender>male</gender>
@@ -4765,9 +4595,7 @@
         <state_name_slug>texas</state_name_slug>
         <state_code>TX</state_code>
         <state_code_slug>tx</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C001098</bioguide>
         <thomas>2175</thomas>
         <govtrack>412573</govtrack>
@@ -4783,8 +4611,8 @@
         <name_slug>ted-cruz</name_slug>
         <first_name>Ted</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Ted</name_suffix>
+        <last_name>Cruz</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TED KROOZ</pronunciation>
         <gender>male</gender>
@@ -4821,9 +4649,7 @@
         <state_name_slug>utah</state_name_slug>
         <state_code>UT</state_code>
         <state_code_slug>ut</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>L000577</bioguide>
         <thomas>2080</thomas>
         <govtrack>412495</govtrack>
@@ -4839,8 +4665,8 @@
         <name_slug>mike-lee</name_slug>
         <first_name>Mike</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mike</name_suffix>
+        <last_name>Lee</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MIKE LEE</pronunciation>
         <gender>male</gender>
@@ -4877,9 +4703,7 @@
         <state_name_slug>utah</state_name_slug>
         <state_code>UT</state_code>
         <state_code_slug>ut</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>H000338</bioguide>
         <thomas>1351</thomas>
         <govtrack>300052</govtrack>
@@ -4895,8 +4719,8 @@
         <name_slug>orrin-hatch</name_slug>
         <first_name>Orrin</first_name>
         <middle_name>G.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Orrin</name_suffix>
+        <last_name>Hatch</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>OR-uhn HATCH</pronunciation>
         <gender>male</gender>
@@ -4933,9 +4757,7 @@
         <state_name_slug>virginia</state_name_slug>
         <state_code>VA</state_code>
         <state_code_slug>va</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>W000805</bioguide>
         <thomas>1897</thomas>
         <govtrack>412321</govtrack>
@@ -4951,8 +4773,8 @@
         <name_slug>mark-warner</name_slug>
         <first_name>Mark</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Mark</name_suffix>
+        <last_name>Warner</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>MARK WAR-ner</pronunciation>
         <gender>male</gender>
@@ -4989,9 +4811,7 @@
         <state_name_slug>virginia</state_name_slug>
         <state_code>VA</state_code>
         <state_code_slug>va</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>K000384</bioguide>
         <thomas>2176</thomas>
         <govtrack>412582</govtrack>
@@ -5007,8 +4827,8 @@
         <name_slug>tim-kaine</name_slug>
         <first_name>Tim</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tim</name_suffix>
+        <last_name>Kaine</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TIM KANE</pronunciation>
         <gender>male</gender>
@@ -5045,9 +4865,7 @@
         <state_name_slug>vermont</state_name_slug>
         <state_code>VT</state_code>
         <state_code_slug>vt</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>S000033</bioguide>
         <thomas>1010</thomas>
         <govtrack>400357</govtrack>
@@ -5063,8 +4881,8 @@
         <name_slug>bernard-sanders</name_slug>
         <first_name>Bernard</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Bernard</name_suffix>
+        <last_name>Sanders</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Bernie</goes_by>
         <pronunciation>BER-nee SAN-durz</pronunciation>
         <gender>male</gender>
@@ -5101,9 +4919,7 @@
         <state_name_slug>vermont</state_name_slug>
         <state_code>VT</state_code>
         <state_code_slug>vt</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>L000174</bioguide>
         <thomas>1383</thomas>
         <govtrack>300065</govtrack>
@@ -5119,8 +4935,8 @@
         <name_slug>patrick-leahy</name_slug>
         <first_name>Patrick</first_name>
         <middle_name>J.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Patrick</name_suffix>
+        <last_name>Leahy</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>PAT-truck LAY-hee</pronunciation>
         <gender>male</gender>
@@ -5157,9 +4973,7 @@
         <state_name_slug>washington</state_name_slug>
         <state_code>WA</state_code>
         <state_code_slug>wa</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>C000127</bioguide>
         <thomas>172</thomas>
         <govtrack>300018</govtrack>
@@ -5175,8 +4989,8 @@
         <name_slug>maria-cantwell</name_slug>
         <first_name>Maria</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Maria</name_suffix>
+        <last_name>Cantwell</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>muh-REE-uh KANT-well</pronunciation>
         <gender>female</gender>
@@ -5213,9 +5027,7 @@
         <state_name_slug>washington</state_name_slug>
         <state_code>WA</state_code>
         <state_code_slug>wa</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>M001111</bioguide>
         <thomas>1409</thomas>
         <govtrack>300076</govtrack>
@@ -5231,8 +5043,8 @@
         <name_slug>patty-murray</name_slug>
         <first_name>Patty</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Patty</name_suffix>
+        <last_name>Murray</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>PATT-ee MER-ee</pronunciation>
         <gender>female</gender>
@@ -5269,9 +5081,7 @@
         <state_name_slug>wisconsin</state_name_slug>
         <state_code>WI</state_code>
         <state_code_slug>wi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>III</class>
         <bioguide>J000293</bioguide>
         <thomas>2086</thomas>
         <govtrack>412496</govtrack>
@@ -5287,8 +5097,8 @@
         <name_slug>ron-johnson</name_slug>
         <first_name>Ron</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Ron</name_suffix>
+        <last_name>Johnson</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>RAHN JAHN-suhn</pronunciation>
         <gender>male</gender>
@@ -5325,9 +5135,7 @@
         <state_name_slug>wisconsin</state_name_slug>
         <state_code>WI</state_code>
         <state_code_slug>wi</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>B001230</bioguide>
         <thomas>1558</thomas>
         <govtrack>400013</govtrack>
@@ -5343,8 +5151,8 @@
         <name_slug>tammy-baldwin</name_slug>
         <first_name>Tammy</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Tammy</name_suffix>
+        <last_name>Baldwin</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>TAMM-ee BAWLD-wuhn</pronunciation>
         <gender>female</gender>
@@ -5381,9 +5189,7 @@
         <state_name_slug>west-virginia</state_name_slug>
         <state_code>WV</state_code>
         <state_code_slug>wv</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>M001183</bioguide>
         <thomas>1983</thomas>
         <govtrack>412391</govtrack>
@@ -5399,8 +5205,8 @@
         <name_slug>joe-manchin</name_slug>
         <first_name>Joe</first_name>
         <middle_name>null</middle_name>
-        <last_name>III</last_name>
-        <name_suffix>Joe</name_suffix>
+        <last_name>Manchin</last_name>
+        <name_suffix>III</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JOH MAN-chuhn</pronunciation>
         <gender>male</gender>
@@ -5437,9 +5243,7 @@
         <state_name_slug>west-virginia</state_name_slug>
         <state_code>WV</state_code>
         <state_code_slug>wv</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>C001047</bioguide>
         <thomas>1676</thomas>
         <govtrack>400061</govtrack>
@@ -5455,8 +5259,8 @@
         <name_slug>shelley-capito</name_slug>
         <first_name>Shelley</first_name>
         <middle_name>Moore</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Shelley</name_suffix>
+        <last_name>Capito</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>SHELL-ee MORE CAP-it-oh</pronunciation>
         <gender>female</gender>
@@ -5493,9 +5297,7 @@
         <state_name_slug>wyoming</state_name_slug>
         <state_code>WY</state_code>
         <state_code_slug>wy</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>I</class>
         <bioguide>B001261</bioguide>
         <thomas>1881</thomas>
         <govtrack>412251</govtrack>
@@ -5511,8 +5313,8 @@
         <name_slug>john-barrasso</name_slug>
         <first_name>John</first_name>
         <middle_name>null</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>John</name_suffix>
+        <last_name>Barrasso</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
         <pronunciation>JAHN buh-RASS-oh</pronunciation>
         <gender>male</gender>
@@ -5549,9 +5351,7 @@
         <state_name_slug>wyoming</state_name_slug>
         <state_code>WY</state_code>
         <state_code_slug>wy</state_code_slug>
-        <district>null</district>
-        <at_large>null</at_large>
-        <vacant>null</vacant>
+        <class>II</class>
         <bioguide>E000285</bioguide>
         <thomas>1542</thomas>
         <govtrack>300041</govtrack>
@@ -5567,8 +5367,8 @@
         <name_slug>michael-enzi</name_slug>
         <first_name>Michael</first_name>
         <middle_name>B.</middle_name>
-        <last_name>null</last_name>
-        <name_suffix>Michael</name_suffix>
+        <last_name>Enzi</last_name>
+        <name_suffix>null</name_suffix>
         <goes_by>Mike</goes_by>
         <pronunciation>MIKE EN-zee</pronunciation>
         <gender>male</gender>

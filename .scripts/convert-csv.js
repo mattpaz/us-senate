@@ -104,15 +104,12 @@ if (fs.existsSync(core)) {
           slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }) + '.jpg';
 
         var parsedAddress = data.address.split(',');
-
         var convertedData = {
           state_name: data.state,
           state_name_slug: slug(data.state, { lower: true, replacement: '-' }),
           state_code: data.state_code,
           state_code_slug: slug(data.state_code, { lower: true, replacement: '-' }),
-          district: (data.district && data.district !== '' && data.district !== '0' && data.district !== 0) ? data.district : null,
-          at_large: (data.at_large && data.at_large === 'yes'),
-          vacant: (data.vacant && data.vacant === 'yes'),
+          class: data.class,
           bioguide: data.bioguide,
           thomas: data.thomas,
           govtrack: data.govtrack,
@@ -128,8 +125,8 @@ if (fs.existsSync(core)) {
           name_slug: slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }),
           first_name: data.first_name,
           middle_name: data.middle_name,
-          last_name: data.name_suffix,
-          name_suffix: data.first_name,
+          last_name: data.last_name,
+          name_suffix: data.name_suffix,
           goes_by: data.goes_by,
           pronunciation: data.pronunciation,
           gender: data.gender,
