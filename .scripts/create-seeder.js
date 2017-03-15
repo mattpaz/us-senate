@@ -20,6 +20,7 @@ function createSeeder() {
   "};\n";
 
   seeder = seeder.replace(/"new Date\(\)"/g, 'new Date()');
+  seeder = seeder.replace(/"([a-z_]+)":/g, '$1:');
 
   fs.writeFile(seeder_file, seeder);
 }
