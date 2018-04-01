@@ -8,3 +8,4 @@ syntax: glob
 Thumbs.db
 .idea
 *.log
+node_modules
