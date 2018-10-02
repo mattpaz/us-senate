@@ -1,5 +1,5 @@
 ---
-  - 
+  -
     state_name: "Alaska"
     state_name_slug: "alaska"
     state_code: "AK"
@@ -52,7 +52,7 @@
     twitter_handle: "SenDanSullivan"
     twitter_url: "https://twitter.com/SenDanSullivan"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/daniel-sullivan.jpg"
-  - 
+  -
     state_name: "Alaska"
     state_name_slug: "alaska"
     state_code: "AK"
@@ -105,7 +105,7 @@
     twitter_handle: "lisamurkowski"
     twitter_url: "https://twitter.com/lisamurkowski"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/lisa-murkowski.jpg"
-  - 
+  -
     state_name: "Alabama"
     state_name_slug: "alabama"
     state_code: "AL"
@@ -158,7 +158,7 @@
     twitter_handle: "sendougjones"
     twitter_url: "https://twitter.com/sendougjones"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/gordon-jones.jpg"
-  - 
+  -
     state_name: "Alabama"
     state_name_slug: "alabama"
     state_code: "AL"
@@ -211,7 +211,7 @@
     twitter_handle: "SenShelby"
     twitter_url: "https://twitter.com/SenShelby"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-shelby.jpg"
-  - 
+  -
     state_name: "Arkansas"
     state_name_slug: "arkansas"
     state_code: "AR"
@@ -264,7 +264,7 @@
     twitter_handle: "JohnBoozman"
     twitter_url: "https://twitter.com/JohnBoozman"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-boozman.jpg"
-  - 
+  -
     state_name: "Arkansas"
     state_name_slug: "arkansas"
     state_code: "AR"
@@ -317,7 +317,7 @@
     twitter_handle: "sentomcotton"
     twitter_url: "https://twitter.com/sentomcotton"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tom-cotton.jpg"
-  - 
+  -
     state_name: "Arizona"
     state_name_slug: "arizona"
     state_code: "AZ"
@@ -344,7 +344,7 @@
     pronunciation: "JEFF FLAYK"
     gender: "male"
     ethnicity: "white-american"
-    religion: "baptist"
+    religion: "mormon"
     openley_lgbtq: "no"
     date_of_birth: "1962-12-31"
     entered_office: "2013-01-03"
@@ -370,7 +370,7 @@
     twitter_handle: "SenJeffFlake"
     twitter_url: "https://twitter.com/SenJeffFlake"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeff-flake.jpg"
-  - 
+  -
     state_name: "Arizona"
     state_name_slug: "arizona"
     state_code: "AZ"
@@ -397,7 +397,7 @@
     pronunciation: "JAHN muh-KAYN"
     gender: "male"
     ethnicity: "white-american"
-    religion: "mormon"
+    religion: "episcopalian"
     openley_lgbtq: "no"
     date_of_birth: "1936-08-29"
     entered_office: "1987-01-03"
@@ -423,7 +423,7 @@
     twitter_handle: "SenJohnMcCain"
     twitter_url: "https://twitter.com/SenJohnMcCain"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-mccain.jpg"
-  - 
+  -
     state_name: "California"
     state_name_slug: "california"
     state_code: "CA"
@@ -476,7 +476,7 @@
     twitter_handle: "SenFeinstein"
     twitter_url: "https://twitter.com/SenFeinstein"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/dianne-feinstein.jpg"
-  - 
+  -
     state_name: "California"
     state_name_slug: "california"
     state_code: "CA"
@@ -529,7 +529,7 @@
     twitter_handle: "KamalaHarris"
     twitter_url: "https://twitter.com/KamalaHarris"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/kamala-harris.jpg"
-  - 
+  -
     state_name: "Colorado"
     state_name_slug: "colorado"
     state_code: "CO"
@@ -582,7 +582,7 @@
     twitter_handle: "sencorygardner"
     twitter_url: "https://twitter.com/sencorygardner"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cory-gardner.jpg"
-  - 
+  -
     state_name: "Colorado"
     state_name_slug: "colorado"
     state_code: "CO"
@@ -635,7 +635,7 @@
     twitter_handle: "SenBennetCO"
     twitter_url: "https://twitter.com/SenBennetCO"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/michael-bennet.jpg"
-  - 
+  -
     state_name: "Connecticut"
     state_name_slug: "connecticut"
     state_code: "CT"
@@ -688,7 +688,7 @@
     twitter_handle: "ChrisMurphyCT"
     twitter_url: "https://twitter.com/ChrisMurphyCT"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-murphy.jpg"
-  - 
+  -
     state_name: "Connecticut"
     state_name_slug: "connecticut"
     state_code: "CT"
@@ -741,7 +741,7 @@
     twitter_handle: "SenBlumenthal"
     twitter_url: "https://twitter.com/SenBlumenthal"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-blumenthal.jpg"
-  - 
+  -
     state_name: "Delaware"
     state_name_slug: "delaware"
     state_code: "DE"
@@ -794,7 +794,7 @@
     twitter_handle: "ChrisCoons"
     twitter_url: "https://twitter.com/ChrisCoons"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-coons.jpg"
-  - 
+  -
     state_name: "Delaware"
     state_name_slug: "delaware"
     state_code: "DE"
@@ -847,7 +847,7 @@
     twitter_handle: "SenatorCarper"
     twitter_url: "https://twitter.com/SenatorCarper"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thomas-carper.jpg"
-  - 
+  -
     state_name: "Florida"
     state_name_slug: "florida"
     state_code: "FL"
@@ -900,7 +900,7 @@
     twitter_handle: "SenBillNelson"
     twitter_url: "https://twitter.com/SenBillNelson"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/bill-nelson.jpg"
-  - 
+  -
     state_name: "Florida"
     state_name_slug: "florida"
     state_code: "FL"
@@ -953,7 +953,7 @@
     twitter_handle: "marcorubio"
     twitter_url: "https://twitter.com/marcorubio"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/marco-rubio.jpg"
-  - 
+  -
     state_name: "Georgia"
     state_name_slug: "georgia"
     state_code: "GA"
@@ -1006,7 +1006,7 @@
     twitter_handle: "sendavidperdue"
     twitter_url: "https://twitter.com/sendavidperdue"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/david-perdue.jpg"
-  - 
+  -
     state_name: "Georgia"
     state_name_slug: "georgia"
     state_code: "GA"
@@ -1059,7 +1059,7 @@
     twitter_handle: "SenatorIsakson"
     twitter_url: "https://twitter.com/SenatorIsakson"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/johnny-isakson.jpg"
-  - 
+  -
     state_name: "Hawaii"
     state_name_slug: "hawaii"
     state_code: "HI"
@@ -1112,7 +1112,7 @@
     twitter_handle: "brianschatz"
     twitter_url: "https://twitter.com/brianschatz"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/brian-shcatz.jpg"
-  - 
+  -
     state_name: "Hawaii"
     state_name_slug: "hawaii"
     state_code: "HI"
@@ -1165,7 +1165,7 @@
     twitter_handle: "maziehirono"
     twitter_url: "https://twitter.com/maziehirono"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mazie-hirono.jpg"
-  - 
+  -
     state_name: "Iowa"
     state_name_slug: "iowa"
     state_code: "IA"
@@ -1218,7 +1218,7 @@
     twitter_handle: "ChuckGrassley"
     twitter_url: "https://twitter.com/ChuckGrassley"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg"
-  - 
+  -
     state_name: "Iowa"
     state_name_slug: "iowa"
     state_code: "IA"
@@ -1271,7 +1271,7 @@
     twitter_handle: "joniernst"
     twitter_url: "https://twitter.com/joniernst"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/joni-ernst.jpg"
-  - 
+  -
     state_name: "Idaho"
     state_name_slug: "idaho"
     state_code: "ID"
@@ -1324,7 +1324,7 @@
     twitter_handle: "SenatorRisch"
     twitter_url: "https://twitter.com/SenatorRisch"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg"
-  - 
+  -
     state_name: "Idaho"
     state_name_slug: "idaho"
     state_code: "ID"
@@ -1377,7 +1377,7 @@
     twitter_handle: "MikeCrapo"
     twitter_url: "https://twitter.com/MikeCrapo"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-crapo.jpg"
-  - 
+  -
     state_name: "Illinois"
     state_name_slug: "illinois"
     state_code: "IL"
@@ -1430,7 +1430,7 @@
     twitter_handle: "SenatorDurbin"
     twitter_url: "https://twitter.com/SenatorDurbin"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-durbin.jpg"
-  - 
+  -
     state_name: "Illinois"
     state_name_slug: "illinois"
     state_code: "IL"
@@ -1483,7 +1483,7 @@
     twitter_handle: "RepDuckworth"
     twitter_url: "https://twitter.com/RepDuckworth"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tammy-duckworth.jpg"
-  - 
+  -
     state_name: "Indiana"
     state_name_slug: "indiana"
     state_code: "IN"
@@ -1536,7 +1536,7 @@
     twitter_handle: "SenDonnelly"
     twitter_url: "https://twitter.com/SenDonnelly"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/joe-donnelly.jpg"
-  - 
+  -
     state_name: "Indiana"
     state_name_slug: "indiana"
     state_code: "IN"
@@ -1589,7 +1589,7 @@
     twitter_handle: "ToddYoungIN"
     twitter_url: "https://twitter.com/ToddYoungIN"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/todd-young.jpg"
-  - 
+  -
     state_name: "Kansas"
     state_name_slug: "kansas"
     state_code: "KS"
@@ -1642,7 +1642,7 @@
     twitter_handle: "JerryMoran"
     twitter_url: "https://twitter.com/JerryMoran"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jerry-moran.jpg"
-  - 
+  -
     state_name: "Kansas"
     state_name_slug: "kansas"
     state_code: "KS"
@@ -1695,7 +1695,7 @@
     twitter_handle: "SenPatRoberts"
     twitter_url: "https://twitter.com/SenPatRoberts"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/pat-roberts.jpg"
-  - 
+  -
     state_name: "Kentucky"
     state_name_slug: "kentucky"
     state_code: "KY"
@@ -1748,7 +1748,7 @@
     twitter_handle: "McConnellPress"
     twitter_url: "https://twitter.com/McConnellPress"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mitch-mcconnell.jpg"
-  - 
+  -
     state_name: "Kentucky"
     state_name_slug: "kentucky"
     state_code: "KY"
@@ -1801,7 +1801,7 @@
     twitter_handle: "RandPaul"
     twitter_url: "https://twitter.com/RandPaul"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/rand-paul.jpg"
-  - 
+  -
     state_name: "Louisiana"
     state_name_slug: "louisiana"
     state_code: "LA"
@@ -1854,7 +1854,7 @@
     twitter_handle: "SenatorCassidy"
     twitter_url: "https://twitter.com/SenatorCassidy"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/bill-cassidy.jpg"
-  - 
+  -
     state_name: "Louisiana"
     state_name_slug: "louisiana"
     state_code: "LA"
@@ -1907,7 +1907,7 @@
     twitter_handle: "JohnKennedyLA"
     twitter_url: "https://twitter.com/JohnKennedyLA"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-kennedy.jpg"
-  - 
+  -
     state_name: "Massachusetts"
     state_name_slug: "massachusetts"
     state_code: "MA"
@@ -1960,7 +1960,7 @@
     twitter_handle: "SenMarkey"
     twitter_url: "https://twitter.com/SenMarkey"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/edward-markey.jpg"
-  - 
+  -
     state_name: "Massachusetts"
     state_name_slug: "massachusetts"
     state_code: "MA"
@@ -2013,7 +2013,7 @@
     twitter_handle: "SenWarren"
     twitter_url: "https://twitter.com/SenWarren"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/elizabeth-warren.jpg"
-  - 
+  -
     state_name: "Maryland"
     state_name_slug: "maryland"
     state_code: "MD"
@@ -2066,7 +2066,7 @@
     twitter_handle: "SenatorCardin"
     twitter_url: "https://twitter.com/SenatorCardin"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/benjamin-cardin.jpg"
-  - 
+  -
     state_name: "Maryland"
     state_name_slug: "maryland"
     state_code: "MD"
@@ -2119,7 +2119,7 @@
     twitter_handle: "ChrisVanHollen"
     twitter_url: "https://twitter.com/ChrisVanHollen"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/chris-van-hollen.jpg"
-  - 
+  -
     state_name: "Maine"
     state_name_slug: "maine"
     state_code: "ME"
@@ -2172,7 +2172,7 @@
     twitter_handle: "SenAngusKing"
     twitter_url: "https://twitter.com/SenAngusKing"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/angus-king.jpg"
-  - 
+  -
     state_name: "Maine"
     state_name_slug: "maine"
     state_code: "ME"
@@ -2225,7 +2225,7 @@
     twitter_handle: "senatorcollins"
     twitter_url: "https://twitter.com/senatorcollins"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/susan-collins.jpg"
-  - 
+  -
     state_name: "Michigan"
     state_name_slug: "michigan"
     state_code: "MI"
@@ -2278,7 +2278,7 @@
     twitter_handle: "SenStabenow"
     twitter_url: "https://twitter.com/SenStabenow"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/debbie-stabenow.jpg"
-  - 
+  -
     state_name: "Michigan"
     state_name_slug: "michigan"
     state_code: "MI"
@@ -2331,7 +2331,7 @@
     twitter_handle: "SenGaryPeters"
     twitter_url: "https://twitter.com/SenGaryPeters"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/gary-peters.jpg"
-  - 
+  -
     state_name: "Minnesota"
     state_name_slug: "minnesota"
     state_code: "MN"
@@ -2384,7 +2384,7 @@
     twitter_handle: "SenTinaSmith"
     twitter_url: "https://twitter.com/SenTinaSmith"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tina-smith.jpg"
-  - 
+  -
     state_name: "Minnesota"
     state_name_slug: "minnesota"
     state_code: "MN"
@@ -2437,7 +2437,7 @@
     twitter_handle: "amyklobuchar"
     twitter_url: "https://twitter.com/amyklobuchar"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/amy-klobuchar.jpg"
-  - 
+  -
     state_name: "Missouri"
     state_name_slug: "missouri"
     state_code: "MO"
@@ -2490,7 +2490,7 @@
     twitter_handle: "McCaskillOffice"
     twitter_url: "https://twitter.com/McCaskillOffice"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/claire-mccaskill.jpg"
-  - 
+  -
     state_name: "Missouri"
     state_name_slug: "missouri"
     state_code: "MO"
@@ -2543,7 +2543,7 @@
     twitter_handle: "RoyBlunt"
     twitter_url: "https://twitter.com/RoyBlunt"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/roy-blunt.jpg"
-  - 
+  -
     state_name: "Mississippi"
     state_name_slug: "mississippi"
     state_code: "MS"
@@ -2596,7 +2596,7 @@
     twitter_handle: "SenatorWicker"
     twitter_url: "https://twitter.com/SenatorWicker"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/roger-wicker.jpg"
-  - 
+  -
     state_name: "Mississippi"
     state_name_slug: "mississippi"
     state_code: "MS"
@@ -2649,7 +2649,7 @@
     twitter_handle: "SenThadCochran"
     twitter_url: "https://twitter.com/SenThadCochran"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thad-cochran.jpg"
-  - 
+  -
     state_name: "Montana"
     state_name_slug: "montana"
     state_code: "MT"
@@ -2702,7 +2702,7 @@
     twitter_handle: "SenatorTester"
     twitter_url: "https://twitter.com/SenatorTester"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jon-tester.jpg"
-  - 
+  -
     state_name: "Montana"
     state_name_slug: "montana"
     state_code: "MT"
@@ -2755,7 +2755,7 @@
     twitter_handle: "SteveDaines"
     twitter_url: "https://twitter.com/SteveDaines"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/steve-daines.jpg"
-  - 
+  -
     state_name: "North Carolina"
     state_name_slug: "north-carolina"
     state_code: "NC"
@@ -2808,7 +2808,7 @@
     twitter_handle: "SenatorBurr"
     twitter_url: "https://twitter.com/SenatorBurr"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-burr.jpg"
-  - 
+  -
     state_name: "North Carolina"
     state_name_slug: "north-carolina"
     state_code: "NC"
@@ -2861,7 +2861,7 @@
     twitter_handle: "SenThomTillis"
     twitter_url: "https://twitter.com/SenThomTillis"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thom-tillis.jpg"
-  - 
+  -
     state_name: "North Dakota"
     state_name_slug: "north-dakota"
     state_code: "ND"
@@ -2914,7 +2914,7 @@
     twitter_handle: "SenatorHeitkamp"
     twitter_url: "https://twitter.com/SenatorHeitkamp"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/heidi-heitkamp.jpg"
-  - 
+  -
     state_name: "North Dakota"
     state_name_slug: "north-dakota"
     state_code: "ND"
@@ -2967,7 +2967,7 @@
     twitter_handle: "SenJohnHoeven"
     twitter_url: "https://twitter.com/SenJohnHoeven"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-hoeven.jpg"
-  - 
+  -
     state_name: "Nebraska"
     state_name_slug: "nebraska"
     state_code: "NE"
@@ -3020,7 +3020,7 @@
     twitter_handle: "SenSasse"
     twitter_url: "https://twitter.com/SenSasse"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ben-sasse.jpg"
-  - 
+  -
     state_name: "Nebraska"
     state_name_slug: "nebraska"
     state_code: "NE"
@@ -3073,7 +3073,7 @@
     twitter_handle: "SenatorFischer"
     twitter_url: "https://twitter.com/SenatorFischer"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/deb-fischer.jpg"
-  - 
+  -
     state_name: "New Hampshire"
     state_name_slug: "new-hampshire"
     state_code: "NH"
@@ -3126,7 +3126,7 @@
     twitter_handle: "SenatorShaheen"
     twitter_url: "https://twitter.com/SenatorShaheen"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeanne-shaheen.jpg"
-  - 
+  -
     state_name: "New Hampshire"
     state_name_slug: "new-hampshire"
     state_code: "NH"
@@ -3179,7 +3179,7 @@
     twitter_handle: "Maggie_Hassan"
     twitter_url: "https://twitter.com/Maggie_Hassan"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/margaret-hassan.jpg"
-  - 
+  -
     state_name: "New Jersey"
     state_name_slug: "new-jersey"
     state_code: "NJ"
@@ -3232,7 +3232,7 @@
     twitter_handle: "CoryBooker"
     twitter_url: "https://twitter.com/CoryBooker"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cory-booker.jpg"
-  - 
+  -
     state_name: "New Jersey"
     state_name_slug: "new-jersey"
     state_code: "NJ"
@@ -3285,7 +3285,7 @@
     twitter_handle: "SenatorMenendez"
     twitter_url: "https://twitter.com/SenatorMenendez"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/robert-menendez.jpg"
-  - 
+  -
     state_name: "New Mexico"
     state_name_slug: "new-mexico"
     state_code: "NM"
@@ -3338,7 +3338,7 @@
     twitter_handle: "MartinHeinrich"
     twitter_url: "https://twitter.com/MartinHeinrich"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/martin-heinrich.jpg"
-  - 
+  -
     state_name: "New Mexico"
     state_name_slug: "new-mexico"
     state_code: "NM"
@@ -3391,7 +3391,7 @@
     twitter_handle: "SenatorTomUdall"
     twitter_url: "https://twitter.com/SenatorTomUdall"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tom-udall.jpg"
-  - 
+  -
     state_name: "Nevada"
     state_name_slug: "nevada"
     state_code: "NV"
@@ -3444,7 +3444,7 @@
     twitter_handle: "CatherineForNV"
     twitter_url: "https://twitter.com/CatherineForNV"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/catherine-masto.jpg"
-  - 
+  -
     state_name: "Nevada"
     state_name_slug: "nevada"
     state_code: "NV"
@@ -3497,7 +3497,7 @@
     twitter_handle: "SenDeanHeller"
     twitter_url: "https://twitter.com/SenDeanHeller"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/dean-heller.jpg"
-  - 
+  -
     state_name: "New York"
     state_name_slug: "new-york"
     state_code: "NY"
@@ -3550,7 +3550,7 @@
     twitter_handle: "SenSchumer"
     twitter_url: "https://twitter.com/SenSchumer"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/charles-schumer.jpg"
-  - 
+  -
     state_name: "New York"
     state_name_slug: "new-york"
     state_code: "NY"
@@ -3603,7 +3603,7 @@
     twitter_handle: "SenGillibrand"
     twitter_url: "https://twitter.com/SenGillibrand"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/kirsten-gillibrand.jpg"
-  - 
+  -
     state_name: "Ohio"
     state_name_slug: "ohio"
     state_code: "OH"
@@ -3656,7 +3656,7 @@
     twitter_handle: "robportman"
     twitter_url: "https://twitter.com/robportman"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/rob-portman.jpg"
-  - 
+  -
     state_name: "Ohio"
     state_name_slug: "ohio"
     state_code: "OH"
@@ -3709,7 +3709,7 @@
     twitter_handle: "SenSherrodBrown"
     twitter_url: "https://twitter.com/SenSherrodBrown"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/sherrod-brown.jpg"
-  - 
+  -
     state_name: "Oklahoma"
     state_name_slug: "oklahoma"
     state_code: "OK"
@@ -3762,7 +3762,7 @@
     twitter_handle: "jiminhofe"
     twitter_url: "https://twitter.com/jiminhofe"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-inhofe.jpg"
-  - 
+  -
     state_name: "Oklahoma"
     state_name_slug: "oklahoma"
     state_code: "OK"
@@ -3815,7 +3815,7 @@
     twitter_handle: "SenatorLankford"
     twitter_url: "https://twitter.com/SenatorLankford"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-lankford.jpg"
-  - 
+  -
     state_name: "Oregon"
     state_name_slug: "oregon"
     state_code: "OR"
@@ -3868,7 +3868,7 @@
     twitter_handle: "SenJeffMerkley"
     twitter_url: "https://twitter.com/SenJeffMerkley"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeff-merkley.jpg"
-  - 
+  -
     state_name: "Oregon"
     state_name_slug: "oregon"
     state_code: "OR"
@@ -3921,7 +3921,7 @@
     twitter_handle: "RonWyden"
     twitter_url: "https://twitter.com/RonWyden"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ron-wyden.jpg"
-  - 
+  -
     state_name: "Pennsylvania"
     state_name_slug: "pennsylvania"
     state_code: "PA"
@@ -3938,11 +3938,11 @@
     google_entity_id: null
     title: "senator"
     party: "republican"
-    name: "Patrick Tommey"
-    name_slug: "patrick-tommey"
+    name: "Patrick Toomey"
+    name_slug: "patrick-toomey"
     first_name: "Patrick"
     middle_name: "J."
-    last_name: "Tommey"
+    last_name: "Toomey"
     name_suffix: null
     goes_by: "Pat"
     pronunciation: "PATT TOO-mee"
@@ -3973,8 +3973,8 @@
     facebook_url: "https://www.facebook.com/senatortoomey"
     twitter_handle: "SenToomey"
     twitter_url: "https://twitter.com/SenToomey"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patrick-tommey.jpg"
-  - 
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patrick-toomey.jpg"
+  -
     state_name: "Pennsylvania"
     state_name_slug: "pennsylvania"
     state_code: "PA"
@@ -4027,7 +4027,7 @@
     twitter_handle: "SenBobCasey"
     twitter_url: "https://twitter.com/SenBobCasey"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/robert-casey.jpg"
-  - 
+  -
     state_name: "Rhode Island"
     state_name_slug: "rhode-island"
     state_code: "RI"
@@ -4080,7 +4080,7 @@
     twitter_handle: "SenJackReed"
     twitter_url: "https://twitter.com/SenJackReed"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jack-reed.jpg"
-  - 
+  -
     state_name: "Rhode Island"
     state_name_slug: "rhode-island"
     state_code: "RI"
@@ -4133,7 +4133,7 @@
     twitter_handle: "SenWhitehouse"
     twitter_url: "https://twitter.com/SenWhitehouse"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/sheldon-whitehouse.jpg"
-  - 
+  -
     state_name: "South Carolina"
     state_name_slug: "south-carolina"
     state_code: "SC"
@@ -4186,7 +4186,7 @@
     twitter_handle: "LindseyGrahamSC"
     twitter_url: "https://twitter.com/LindseyGrahamSC"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/lindsey-graham.jpg"
-  - 
+  -
     state_name: "South Carolina"
     state_name_slug: "south-carolina"
     state_code: "SC"
@@ -4239,7 +4239,7 @@
     twitter_handle: "SenatorTimScott"
     twitter_url: "https://twitter.com/SenatorTimScott"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tim-scott.jpg"
-  - 
+  -
     state_name: "South Dakota"
     state_name_slug: "south-dakota"
     state_code: "SD"
@@ -4292,7 +4292,7 @@
     twitter_handle: "SenJohnThune"
     twitter_url: "https://twitter.com/SenJohnThune"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-thune.jpg"
-  - 
+  -
     state_name: "South Dakota"
     state_name_slug: "south-dakota"
     state_code: "SD"
@@ -4345,7 +4345,7 @@
     twitter_handle: "SenatorRounds"
     twitter_url: "https://twitter.com/SenatorRounds"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-rounds.jpg"
-  - 
+  -
     state_name: "Tennessee"
     state_name_slug: "tennessee"
     state_code: "TN"
@@ -4398,7 +4398,7 @@
     twitter_handle: "senbobcorker"
     twitter_url: "https://twitter.com/senbobcorker"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/bob-corker.jpg"
-  - 
+  -
     state_name: "Tennessee"
     state_name_slug: "tennessee"
     state_code: "TN"
@@ -4451,7 +4451,7 @@
     twitter_handle: "SenAlexander"
     twitter_url: "https://twitter.com/SenAlexander"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/lamar-alexander.jpg"
-  - 
+  -
     state_name: "Texas"
     state_name_slug: "texas"
     state_code: "TX"
@@ -4504,7 +4504,7 @@
     twitter_handle: "JohnCornyn"
     twitter_url: "https://twitter.com/JohnCornyn"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-cornyn.jpg"
-  - 
+  -
     state_name: "Texas"
     state_name_slug: "texas"
     state_code: "TX"
@@ -4557,7 +4557,7 @@
     twitter_handle: "SenTedCruz"
     twitter_url: "https://twitter.com/SenTedCruz"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ted-cruz.jpg"
-  - 
+  -
     state_name: "Utah"
     state_name_slug: "utah"
     state_code: "UT"
@@ -4610,7 +4610,7 @@
     twitter_handle: "SenMikeLee"
     twitter_url: "https://twitter.com/SenMikeLee"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-lee.jpg"
-  - 
+  -
     state_name: "Utah"
     state_name_slug: "utah"
     state_code: "UT"
@@ -4663,7 +4663,7 @@
     twitter_handle: "SenOrrinHatch"
     twitter_url: "https://twitter.com/SenOrrinHatch"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/orrin-hatch.jpg"
-  - 
+  -
     state_name: "Virginia"
     state_name_slug: "virginia"
     state_code: "VA"
@@ -4716,7 +4716,7 @@
     twitter_handle: "MarkWarner"
     twitter_url: "https://twitter.com/MarkWarner"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mark-warner.jpg"
-  - 
+  -
     state_name: "Virginia"
     state_name_slug: "virginia"
     state_code: "VA"
@@ -4769,7 +4769,7 @@
     twitter_handle: "timkaine"
     twitter_url: "https://twitter.com/timkaine"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tim-kaine.jpg"
-  - 
+  -
     state_name: "Vermont"
     state_name_slug: "vermont"
     state_code: "VT"
@@ -4822,7 +4822,7 @@
     twitter_handle: "SenSanders"
     twitter_url: "https://twitter.com/SenSanders"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/bernard-sanders.jpg"
-  - 
+  -
     state_name: "Vermont"
     state_name_slug: "vermont"
     state_code: "VT"
@@ -4875,7 +4875,7 @@
     twitter_handle: "SenatorLeahy"
     twitter_url: "https://twitter.com/SenatorLeahy"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patrick-leahy.jpg"
-  - 
+  -
     state_name: "Washington"
     state_name_slug: "washington"
     state_code: "WA"
@@ -4928,7 +4928,7 @@
     twitter_handle: "SenatorCantwell"
     twitter_url: "https://twitter.com/SenatorCantwell"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/maria-cantwell.jpg"
-  - 
+  -
     state_name: "Washington"
     state_name_slug: "washington"
     state_code: "WA"
@@ -4981,7 +4981,7 @@
     twitter_handle: "PattyMurray"
     twitter_url: "https://twitter.com/PattyMurray"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patty-murray.jpg"
-  - 
+  -
     state_name: "Wisconsin"
     state_name_slug: "wisconsin"
     state_code: "WI"
@@ -5034,7 +5034,7 @@
     twitter_handle: "SenRonJohnson"
     twitter_url: "https://twitter.com/SenRonJohnson"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ron-johnson.jpg"
-  - 
+  -
     state_name: "Wisconsin"
     state_name_slug: "wisconsin"
     state_code: "WI"
@@ -5087,7 +5087,7 @@
     twitter_handle: "tammybaldwin"
     twitter_url: "https://twitter.com/tammybaldwin"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tammy-baldwin.jpg"
-  - 
+  -
     state_name: "West Virginia"
     state_name_slug: "west-virginia"
     state_code: "WV"
@@ -5140,7 +5140,7 @@
     twitter_handle: "Sen_JoeManchin"
     twitter_url: "https://twitter.com/Sen_JoeManchin"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/joe-manchin.jpg"
-  - 
+  -
     state_name: "West Virginia"
     state_name_slug: "west-virginia"
     state_code: "WV"
@@ -5193,7 +5193,7 @@
     twitter_handle: "SenCapito"
     twitter_url: "https://twitter.com/SenCapito"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/shelley-capito.jpg"
-  - 
+  -
     state_name: "Wyoming"
     state_name_slug: "wyoming"
     state_code: "WY"
@@ -5246,7 +5246,7 @@
     twitter_handle: "SenJohnBarrasso"
     twitter_url: "https://twitter.com/SenJohnBarrasso"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-barrasso.jpg"
-  - 
+  -
     state_name: "Wyoming"
     state_name_slug: "wyoming"
     state_code: "WY"
@@ -5299,4 +5299,3 @@
     twitter_handle: "SenatorEnzi"
     twitter_url: "https://twitter.com/SenatorEnzi"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/michael-enzi.jpg"
-

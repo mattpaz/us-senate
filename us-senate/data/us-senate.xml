@@ -351,7 +351,7 @@
         <pronunciation>JEFF FLAYK</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
+        <religion>mormon</religion>
         <openley_lgbtq>no</openley_lgbtq>
         <date_of_birth>1962-12-31</date_of_birth>
         <entered_office>2013-01-03</entered_office>
@@ -405,7 +405,7 @@
         <pronunciation>JAHN muh-KAYN</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>mormon</religion>
+        <religion>episcopalian</religion>
         <openley_lgbtq>no</openley_lgbtq>
         <date_of_birth>1936-08-29</date_of_birth>
         <entered_office>1987-01-03</entered_office>
@@ -4013,11 +4013,11 @@
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>republican</party>
-        <name>Patrick Tommey</name>
-        <name_slug>patrick-tommey</name_slug>
+        <name>Patrick Toomey</name>
+        <name_slug>patrick-toomey</name_slug>
         <first_name>Patrick</first_name>
         <middle_name>J.</middle_name>
-        <last_name>Tommey</last_name>
+        <last_name>Toomey</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>Pat</goes_by>
         <pronunciation>PATT TOO-mee</pronunciation>
@@ -4048,7 +4048,7 @@
         <facebook_url>https://www.facebook.com/senatortoomey</facebook_url>
         <twitter_handle>SenToomey</twitter_handle>
         <twitter_url>https://twitter.com/SenToomey</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/patrick-tommey.jpg</photo_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/patrick-toomey.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Pennsylvania</state_name>
