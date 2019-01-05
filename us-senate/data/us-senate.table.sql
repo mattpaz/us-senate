@@ -15,7 +15,6 @@ CREATE TABLE `senate` (
   `class` varchar(3) DEFAULT NULL,
   `bioguide` varchar(15) DEFAULT NULL,
   `thomas` varchar(15) DEFAULT NULL,
-  `govtrack` varchar(15) DEFAULT NULL,
   `opensecrets` varchar(15) DEFAULT NULL,
   `votesmart` varchar(15) DEFAULT NULL,
   `fec` varchar(15) DEFAULT NULL,

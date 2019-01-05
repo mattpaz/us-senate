@@ -1,13 +1,13 @@
 {
   "name": "civil-services-us-senate",
-  "version": "1.1.4",
-  "description": "115th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
+  "version": "1.2.0",
+  "description": "116th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
     "Civil Services",
     "US",
     "United States",
-    "115th Congress",
+    "116th Congress",
     "Congress",
     "Senate",
     "government",
@@ -25,7 +25,6 @@
     "state",
     "district",
     "bioguide",
-    "govtrack",
     "opensecrets",
     "votesmart",
     "fec",
@@ -79,6 +78,7 @@
     "convert-csv": "if ( test -e ./source/us-senate.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/us-senate.csv ( see ./source/README.md )\n'; fi",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-senate/data/us-senate.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-senate/data/us-senate.csv\n'; fi",
+    "build-seeder": "node ./.scripts/create-seeder.js",
     "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {

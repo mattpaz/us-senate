@@ -1,22 +1,8 @@
 var fs = require('fs');
 var path = require('path');
 
-var date = new Date();
-var year = date.getFullYear().toString();
-var month = (date.getMonth() + 1).toString();
-var day = date.getDate().toString();
-
-if (month.length === 1) {
-  month = '0' + month;
-}
-
-if (day.length === 1) {
-  day = '0' + day;
-}
-
-var prefix = year + month + day;
 var collection, data;
-var seeder_file = path.join(__dirname, '../us-senate/data/' + prefix + '000000-senate-seeder.js');
+var seeder_file = path.join(__dirname, '../us-senate/data/20190101000000-senate-seeder.js');
 var data_file = path.join(__dirname, '../us-senate/data/us-senate.json');
 
 function createSeeder() {
@@ -25,7 +11,7 @@ function createSeeder() {
   "    return queryInterface.bulkInsert('senate', " +
   JSON.stringify(collection, null, 4) +
   ", {\n" +
-  "      updateOnDuplicate: ['state_name', 'state_name_slug', 'state_code', 'state_code_slug', 'class', 'bioguide', 'thomas', 'govtrack', 'opensecrets', 'votesmart', 'fec', 'maplight', 'wikidata', 'google_entity_id', 'title', 'party', 'name', 'name_slug', 'first_name', 'middle_name', 'last_name', 'name_suffix', 'goes_by', 'pronunciation', 'gender', 'ethnicity', 'religion', 'openly_lgbtq', 'date_of_birth', 'entered_office', 'term_end', 'biography', 'phone', 'fax', 'latitude', 'longitude', 'address_complete', 'address_number', 'address_prefix', 'address_street', 'address_sec_unit_type', 'address_sec_unit_num', 'address_city', 'address_state', 'address_zipcode', 'address_type', 'website', 'contact_page', 'facebook_url', 'twitter_handle', 'twitter_url', 'photo_url', 'shape', 'modified_date']\n" +
+  "      updateOnDuplicate: ['state_name', 'state_name_slug', 'state_code', 'state_code_slug', 'class', 'bioguide', 'thomas', 'opensecrets', 'votesmart', 'fec', 'maplight', 'wikidata', 'google_entity_id', 'title', 'party', 'name', 'name_slug', 'first_name', 'middle_name', 'last_name', 'name_suffix', 'goes_by', 'pronunciation', 'gender', 'ethnicity', 'religion', 'openly_lgbtq', 'date_of_birth', 'entered_office', 'term_end', 'biography', 'phone', 'fax', 'latitude', 'longitude', 'address_complete', 'address_number', 'address_prefix', 'address_street', 'address_sec_unit_type', 'address_sec_unit_num', 'address_city', 'address_state', 'address_zipcode', 'address_type', 'website', 'contact_page', 'facebook_url', 'twitter_handle', 'twitter_url', 'photo_url', 'shape', 'modified_date']\n" +
   "    }).catch(function (err) {\n" +
   "      if (err && err.errors) {\n" +
   "        for (var i = 0; i < err.errors.length; i++) {\n" +

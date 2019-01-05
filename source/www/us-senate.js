@@ -282,7 +282,7 @@ function init() {
 
     $('input[type="checkbox"]').change(updateRepresentatives);
 
-    LazyLoad.lazyLoadImages();
+    setTimeout(LazyLoad.lazyLoadImages, 250)
 
     $('#scroll-wrapper').scroll(function () {
       clearTimeout(lazyInterval);

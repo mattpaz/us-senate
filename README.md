@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 [![Donate](https://cdn.civil.services/donate-button.png)](https://www.paypal.me/civilservices)
 
 
-115th United States Senate
+116th United States Senate
 ===
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/api/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/api.svg)](https://github.com/CivilServiceUSA/api/graphs/contributors)
@@ -26,7 +26,7 @@ This project provides the __[US Senate Data](./us-senate)__ ( JSON, XML, CSV, SQ
 Data Source
 ---
 
-Our team Manages the [115th Congress United States Senate Demographic Data](http://bit.ly/115th-congress-us-senate).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
+Our team Manages the [116th Congress United States Senate Demographic Data](http://bit.ly/116th-congress-us-senate).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
 
 
 Completed Tasks
@@ -59,11 +59,11 @@ If you are using the image `headshots/512x512/bernard-sanders.jpg` the CDN for t
 Senator Data
 ---
 
-This project offers data for the 115th United States Senate in the following formats:
+This project offers data for the 116th United States Senate in the following formats:
 
 * [CSV](us-senate/data/us-senate.csv)
 * [JSON](us-senate/data/us-senate.json)
-* [SQL](us-senate/data/us-senate.sql) & [SQL Table](us-senate/data/us-senate.table.sql) 
+* [SQL](us-senate/data/us-senate.sql) & [SQL Table](us-senate/data/us-senate.table.sql)
 * [XML](us-senate/data/us-senate.xml)
 * [YML](us-senate/data/us-senate.yml)
 
@@ -84,7 +84,6 @@ Parameter               | Type   | Description
 `class`                 | enum   | Senate to be divided into three classes for purposes of elections `['I','II','III']`
 `bioguide`              | string | The alphanumeric ID for this Senator on http://bioguide.congress.gov ( http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001075 )
 `thomas`                | string | The numeric ID for this Senator ( not really used anymore )
-`govtrack`              | string | The numeric ID for this Senator on GovTrack.us ( https://www.govtrack.us/congress/members/412630 )
 `opensecrets`           | string | The alphanumeric ID for this Senator on OpenSecrets.org ( https://www.opensecrets.org/politicians/summary.php?cid=N00030245 )
 `votesmart`             | string | The numeric ID for this Senator on VoteSmart.org ( http://votesmart.org/candidate/69494 )
 `fec`                   | string | Federal Election Commission ID ( http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=H6AL04098 )
@@ -131,5 +130,31 @@ Parameter               | Type   | Description
 `photo_url`             | string | Photo URL of Senator ( not always available )
 
 * `photo_url` is available in the following sizes: 64x64, 128x128, 256x256, 512x512 & 1024x1024 ( defaults to 512x512 )
+
+</details>
+
+Update Instructions
+---
+
+Updating House Data can be done with the following instructions:
+
+<details>
+  <summary>View Instructions</summary>
+
+1. [Download Latest CSV](https://docs.google.com/spreadsheets/d/1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0/export?format=csv&id=1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0&gid=284703522) from Google Sheets
+2. Replace [./source/us-senate.csv](./source/us-senate.csv) with this new file
+3. Run the following commands:
+
+```bash
+npm run -s convert-csv
+npm run -s build-data
+npm run -s build-seeder
+```
+
+If you created new images because of a change in elected officials, you will also need to run:
+
+```bash
+npm run -s build-images
+```
 
 </details>

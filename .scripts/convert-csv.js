@@ -38,10 +38,10 @@ if (fs.existsSync(core)) {
 
       var validTitle = [
         'senator',
-        'senate_majority_leader',
-        'senate_majority_whip',
-        'senate_minority_leader',
-        'senate_minority_whip'
+        'senate-majority-leader',
+        'senate-majority-whip',
+        'senate-minority-leader',
+        'senate-minority-whip'
       ];
 
       var validParty = [
@@ -112,7 +112,6 @@ if (fs.existsSync(core)) {
           class: data.class,
           bioguide: data.bioguide,
           thomas: data.thomas,
-          govtrack: data.govtrack,
           opensecrets: data.opensecrets,
           votesmart: data.votesmart,
           fec: data.fec,
