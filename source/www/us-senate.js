@@ -223,7 +223,7 @@ function init() {
         var district = (val.district) ? '   District: ' + toTitleCase(val.district) : '';
         var at_large = (val.at_large) ? '   At-large' + toTitleCase(val.at_large) : '&nbsp;';
 
-        var html = '<div class="senator mdl-card mdl-shadow--2dp card-square fade-in c' + key + '" onclick="void(0)" data-name="' + val.name + '" data-party="' + val.party + '" data-gender="' + val.gender + '" data-lgbtq="' + val.openley_lgbtq + '" data-ethnicity="' + val.ethnicity + '" data-title="' + val.title + '" data-religion="' + val.religion + '" data-state-name="' + val.state_name + '">' +
+        var html = '<div class="senator mdl-card mdl-shadow--2dp card-square fade-in c' + key + '" onclick="void(0)" data-name="' + val.name + '" data-party="' + val.party + '" data-gender="' + val.gender + '" data-lgbtq="' + val.openly_lgbtq + '" data-ethnicity="' + val.ethnicity + '" data-title="' + val.title + '" data-religion="' + val.religion + '" data-state-name="' + val.state_name + '">' +
           '<div class="mdl-card__title mdl-card--expand lazy-load" data-bgsrc="us-senate/images/headshots/512x512/' + val.name_slug + '.jpg">' +
           '   <h2 class="mdl-card__title-text">' + val.name + '</h2>' +
           '   <h2 class="overlay"></h2>' +

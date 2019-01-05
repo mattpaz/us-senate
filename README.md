@@ -103,7 +103,7 @@ Parameter               | Type   | Description
 `gender`                | enum   | Gender of Senator
 `ethnicity`             | enum   | Ethnicity of Senator
 `religion`              | enum   | Religion of Senator
-`openley_lgbtq`         | enum   | Senator is Openly LGBTQ
+`openly_lgbtq`         | enum   | Senator is Openly LGBTQ
 `date_of_birth`         | date   | Date of Birth of Senator
 `entered_office`        | date   | Date Senator First Entered Office
 `term_end`              | date   | Date Senator's Current Term Ends

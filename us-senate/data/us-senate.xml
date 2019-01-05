@@ -27,7 +27,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-11-13</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -80,7 +80,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1957-05-22</date_of_birth>
         <entered_office>2002-12-20</entered_office>
         <term_end>2023-01-03</term_end>
@@ -133,7 +133,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>united-methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-05-04</date_of_birth>
         <entered_office>2018-01-03</entered_office>
         <term_end>2020-01-03</term_end>
@@ -186,7 +186,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1934-05-06</date_of_birth>
         <entered_office>1987-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -239,7 +239,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1950-12-10</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -292,7 +292,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1977-05-13</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -345,7 +345,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>bisexual</openley_lgbtq>
+        <openly_lgbtq>bisexual</openly_lgbtq>
         <date_of_birth>1976-07-12</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -398,7 +398,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1966-03-22</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -451,7 +451,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1933-06-22</date_of_birth>
         <entered_office>1992-11-10</entered_office>
         <term_end>2019-01-03</term_end>
@@ -504,7 +504,7 @@
         <gender>female</gender>
         <ethnicity>asian-american</ethnicity>
         <religion>baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-10-20</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -557,7 +557,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1974-08-22</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -610,7 +610,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>protestant</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1973-08-03</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -663,7 +663,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-11-28</date_of_birth>
         <entered_office>2009-01-21</entered_office>
         <term_end>2023-01-03</term_end>
@@ -716,7 +716,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1946-02-13</date_of_birth>
         <entered_office>2011-01-05</entered_office>
         <term_end>2023-01-03</term_end>
@@ -769,7 +769,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1963-09-09</date_of_birth>
         <entered_office>2010-11-15</entered_office>
         <term_end>2021-01-03</term_end>
@@ -822,7 +822,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-01-23</date_of_birth>
         <entered_office>2001-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -875,7 +875,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-12-01</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -928,7 +928,7 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1971-05-28</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -981,7 +981,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1949-12-10</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1034,7 +1034,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1944-12-28</date_of_birth>
         <entered_office>2005-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1087,7 +1087,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1972-10-20</date_of_birth>
         <entered_office>2012-12-26</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1140,7 +1140,7 @@
         <gender>female</gender>
         <ethnicity>asian-american</ethnicity>
         <religion>buddhism</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-11-03</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -1193,7 +1193,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1933-09-17</date_of_birth>
         <entered_office>1981-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1246,7 +1246,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1970-07-01</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1299,7 +1299,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1943-05-03</date_of_birth>
         <entered_office>2009-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1352,7 +1352,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>mormon</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1951-05-20</date_of_birth>
         <entered_office>1999-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1405,7 +1405,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1944-11-21</date_of_birth>
         <entered_office>1997-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1458,7 +1458,7 @@
         <gender>female</gender>
         <ethnicity>asian-american</ethnicity>
         <religion>deist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1968-03-12</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1511,7 +1511,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-03-24</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -1564,7 +1564,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>christian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1972-08-24</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1617,7 +1617,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-05-29</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1670,7 +1670,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1936-04-20</date_of_birth>
         <entered_office>1997-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1723,7 +1723,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1942-02-20</date_of_birth>
         <entered_office>1985-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1776,7 +1776,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1963-01-07</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1829,7 +1829,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>christian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1957-09-28</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1882,7 +1882,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1951-11-21</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -1935,7 +1935,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1946-11-11</date_of_birth>
         <entered_office>2013-07-16</entered_office>
         <term_end>2021-01-03</term_end>
@@ -1988,7 +1988,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1949-06-22</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2041,7 +2041,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1943-10-05</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2094,7 +2094,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>episcopalian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1959-01-10</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -2147,7 +2147,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>episcopalian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1944-03-31</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2200,7 +2200,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-12-07</date_of_birth>
         <entered_office>1997-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -2253,7 +2253,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1950-04-29</date_of_birth>
         <entered_office>2001-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2306,7 +2306,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>episcopalian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1958-01-01</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -2359,7 +2359,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1958-03-04</date_of_birth>
         <entered_office>2018-01-02</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2412,7 +2412,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>congregationalist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1960-05-25</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2465,7 +2465,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1979-12-31</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -2518,7 +2518,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1950-01-10</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -2571,7 +2571,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1951-07-05</date_of_birth>
         <entered_office>2007-12-31</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2624,7 +2624,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1937-12-07</date_of_birth>
         <entered_office>1978-12-27</entered_office>
         <term_end>2021-01-03</term_end>
@@ -2677,7 +2677,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>church-of-god</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1956-08-21</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -2730,7 +2730,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1962-08-20</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -2783,7 +2783,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-11-30</date_of_birth>
         <entered_office>2005-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -2836,7 +2836,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1960-08-30</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -2889,7 +2889,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1961-01-21</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -2942,7 +2942,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1957-03-13</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -2995,7 +2995,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>evangelical-lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1972-02-22</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -3048,7 +3048,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1951-03-01</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -3101,7 +3101,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>protestant</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-01-28</date_of_birth>
         <entered_office>2009-01-03</entered_office>
         <term_end>2021-01-13</term_end>
@@ -3154,7 +3154,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>united-church-of-christ</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1958-02-27</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3207,7 +3207,7 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1969-04-27</date_of_birth>
         <entered_office>2013-10-31</entered_office>
         <term_end>2021-01-03</term_end>
@@ -3260,7 +3260,7 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <religion>christian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-01-01</date_of_birth>
         <entered_office>2006-01-18</entered_office>
         <term_end>2019-01-03</term_end>
@@ -3313,7 +3313,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1971-10-17</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -3366,7 +3366,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>mormon</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1948-05-18</date_of_birth>
         <entered_office>2009-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -3419,7 +3419,7 @@
         <gender>female</gender>
         <ethnicity>hispanic-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-03-29</date_of_birth>
         <entered_office>2017-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3472,7 +3472,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1957-08-02</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -3525,7 +3525,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1950-11-23</date_of_birth>
         <entered_office>1999-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3578,7 +3578,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1966-12-09</date_of_birth>
         <entered_office>2009-01-26</entered_office>
         <term_end>2019-01-03</term_end>
@@ -3631,7 +3631,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>methodist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-12-19</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3684,7 +3684,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-11-09</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -3737,7 +3737,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1934-11-17</date_of_birth>
         <entered_office>1994-11-17</entered_office>
         <term_end>2021-01-03</term_end>
@@ -3790,7 +3790,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1968-03-04</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3843,7 +3843,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1956-10-24</date_of_birth>
         <entered_office>2009-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -3896,7 +3896,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1949-05-03</date_of_birth>
         <entered_office>1996-02-06</entered_office>
         <term_end>2023-01-03</term_end>
@@ -3949,7 +3949,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1961-11-17</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4002,7 +4002,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1960-04-13</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4055,7 +4055,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1949-11-12</date_of_birth>
         <entered_office>1997-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -4108,7 +4108,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>episcopalian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-10-20</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4161,7 +4161,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-07-09</date_of_birth>
         <entered_office>2003-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -4214,7 +4214,7 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <religion>evangelical</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1965-09-19</date_of_birth>
         <entered_office>2013-01-02</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4267,7 +4267,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>evangelical</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1961-01-07</date_of_birth>
         <entered_office>2005-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4320,7 +4320,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-10-24</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -4373,7 +4373,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-06-06</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -4426,7 +4426,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>church-of-christ</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-02-02</date_of_birth>
         <entered_office>2002-12-01</entered_office>
         <term_end>2021-01-03</term_end>
@@ -4479,7 +4479,7 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <religion>southern-baptist</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1970-12-22</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4532,7 +4532,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>mormon</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1971-06-04</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4585,7 +4585,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>mormon</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-03-12</date_of_birth>
         <entered_office>2019-01-03</entered_office>
         <term_end>2025-01-03</term_end>
@@ -4638,7 +4638,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-12-15</date_of_birth>
         <entered_office>2009-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -4691,7 +4691,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1958-02-26</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4744,7 +4744,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>jewish</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1941-09-08</date_of_birth>
         <entered_office>2007-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4797,7 +4797,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1940-03-31</date_of_birth>
         <entered_office>1975-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4850,7 +4850,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1958-10-13</date_of_birth>
         <entered_office>2001-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -4903,7 +4903,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1950-10-11</date_of_birth>
         <entered_office>1993-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -4956,7 +4956,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>lutheran</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-04-08</date_of_birth>
         <entered_office>2011-01-03</entered_office>
         <term_end>2023-01-03</term_end>
@@ -5009,7 +5009,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1962-02-11</date_of_birth>
         <entered_office>2013-01-03</entered_office>
         <term_end>2019-01-03</term_end>
@@ -5062,7 +5062,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1940-07-03</date_of_birth>
         <entered_office>2003-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -5115,7 +5115,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>roman-catholic</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1947-08-24</date_of_birth>
         <entered_office>2010-11-15</entered_office>
         <term_end>2019-01-03</term_end>
@@ -5168,7 +5168,7 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1953-11-26</date_of_birth>
         <entered_office>2015-01-03</entered_office>
         <term_end>2021-01-03</term_end>
@@ -5221,7 +5221,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>lesbian</openley_lgbtq>
+        <openly_lgbtq>lesbian</openly_lgbtq>
         <date_of_birth>1952-07-21</date_of_birth>
         <entered_office>2007-06-25</entered_office>
         <term_end>2019-01-03</term_end>
@@ -5274,7 +5274,7 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>presbyterian</religion>
-        <openley_lgbtq>no</openley_lgbtq>
+        <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1944-02-01</date_of_birth>
         <entered_office>1997-01-03</entered_office>
         <term_end>2021-01-03</term_end>

@@ -34,7 +34,7 @@ CREATE TABLE `senate` (
   `gender` enum('female','male','unspecified') NOT NULL DEFAULT 'unspecified',
   `ethnicity` enum('african-american','asian-american','hispanic-american','middle-eastern-american','multi-racial-american','native-american','pacific-islander','white-american','unspecified') NOT NULL DEFAULT 'unspecified',
   `religion` enum('african-methodist','anglican','baptist','buddhism','christian','christian-reformed','christian-scientist','church-of-christ','church-of-god','congregationalist','deist','eastern-orthodox','episcopalian','evangelical','evangelical-lutheran','hindu','jewish','jodo-shinshu-buddhist','lutheran','methodist','mormon','muslim','nazarene-christian','pentecostal','presbyterian','protestant','roman-catholic','seventh-day-adventist-church','soka-gakkai-buddhist','southern-baptist','united-church-of-christ','united-methodist','unitarian-universalist','unspecified') NOT NULL DEFAULT 'unspecified',
-  `openley_lgbtq` enum('no','lesbian','gay','bisexual','transgender','queer') NOT NULL DEFAULT 'no',
+  `openly_lgbtq` enum('no','lesbian','gay','bisexual','transgender','queer') NOT NULL DEFAULT 'no',
   `date_of_birth` date DEFAULT NULL,
   `entered_office` date DEFAULT NULL,
   `term_end` date DEFAULT NULL,
