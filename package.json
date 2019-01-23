@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-senate",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "116th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
@@ -79,7 +79,7 @@
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-senate/data/us-senate.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-senate/data/us-senate.csv\n'; fi",
     "build-seeder": "node ./.scripts/create-seeder.js",
-    "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
+    "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-seeder && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
     "bluebird": "^3.4.7",
