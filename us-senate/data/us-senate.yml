@@ -572,57 +572,57 @@
     twitter_url: "https://twitter.com/sencorygardner"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cory-gardner.jpg"
   - 
-    state_name: "Colorado"
-    state_name_slug: "colorado"
-    state_code: "CO"
-    state_code_slug: "co"
-    class: "III"
-    bioguide: "B001267"
-    thomas: "1965"
-    opensecrets: "N00030608"
-    votesmart: "110942"
+    state_name: "Connecticut"
+    state_name_slug: "connecticut"
+    state_code: "CT"
+    state_code_slug: "ct"
+    class: "I"
+    bioguide: "M001169"
+    thomas: "1837"
+    opensecrets: "N00027566"
+    votesmart: "17189"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
     party: "democrat"
-    name: "Michael  Bennet"
-    name_slug: "michael-bennet"
-    first_name: "Michael "
-    middle_name: "F."
-    last_name: "Bennet"
+    name: "Christopher Murphy"
+    name_slug: "christopher-murphy"
+    first_name: "Christopher"
+    middle_name: null
+    last_name: "Murphy"
     name_suffix: null
-    goes_by: null
-    pronunciation: "MAHY-kuhl BEN-ett"
+    goes_by: "Chris"
+    pronunciation: "KRISS MER-fee"
     gender: "male"
     ethnicity: "white-american"
-    religion: "unspecified"
+    religion: "protestant"
     openly_lgbtq: "no"
-    date_of_birth: "1964-11-28"
-    entered_office: "2009-01-21"
-    term_end: "2023-01-03"
-    biography: "Michael Bennet, a Senator from Colorado; born in New Delhi, India, November 28, 1964; B.A., Wesleyan University, Middletown, Conn., 1987; J.D., Yale Law School, 1993, editor-in-chief of the Yale Law Journal; counsel to U.S. deputy attorney general 1995-1997; special assistant U.S. attorney, Conn., 1997; managing director, Anschutz Investment Co. 1997-2003; chief of staff to Mayor of Denver, Colo., 2003-2005; Superintendent, Denver Public Schools 2005-2009; appointed January 21, 2009, to the United States Senate for the term ending January 3, 2011, to fill the vacancy caused by the resignation of Kenneth L. Salazar; took the oath of office on January 22, 2009; elected to the U.S. Senate in 2010 for the term ending January 3, 2017; chair, Democratic Senatorial Campaign Committee (2013-2014)."
-    phone: "202-224-5852"
-    fax: "202-228-5097"
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "261 Russell Senate Office Building, Washington, DC 20510"
+    date_of_birth: "1973-08-03"
+    entered_office: "2013-01-03"
+    term_end: "2019-01-03"
+    biography: "Christopher Murphy, a Senator and a Representative from Connecticut; born in White Plains, Westchester County, N.Y., August 3, 1973; B.A., Williams College, Williamstown, Mass., 1996; attended Exeter College, Oxford, England, 1994-1995; J.D., University of Connecticut, Hartford, Conn., 2002; lawyer, private practice; Southington, Conn., planning and zoning commission, 1997-1999; member of the Connecticut state house of representatives, 1999-2003; member of the Connecticut state senate, 2003-2006; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
+    phone: "202-224-4041"
+    fax: "202-224-9750"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "136 Hart Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "261 Russell Senate Office Building"
+    address_street: "136 Hart Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.bennet.senate.gov"
-    contact_page: "https://www.bennet.senate.gov/?p=contact"
-    facebook_url: "https://www.facebook.com/senatorbennet"
-    twitter_handle: "SenBennetCO"
-    twitter_url: "https://twitter.com/SenBennetCO"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/michael-bennet.jpg"
+    website: "http://www.murphy.senate.gov"
+    contact_page: "https://www.murphy.senate.gov/contact"
+    facebook_url: "https://www.facebook.com/ChrisMurphyCT"
+    twitter_handle: "ChrisMurphyCT"
+    twitter_url: "https://twitter.com/ChrisMurphyCT"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-murphy.jpg"
   - 
     state_name: "Connecticut"
     state_name_slug: "connecticut"
@@ -676,109 +676,57 @@
     twitter_url: "https://twitter.com/SenBlumenthal"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-blumenthal.jpg"
   - 
-    state_name: "Delaware"
-    state_name_slug: "delaware"
-    state_code: "DE"
-    state_code_slug: "de"
-    class: "II"
-    bioguide: "C001088"
-    thomas: "1984"
-    opensecrets: "N00031820"
-    votesmart: "122834"
+    state_name: "Colorado"
+    state_name_slug: "colorado"
+    state_code: "CO"
+    state_code_slug: "co"
+    class: "III"
+    bioguide: "B001267"
+    thomas: "1965"
+    opensecrets: "N00030608"
+    votesmart: "110942"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
     party: "democrat"
-    name: "Christopher Coons"
-    name_slug: "christopher-coons"
-    first_name: "Christopher"
-    middle_name: "A."
-    last_name: "Coons"
+    name: "Michael  Bennet"
+    name_slug: "michael-bennet"
+    first_name: "Michael "
+    middle_name: "F."
+    last_name: "Bennet"
     name_suffix: null
-    goes_by: "Chris"
-    pronunciation: "KRISS KOONZ"
+    goes_by: null
+    pronunciation: "MAHY-kuhl BEN-ett"
     gender: "male"
     ethnicity: "white-american"
-    religion: "presbyterian"
+    religion: "unspecified"
     openly_lgbtq: "no"
-    date_of_birth: "1963-09-09"
-    entered_office: "2010-11-15"
-    term_end: "2021-01-03"
-    biography: "Chris Coons, a Senator from Delaware; born on September 9, 1963, in Greenwich, Conn.; B.A., Amherst College, 1985; J.D., Yale University Law School, 1992; M.A.R., Yale Divinity School, 1992; worked in the non-profit sector; attorney; served as president of the New Castle County Council 2001-2005; County Executive of New Castle County 2005-2010; elected as a Democrat to the United States Senate in the November 2, 2010, special election to the term ending January 3, 2015, a seat previously held by appointed Senator Edward E. Kaufman, and took the oath of office on November 15, 2010; reelected in 2014 for the term ending January 3, 2021."
-    phone: "202-224-5042"
-    fax: null
+    date_of_birth: "1964-11-28"
+    entered_office: "2009-01-21"
+    term_end: "2023-01-03"
+    biography: "Michael Bennet, a Senator from Colorado; born in New Delhi, India, November 28, 1964; B.A., Wesleyan University, Middletown, Conn., 1987; J.D., Yale Law School, 1993, editor-in-chief of the Yale Law Journal; counsel to U.S. deputy attorney general 1995-1997; special assistant U.S. attorney, Conn., 1997; managing director, Anschutz Investment Co. 1997-2003; chief of staff to Mayor of Denver, Colo., 2003-2005; Superintendent, Denver Public Schools 2005-2009; appointed January 21, 2009, to the United States Senate for the term ending January 3, 2011, to fill the vacancy caused by the resignation of Kenneth L. Salazar; took the oath of office on January 22, 2009; elected to the U.S. Senate in 2010 for the term ending January 3, 2017; chair, Democratic Senatorial Campaign Committee (2013-2014)."
+    phone: "202-224-5852"
+    fax: "202-228-5097"
     latitude: "38.892542"
     longitude: "-77.007415"
-    address_complete: "127A Russell Senate Office Building, Washington, DC 20510"
+    address_complete: "261 Russell Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "127A Russell Senate Office Building"
+    address_street: "261 Russell Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.coons.senate.gov"
-    contact_page: "https://www.coons.senate.gov/contact"
-    facebook_url: "https://www.facebook.com/senatorchriscoons"
-    twitter_handle: "ChrisCoons"
-    twitter_url: "https://twitter.com/ChrisCoons"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-coons.jpg"
-  - 
-    state_name: "Connecticut"
-    state_name_slug: "connecticut"
-    state_code: "CT"
-    state_code_slug: "ct"
-    class: "I"
-    bioguide: "M001169"
-    thomas: "1837"
-    opensecrets: "N00027566"
-    votesmart: "17189"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Christopher Murphy"
-    name_slug: "christopher-murphy"
-    first_name: "Christopher"
-    middle_name: null
-    last_name: "Murphy"
-    name_suffix: null
-    goes_by: "Chris"
-    pronunciation: "KRISS MER-fee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "protestant"
-    openly_lgbtq: "no"
-    date_of_birth: "1973-08-03"
-    entered_office: "2013-01-03"
-    term_end: "2019-01-03"
-    biography: "Christopher Murphy, a Senator and a Representative from Connecticut; born in White Plains, Westchester County, N.Y., August 3, 1973; B.A., Williams College, Williamstown, Mass., 1996; attended Exeter College, Oxford, England, 1994-1995; J.D., University of Connecticut, Hartford, Conn., 2002; lawyer, private practice; Southington, Conn., planning and zoning commission, 1997-1999; member of the Connecticut state house of representatives, 1999-2003; member of the Connecticut state senate, 2003-2006; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
-    phone: "202-224-4041"
-    fax: "202-224-9750"
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "136 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "136 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.murphy.senate.gov"
-    contact_page: "https://www.murphy.senate.gov/contact"
-    facebook_url: "https://www.facebook.com/ChrisMurphyCT"
-    twitter_handle: "ChrisMurphyCT"
-    twitter_url: "https://twitter.com/ChrisMurphyCT"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-murphy.jpg"
+    website: "http://www.bennet.senate.gov"
+    contact_page: "https://www.bennet.senate.gov/?p=contact"
+    facebook_url: "https://www.facebook.com/senatorbennet"
+    twitter_handle: "SenBennetCO"
+    twitter_url: "https://twitter.com/SenBennetCO"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/michael-bennet.jpg"
   - 
     state_name: "Delaware"
     state_name_slug: "delaware"
@@ -832,6 +780,58 @@
     twitter_url: "https://twitter.com/SenatorCarper"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thomas-carper.jpg"
   - 
+    state_name: "Delaware"
+    state_name_slug: "delaware"
+    state_code: "DE"
+    state_code_slug: "de"
+    class: "II"
+    bioguide: "C001088"
+    thomas: "1984"
+    opensecrets: "N00031820"
+    votesmart: "122834"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Christopher Coons"
+    name_slug: "christopher-coons"
+    first_name: "Christopher"
+    middle_name: "A."
+    last_name: "Coons"
+    name_suffix: null
+    goes_by: "Chris"
+    pronunciation: "KRISS KOONZ"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "presbyterian"
+    openly_lgbtq: "no"
+    date_of_birth: "1963-09-09"
+    entered_office: "2010-11-15"
+    term_end: "2021-01-03"
+    biography: "Chris Coons, a Senator from Delaware; born on September 9, 1963, in Greenwich, Conn.; B.A., Amherst College, 1985; J.D., Yale University Law School, 1992; M.A.R., Yale Divinity School, 1992; worked in the non-profit sector; attorney; served as president of the New Castle County Council 2001-2005; County Executive of New Castle County 2005-2010; elected as a Democrat to the United States Senate in the November 2, 2010, special election to the term ending January 3, 2015, a seat previously held by appointed Senator Edward E. Kaufman, and took the oath of office on November 15, 2010; reelected in 2014 for the term ending January 3, 2021."
+    phone: "202-224-5042"
+    fax: null
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "127A Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "127A Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.coons.senate.gov"
+    contact_page: "https://www.coons.senate.gov/contact"
+    facebook_url: "https://www.facebook.com/senatorchriscoons"
+    twitter_handle: "ChrisCoons"
+    twitter_url: "https://twitter.com/ChrisCoons"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/christopher-coons.jpg"
+  - 
     state_name: "Florida"
     state_name_slug: "florida"
     state_code: "FL"
@@ -877,8 +877,8 @@
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: null
-    contact_page: null
+    website: "https://www.rickscott.senate.gov"
+    contact_page: "https://www.rickscott.senate.gov/contact_rick"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -2281,8 +2281,8 @@
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: null
-    contact_page: null
+    website: "https://www.hawley.senate.gov"
+    contact_page: "https://www.hawley.senate.gov/contact-senator-hawley"
     facebook_url: null
     twitter_handle: null
     twitter_url: null
@@ -2756,58 +2756,6 @@
     twitter_url: "https://twitter.com/SenJohnHoeven"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-hoeven.jpg"
   - 
-    state_name: "Florida"
-    state_name_slug: "florida"
-    state_code: "FL"
-    state_code_slug: "fl"
-    class: "III"
-    bioguide: "R000595"
-    thomas: "2084"
-    opensecrets: "N00030612"
-    votesmart: "1601"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Marco Rubio"
-    name_slug: "marco-rubio"
-    first_name: "Marco"
-    middle_name: null
-    last_name: "Rubio"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "MAR-koh ROO-bee-oh"
-    gender: "male"
-    ethnicity: "hispanic-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1971-05-28"
-    entered_office: "2011-01-03"
-    term_end: "2023-01-03"
-    biography: "Marco Rubio, a Senator from Florida; born in Miami, Fla., May 28, 1971; graduated University of Florida, B.S., 1993; graduated University of Miami, J.D., 1996; lawyer; West Miami City Commission 1998-2000; member of the Florida house of representatives 2000-2008; majority leader 2003-2006; speaker 2006-2008; elected as a Republican to the United States Senate for the term ending January 3, 2017."
-    phone: "202-224-3041"
-    fax: null
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "284 Russell Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "284 Russell Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.rubio.senate.gov"
-    contact_page: "https://www.rubio.senate.gov/public/index.cfm/contact"
-    facebook_url: "https://www.facebook.com/SenatorMarcoRubio"
-    twitter_handle: "marcorubio"
-    twitter_url: "https://twitter.com/marcorubio"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/marco-rubio.jpg"
-  - 
     state_name: "Georgia"
     state_name_slug: "georgia"
     state_code: "GA"
@@ -2859,6 +2807,58 @@
     twitter_handle: "sendavidperdue"
     twitter_url: "https://twitter.com/sendavidperdue"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/david-perdue.jpg"
+  - 
+    state_name: "Florida"
+    state_name_slug: "florida"
+    state_code: "FL"
+    state_code_slug: "fl"
+    class: "III"
+    bioguide: "R000595"
+    thomas: "2084"
+    opensecrets: "N00030612"
+    votesmart: "1601"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Marco Rubio"
+    name_slug: "marco-rubio"
+    first_name: "Marco"
+    middle_name: null
+    last_name: "Rubio"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "MAR-koh ROO-bee-oh"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1971-05-28"
+    entered_office: "2011-01-03"
+    term_end: "2023-01-03"
+    biography: "Marco Rubio, a Senator from Florida; born in Miami, Fla., May 28, 1971; graduated University of Florida, B.S., 1993; graduated University of Miami, J.D., 1996; lawyer; West Miami City Commission 1998-2000; member of the Florida house of representatives 2000-2008; majority leader 2003-2006; speaker 2006-2008; elected as a Republican to the United States Senate for the term ending January 3, 2017."
+    phone: "202-224-3041"
+    fax: null
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "284 Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "284 Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.rubio.senate.gov"
+    contact_page: "https://www.rubio.senate.gov/public/index.cfm/contact"
+    facebook_url: "https://www.facebook.com/SenatorMarcoRubio"
+    twitter_handle: "marcorubio"
+    twitter_url: "https://twitter.com/marcorubio"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/marco-rubio.jpg"
   - 
     state_name: "Georgia"
     state_name_slug: "georgia"
@@ -3020,58 +3020,6 @@
     state_name_slug: "new-hampshire"
     state_code: "NH"
     state_code_slug: "nh"
-    class: "II"
-    bioguide: "S001181"
-    thomas: "1901"
-    opensecrets: "N00024790"
-    votesmart: "1663"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Jeanne Shaheen"
-    name_slug: "jeanne-shaheen"
-    first_name: "Jeanne"
-    middle_name: null
-    last_name: "Shaheen"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "JEEN shuh-HEEN"
-    gender: "female"
-    ethnicity: "white-american"
-    religion: "protestant"
-    openly_lgbtq: "no"
-    date_of_birth: "1947-01-28"
-    entered_office: "2009-01-03"
-    term_end: "2021-01-13"
-    biography: "Jeanne Shaheen, a Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State Senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
-    phone: "202-224-2841"
-    fax: null
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "506 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "506 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.shaheen.senate.gov"
-    contact_page: "https://www.shaheen.senate.gov/contact/contact-jeanne"
-    facebook_url: "https://www.facebook.com/SenatorShaheen"
-    twitter_handle: "SenatorShaheen"
-    twitter_url: "https://twitter.com/SenatorShaheen"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeanne-shaheen.jpg"
-  - 
-    state_name: "New Hampshire"
-    state_name_slug: "new-hampshire"
-    state_code: "NH"
-    state_code_slug: "nh"
     class: "III"
     bioguide: "H001076"
     thomas: null
@@ -3124,58 +3072,6 @@
     state_name_slug: "new-jersey"
     state_code: "NJ"
     state_code_slug: "nj"
-    class: "II"
-    bioguide: "B001288"
-    thomas: "2194"
-    opensecrets: "N00035267"
-    votesmart: "76151"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Cory Booker"
-    name_slug: "cory-booker"
-    first_name: "Cory"
-    middle_name: null
-    last_name: "Booker"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "KOR-ee BOOK-er"
-    gender: "male"
-    ethnicity: "african-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1969-04-27"
-    entered_office: "2013-10-31"
-    term_end: "2021-01-03"
-    biography: "Cory Booker, a Senator from New Jersey; born on April 27, 1969, in Washington, D.C.; graduated Northern Valley Regional High School, Old Tappan, N.J., 1987; B.A., Stanford University, 1991; M.A., Stanford University, 1992; attended The Queen's College, University of Oxford, Oxford, England, as a Rhodes Scholar and received a graduate degree in 1994; J.D., Yale Law School, 1997; worked as an attorney in the non-profit sector; Newark City Council 1998-2002; Mayor of Newark, N.J. 2006-2013; elected as a Democrat to the United States Senate in a special election on October 16, 2013, to fill the vacancy caused by the death of Frank Lautenberg, a seat subsequently held by appointed Senator Jeffrey Chiesa, and took the oath of office on October 31, 2013; reelected in 2014 for the term ending January 3, 2021."
-    phone: "202-224-3224"
-    fax: "202-224-8378"
-    latitude: "38.892947"
-    longitude: "-77.075686"
-    address_complete: "359 Dirksen Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "359 Dirksen Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.booker.senate.gov"
-    contact_page: "https://www.booker.senate.gov/?p=contact"
-    facebook_url: "https://www.facebook.com/corybooker/"
-    twitter_handle: "CoryBooker"
-    twitter_url: "https://twitter.com/CoryBooker"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cory-booker.jpg"
-  - 
-    state_name: "New Jersey"
-    state_name_slug: "new-jersey"
-    state_code: "NJ"
-    state_code_slug: "nj"
     class: "I"
     bioguide: "M000639"
     thomas: "791"
@@ -3223,58 +3119,6 @@
     twitter_handle: "SenatorMenendez"
     twitter_url: "https://twitter.com/SenatorMenendez"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/robert-menendez.jpg"
-  - 
-    state_name: "New Mexico"
-    state_name_slug: "new-mexico"
-    state_code: "NM"
-    state_code_slug: "nm"
-    class: "I"
-    bioguide: "H001046"
-    thomas: "1937"
-    opensecrets: "N00029835"
-    votesmart: "74517"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Martin Heinrich"
-    name_slug: "martin-heinrich"
-    first_name: "Martin"
-    middle_name: null
-    last_name: "Heinrich"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "MAR-tn HINE-rehk"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "lutheran"
-    openly_lgbtq: "no"
-    date_of_birth: "1971-10-17"
-    entered_office: "2013-01-03"
-    term_end: "2019-01-03"
-    biography: "Martin Heinrich, a Senator and a Representative from New Mexico; born in Fallon, Churchill County, Nev.; October 17, 1971; B. S., University of Missouri, Columbia, Mo., 1995; attended University of New Mexico, Albuquerque, N. Mex., 2001-2002; engineer; business owner; member, Albuquerque, N. Mex., city council, 2003-2007; President, Albuquerque, N. Mex., city council, 2005-2006; trustee, New Mexico state natural resources, 2006; elected as a Democrat to the One Hundred Eleventh and to the succeeding Congress (January 3, 2009-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
-    phone: "202-224-5521"
-    fax: "202-228-2841"
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "303 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "303 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.heinrich.senate.gov"
-    contact_page: "https://www.heinrich.senate.gov/contact"
-    facebook_url: "https://www.facebook.com/MartinHeinrich"
-    twitter_handle: "MartinHeinrich"
-    twitter_url: "https://twitter.com/MartinHeinrich"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/martin-heinrich.jpg"
   - 
     state_name: "New Mexico"
     state_name_slug: "new-mexico"
@@ -3536,57 +3380,57 @@
     twitter_url: "https://twitter.com/SenGillibrand"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/kirsten-gillibrand.jpg"
   - 
-    state_name: "Ohio"
-    state_name_slug: "ohio"
-    state_code: "OH"
-    state_code_slug: "oh"
-    class: "III"
-    bioguide: "P000449"
-    thomas: "924"
-    opensecrets: "N00003682"
-    votesmart: "27008"
+    state_name: "New Hampshire"
+    state_name_slug: "new-hampshire"
+    state_code: "NH"
+    state_code_slug: "nh"
+    class: "II"
+    bioguide: "S001181"
+    thomas: "1901"
+    opensecrets: "N00024790"
+    votesmart: "1663"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
-    party: "republican"
-    name: "Rob Portman"
-    name_slug: "rob-portman"
-    first_name: "Rob"
+    party: "democrat"
+    name: "Jeanne Shaheen"
+    name_slug: "jeanne-shaheen"
+    first_name: "Jeanne"
     middle_name: null
-    last_name: "Portman"
+    last_name: "Shaheen"
     name_suffix: null
     goes_by: null
-    pronunciation: "RAHB PORT-min"
-    gender: "male"
+    pronunciation: "JEEN shuh-HEEN"
+    gender: "female"
     ethnicity: "white-american"
-    religion: "methodist"
+    religion: "protestant"
     openly_lgbtq: "no"
-    date_of_birth: "1955-12-19"
-    entered_office: "2011-01-03"
-    term_end: "2023-01-03"
-    biography: "Robert Portman, a Senator and a Representative from Ohio; born in Cincinnati, Hamilton County, Ohio, December 19, 1955; graduated from the Cincinnati Country Day School, Cincinnati, Ohio; graduated Dartmouth College, Hanover, N.H., B.A., 1979; graduated University of Michigan School of Law, Ann Arbor, Mich., J.D., 1984; associate counsel to President George H. W. Bush 1989; deputy assistant and director, Office of Legislative Affairs, White House Office 1989-1991; elected as a Republican to the One Hundred Third Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Willis D. Gradison, Jr.; reelected to the six succeeding Congresses until his resignation on April 29, 2005 (May 4, 1993-April 29, 2005); U.S. Trade Representative, in the cabinet of President of George W. Bush 2005-2006; Director, Office of Management and Budget, in the cabinet of President George W. Bush 2006-2007; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
-    phone: "202-224-3353"
+    date_of_birth: "1947-01-28"
+    entered_office: "2009-01-03"
+    term_end: "2021-01-13"
+    biography: "Jeanne Shaheen, a Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State Senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
+    phone: "202-224-2841"
     fax: null
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "448 Russell Senate Office Building, Washington, DC 20510"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "506 Hart Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "448 Russell Senate Office Building"
+    address_street: "506 Hart Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.portman.senate.gov"
-    contact_page: "https://www.portman.senate.gov/public/index.cfm/contact?p=contact..."
-    facebook_url: "https://www.facebook.com/senrobportman"
-    twitter_handle: "robportman"
-    twitter_url: "https://twitter.com/robportman"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/rob-portman.jpg"
+    website: "http://www.shaheen.senate.gov"
+    contact_page: "https://www.shaheen.senate.gov/contact/contact-jeanne"
+    facebook_url: "https://www.facebook.com/SenatorShaheen"
+    twitter_handle: "SenatorShaheen"
+    twitter_url: "https://twitter.com/SenatorShaheen"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeanne-shaheen.jpg"
   - 
     state_name: "Ohio"
     state_name_slug: "ohio"
@@ -3692,58 +3536,6 @@
     twitter_url: "https://twitter.com/jiminhofe"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-inhofe.jpg"
   - 
-    state_name: "Oregon"
-    state_name_slug: "oregon"
-    state_code: "OR"
-    state_code_slug: "or"
-    class: "II"
-    bioguide: "M001176"
-    thomas: "1900"
-    opensecrets: "N00029303"
-    votesmart: "23644"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Jeff Merkley"
-    name_slug: "jeff-merkley"
-    first_name: "Jeff"
-    middle_name: null
-    last_name: "Merkley"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "JEFF MER-klee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "lutheran"
-    openly_lgbtq: "no"
-    date_of_birth: "1956-10-24"
-    entered_office: "2009-01-03"
-    term_end: "2021-01-03"
-    biography: "Jeff Merkley, a Senator from Oregon; born in Myrtle Creek, Ore., October 24, 1956; B.A., Stanford University, 1979; M.P.A., Princeton University, 1982; government analyst; nonprofit executive; Oregon State Representative, 1999-2008; speaker of the Oregon State House of Representative, 2007-2008; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
-    phone: "202-224-3753"
-    fax: "202-228-3997"
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "313 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "313 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.merkley.senate.gov"
-    contact_page: "https://www.merkley.senate.gov/contact/"
-    facebook_url: "https://www.facebook.com/jeffmerkley"
-    twitter_handle: "SenJeffMerkley"
-    twitter_url: "https://twitter.com/SenJeffMerkley"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeff-merkley.jpg"
-  - 
     state_name: "Oklahoma"
     state_name_slug: "oklahoma"
     state_code: "OK"
@@ -3796,6 +3588,162 @@
     twitter_url: "https://twitter.com/SenatorLankford"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-lankford.jpg"
   - 
+    state_name: "Oregon"
+    state_name_slug: "oregon"
+    state_code: "OR"
+    state_code_slug: "or"
+    class: "II"
+    bioguide: "M001176"
+    thomas: "1900"
+    opensecrets: "N00029303"
+    votesmart: "23644"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Jeff Merkley"
+    name_slug: "jeff-merkley"
+    first_name: "Jeff"
+    middle_name: null
+    last_name: "Merkley"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "JEFF MER-klee"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "lutheran"
+    openly_lgbtq: "no"
+    date_of_birth: "1956-10-24"
+    entered_office: "2009-01-03"
+    term_end: "2021-01-03"
+    biography: "Jeff Merkley, a Senator from Oregon; born in Myrtle Creek, Ore., October 24, 1956; B.A., Stanford University, 1979; M.P.A., Princeton University, 1982; government analyst; nonprofit executive; Oregon State Representative, 1999-2008; speaker of the Oregon State House of Representative, 2007-2008; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
+    phone: "202-224-3753"
+    fax: "202-228-3997"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "313 Hart Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "313 Hart Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.merkley.senate.gov"
+    contact_page: "https://www.merkley.senate.gov/contact/"
+    facebook_url: "https://www.facebook.com/jeffmerkley"
+    twitter_handle: "SenJeffMerkley"
+    twitter_url: "https://twitter.com/SenJeffMerkley"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jeff-merkley.jpg"
+  - 
+    state_name: "Oregon"
+    state_name_slug: "oregon"
+    state_code: "OR"
+    state_code_slug: "or"
+    class: "III"
+    bioguide: "W000779"
+    thomas: "1247"
+    opensecrets: "N00007724"
+    votesmart: "27036"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Ron Wyden"
+    name_slug: "ron-wyden"
+    first_name: "Ron"
+    middle_name: null
+    last_name: "Wyden"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "RAHN WAHY-dn"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "jewish"
+    openly_lgbtq: "no"
+    date_of_birth: "1949-05-03"
+    entered_office: "1996-02-06"
+    term_end: "2023-01-03"
+    biography: "Ron Wyden, a Senator and a Representative from Oregon; born in Wichita, Sedgwick County, Kans., May 3, 1949; attended the public schools of Palo Alto, Calif.; A.B., Stanford University 1971; J.D., University of Oregon Law School in Eugene 1974; director, Oregon Legal Services for the Elderly 1977-1979; public member, Oregon State Board of Examiners of Nursing Home Administrators 1977-1979; elected as a Democrat to the Ninety-seventh and to the seven succeeding Congresses, and served from January 3, 1981, to February 5, 1996, when he resigned, having been elected to the Senate; elected to the Senate in a special election on January 30, 1996, to fill the unexpired portion of the term ending January 3, 1999, left vacant by the resignation of Robert W. Packwood, and began service on February 5, 1996; reelected in 1998, 2004 and again in 2010 for the term ending January 3, 2017; chair, Committee on Energy and Natural Resources (One Hundred Thirteenth Congress [January 3, 2013-February 12, 2014]), Committee on Finance (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015])."
+    phone: "202-224-5244"
+    fax: "202-228-2717"
+    latitude: "38.892947"
+    longitude: "-77.075686"
+    address_complete: "221 Dirksen Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "221 Dirksen Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.wyden.senate.gov"
+    contact_page: "https://www.wyden.senate.gov/contact/"
+    facebook_url: "https://www.facebook.com/wyden/"
+    twitter_handle: "RonWyden"
+    twitter_url: "https://twitter.com/RonWyden"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ron-wyden.jpg"
+  - 
+    state_name: "Pennsylvania"
+    state_name_slug: "pennsylvania"
+    state_code: "PA"
+    state_code_slug: "pa"
+    class: "III"
+    bioguide: "T000461"
+    thomas: "2085"
+    opensecrets: "N00001489"
+    votesmart: "24096"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Patrick Toomey"
+    name_slug: "patrick-toomey"
+    first_name: "Patrick"
+    middle_name: "J."
+    last_name: "Toomey"
+    name_suffix: null
+    goes_by: "Pat"
+    pronunciation: "PATT TOO-mee"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1961-11-17"
+    entered_office: "2011-01-03"
+    term_end: "2023-01-03"
+    biography: "Patrick Toomey, a Senator and a Representative from Pennsylvania; born in Providence, Providence County, R.I., November 17, 1961; graduated from LaSalle Academy, Providence, R.I.; graduated Harvard University, Cambridge, Mass., B.A., 1984; elected to Allentown, Pa., Government Study Commission 1994; elected as a Republican to the One Hundred Sixth and to the two succeeding Congresses (January 3, 1999-January 3, 2005); was not a candidate for reelection in 2004, but was an unsuccessful candidate for nomination to the United States Senate; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
+    phone: "202-224-4254"
+    fax: "202-228-0284"
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "248 Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "248 Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.toomey.senate.gov"
+    contact_page: "https://www.toomey.senate.gov/?p=contact"
+    facebook_url: "https://www.facebook.com/senatortoomey"
+    twitter_handle: "SenToomey"
+    twitter_url: "https://twitter.com/SenToomey"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patrick-toomey.jpg"
+  - 
     state_name: "Pennsylvania"
     state_name_slug: "pennsylvania"
     state_code: "PA"
@@ -3847,6 +3795,58 @@
     twitter_handle: "SenBobCasey"
     twitter_url: "https://twitter.com/SenBobCasey"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/robert-casey.jpg"
+  - 
+    state_name: "Rhode Island"
+    state_name_slug: "rhode-island"
+    state_code: "RI"
+    state_code_slug: "ri"
+    class: "II"
+    bioguide: "R000122"
+    thomas: "949"
+    opensecrets: "N00000362"
+    votesmart: "27060"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Jack Reed"
+    name_slug: "jack-reed"
+    first_name: "Jack"
+    middle_name: null
+    last_name: "Reed"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "JACK REED"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1949-11-12"
+    entered_office: "1997-01-03"
+    term_end: "2021-01-03"
+    biography: "Jack Reed, a Senator and a Representative from Rhode Island; born in Providence, R.I., November 12, 1949; attended St. Matthew's Elementary School, Cranston, R.I.; graduated, LaSalle Academy, Providence, R.I., 1967; B.S., United States Military Academy, West Point 1971; M.P.P., Kennedy School of Government, Harvard University 1973; J.D., Harvard Law School 1982; served in the U.S. Army 1971-1979 and Army Reserve 1979-1991; associate professor, Department of Social Sciences, U.S. Military Academy 1977-1979; admitted to the Washington, D.C. bar 1983; lawyer; member, Rhode Island State Senate 1985-1990; elected as a Democrat to the One Hundred Second and to the two succeeding Congresses (January 3, 1991-January 2, 1997); was not a candidate for reelection to the House of Representatives in 1996, but was elected to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021."
+    phone: "202-224-3542"
+    fax: "202-224-4680"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "728 Hart Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "728 Hart Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.reed.senate.gov"
+    contact_page: "https://www.reed.senate.gov/contact/"
+    facebook_url: "https://www.facebook.com/SenJackReed/"
+    twitter_handle: "SenJackReed"
+    twitter_url: "https://twitter.com/SenJackReed"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jack-reed.jpg"
   - 
     state_name: "Rhode Island"
     state_name_slug: "rhode-island"
@@ -4108,57 +4108,57 @@
     twitter_url: "https://twitter.com/SenatorRounds"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-rounds.jpg"
   - 
-    state_name: "Tennessee"
-    state_name_slug: "tennessee"
-    state_code: "TN"
-    state_code_slug: "tn"
-    class: "I"
-    bioguide: "B001243"
-    thomas: null
-    opensecrets: "N00003105"
-    votesmart: "25186"
-    fec: "S8TN00337"
+    state_name: "Ohio"
+    state_name_slug: "ohio"
+    state_code: "OH"
+    state_code_slug: "oh"
+    class: "III"
+    bioguide: "P000449"
+    thomas: "924"
+    opensecrets: "N00003682"
+    votesmart: "27008"
+    fec: null
     maplight: null
-    wikidata: "Q458971"
+    wikidata: null
     google_entity_id: null
     title: "senator"
     party: "republican"
-    name: "Marsha Blackburn"
-    name_slug: "marsha-blackburn"
-    first_name: "Marsha"
+    name: "Rob Portman"
+    name_slug: "rob-portman"
+    first_name: "Rob"
     middle_name: null
-    last_name: "Blackburn"
+    last_name: "Portman"
     name_suffix: null
     goes_by: null
-    pronunciation: "MARR-shuh BLAK-bern"
-    gender: "female"
+    pronunciation: "RAHB PORT-min"
+    gender: "male"
     ethnicity: "white-american"
-    religion: "unspecified"
+    religion: "methodist"
     openly_lgbtq: "no"
-    date_of_birth: "1952-06-06"
-    entered_office: "2019-01-03"
-    term_end: "2025-01-03"
-    biography: "Marsha Blackburn is a Republican member of the U.S. Senate from Tennessee. Blackburn was elected to the office on November 6, 2018. Blackburn is a member of the U.S. House of Representatives from the state of Tennessee, representing the 7th Congressional District. Blackburn was first elected in 2002."
-    phone: "202-224-3344"
+    date_of_birth: "1955-12-19"
+    entered_office: "2011-01-03"
+    term_end: "2023-01-03"
+    biography: "Robert Portman, a Senator and a Representative from Ohio; born in Cincinnati, Hamilton County, Ohio, December 19, 1955; graduated from the Cincinnati Country Day School, Cincinnati, Ohio; graduated Dartmouth College, Hanover, N.H., B.A., 1979; graduated University of Michigan School of Law, Ann Arbor, Mich., J.D., 1984; associate counsel to President George H. W. Bush 1989; deputy assistant and director, Office of Legislative Affairs, White House Office 1989-1991; elected as a Republican to the One Hundred Third Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Willis D. Gradison, Jr.; reelected to the six succeeding Congresses until his resignation on April 29, 2005 (May 4, 1993-April 29, 2005); U.S. Trade Representative, in the cabinet of President of George W. Bush 2005-2006; Director, Office of Management and Budget, in the cabinet of President George W. Bush 2006-2007; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
+    phone: "202-224-3353"
     fax: null
-    latitude: "38.892947"
-    longitude: "-77.075686"
-    address_complete: "B40B Dirksen Senate Office Building Washington DC 20510"
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "448 Russell Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "B40B Dirksen Senate Office Building Washington DC 20510"
+    address_street: "448 Russell Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "https://www.blackburn.senate.gov/"
-    contact_page: "https://www.blackburn.senate.gov/"
-    facebook_url: null
-    twitter_handle: null
-    twitter_url: null
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/marsha-blackburn.jpg"
+    website: "http://www.portman.senate.gov"
+    contact_page: "https://www.portman.senate.gov/public/index.cfm/contact?p=contact..."
+    facebook_url: "https://www.facebook.com/senrobportman"
+    twitter_handle: "robportman"
+    twitter_url: "https://twitter.com/robportman"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/rob-portman.jpg"
   - 
     state_name: "Tennessee"
     state_name_slug: "tennessee"
@@ -4212,161 +4212,161 @@
     twitter_url: "https://twitter.com/SenAlexander"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/lamar-alexander.jpg"
   - 
-    state_name: "Oregon"
-    state_name_slug: "oregon"
-    state_code: "OR"
-    state_code_slug: "or"
-    class: "III"
-    bioguide: "W000779"
-    thomas: "1247"
-    opensecrets: "N00007724"
-    votesmart: "27036"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Ron Wyden"
-    name_slug: "ron-wyden"
-    first_name: "Ron"
-    middle_name: null
-    last_name: "Wyden"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "RAHN WAHY-dn"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "jewish"
-    openly_lgbtq: "no"
-    date_of_birth: "1949-05-03"
-    entered_office: "1996-02-06"
-    term_end: "2023-01-03"
-    biography: "Ron Wyden, a Senator and a Representative from Oregon; born in Wichita, Sedgwick County, Kans., May 3, 1949; attended the public schools of Palo Alto, Calif.; A.B., Stanford University 1971; J.D., University of Oregon Law School in Eugene 1974; director, Oregon Legal Services for the Elderly 1977-1979; public member, Oregon State Board of Examiners of Nursing Home Administrators 1977-1979; elected as a Democrat to the Ninety-seventh and to the seven succeeding Congresses, and served from January 3, 1981, to February 5, 1996, when he resigned, having been elected to the Senate; elected to the Senate in a special election on January 30, 1996, to fill the unexpired portion of the term ending January 3, 1999, left vacant by the resignation of Robert W. Packwood, and began service on February 5, 1996; reelected in 1998, 2004 and again in 2010 for the term ending January 3, 2017; chair, Committee on Energy and Natural Resources (One Hundred Thirteenth Congress [January 3, 2013-February 12, 2014]), Committee on Finance (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015])."
-    phone: "202-224-5244"
-    fax: "202-228-2717"
-    latitude: "38.892947"
-    longitude: "-77.075686"
-    address_complete: "221 Dirksen Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "221 Dirksen Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.wyden.senate.gov"
-    contact_page: "https://www.wyden.senate.gov/contact/"
-    facebook_url: "https://www.facebook.com/wyden/"
-    twitter_handle: "RonWyden"
-    twitter_url: "https://twitter.com/RonWyden"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ron-wyden.jpg"
-  - 
-    state_name: "Rhode Island"
-    state_name_slug: "rhode-island"
-    state_code: "RI"
-    state_code_slug: "ri"
+    state_name: "Texas"
+    state_name_slug: "texas"
+    state_code: "TX"
+    state_code_slug: "tx"
     class: "II"
-    bioguide: "R000122"
-    thomas: "949"
-    opensecrets: "N00000362"
-    votesmart: "27060"
+    bioguide: "C001056"
+    thomas: "1692"
+    opensecrets: "N00024852"
+    votesmart: "15375"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Jack Reed"
-    name_slug: "jack-reed"
-    first_name: "Jack"
+    title: "senate-majority-whip"
+    party: "republican"
+    name: "John Cornyn"
+    name_slug: "john-cornyn"
+    first_name: "John"
     middle_name: null
-    last_name: "Reed"
+    last_name: "Cornyn"
     name_suffix: null
     goes_by: null
-    pronunciation: "JACK REED"
+    pronunciation: "JAHN KOR-nuhn"
     gender: "male"
     ethnicity: "white-american"
-    religion: "roman-catholic"
+    religion: "church-of-christ"
     openly_lgbtq: "no"
-    date_of_birth: "1949-11-12"
-    entered_office: "1997-01-03"
+    date_of_birth: "1952-02-02"
+    entered_office: "2002-12-01"
     term_end: "2021-01-03"
-    biography: "Jack Reed, a Senator and a Representative from Rhode Island; born in Providence, R.I., November 12, 1949; attended St. Matthew's Elementary School, Cranston, R.I.; graduated, LaSalle Academy, Providence, R.I., 1967; B.S., United States Military Academy, West Point 1971; M.P.P., Kennedy School of Government, Harvard University 1973; J.D., Harvard Law School 1982; served in the U.S. Army 1971-1979 and Army Reserve 1979-1991; associate professor, Department of Social Sciences, U.S. Military Academy 1977-1979; admitted to the Washington, D.C. bar 1983; lawyer; member, Rhode Island State Senate 1985-1990; elected as a Democrat to the One Hundred Second and to the two succeeding Congresses (January 3, 1991-January 2, 1997); was not a candidate for reelection to the House of Representatives in 1996, but was elected to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021."
-    phone: "202-224-3542"
-    fax: "202-224-4680"
+    biography: "John Cornyn, a Senator from Texas; born in Houston, Texas, on February 2, 1952; B.A., Trinity University 1973; J.D., St. Mary's School of Law 1977; LLM, University of Virginia 1995; attorney; Bexar County district court judge 1984-1990; Texas Supreme Court 1990-1997; Texas state attorney general 1999-2002; elected as a Republican to the U.S. Senate in 2002; subsequently appointed to the remainder of the term left vacant by the resignation of William Philip Gramm, and took the oath of office on December 2, 2002; reelected in 2008, and again in 2014 for the term ending January 3, 2021; Republican Conference vice-chair (2007-2009); chair, National Republican Senatorial Committee (2009-2012); Republican party whip (2013-)."
+    phone: "202-224-2934"
+    fax: "713- 572-3777"
     latitude: "38.892839"
     longitude: "-77.004356"
-    address_complete: "728 Hart Senate Office Building, Washington, DC 20510"
+    address_complete: "517 Hart Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "728 Hart Senate Office Building"
+    address_street: "517 Hart Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.reed.senate.gov"
-    contact_page: "https://www.reed.senate.gov/contact/"
-    facebook_url: "https://www.facebook.com/SenJackReed/"
-    twitter_handle: "SenJackReed"
-    twitter_url: "https://twitter.com/SenJackReed"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jack-reed.jpg"
+    website: "http://www.cornyn.senate.gov"
+    contact_page: "https://www.cornyn.senate.gov/contact"
+    facebook_url: "https://www.facebook.com/Sen.JohnCornyn"
+    twitter_handle: "JohnCornyn"
+    twitter_url: "https://twitter.com/JohnCornyn"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-cornyn.jpg"
   - 
-    state_name: "Utah"
-    state_name_slug: "utah"
-    state_code: "UT"
-    state_code_slug: "ut"
-    class: "III"
-    bioguide: "L000577"
-    thomas: "2080"
-    opensecrets: "N00031696"
-    votesmart: "66395"
+    state_name: "Texas"
+    state_name_slug: "texas"
+    state_code: "TX"
+    state_code_slug: "tx"
+    class: "I"
+    bioguide: "C001098"
+    thomas: "2175"
+    opensecrets: "N00033085"
+    votesmart: "135705"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
     party: "republican"
-    name: "Mike Lee"
-    name_slug: "mike-lee"
-    first_name: "Mike"
+    name: "Ted Cruz"
+    name_slug: "ted-cruz"
+    first_name: "Ted"
     middle_name: null
-    last_name: "Lee"
+    last_name: "Cruz"
     name_suffix: null
     goes_by: null
-    pronunciation: "MIKE LEE"
+    pronunciation: "TED KROOZ"
     gender: "male"
-    ethnicity: "white-american"
-    religion: "mormon"
+    ethnicity: "hispanic-american"
+    religion: "southern-baptist"
     openly_lgbtq: "no"
-    date_of_birth: "1971-06-04"
-    entered_office: "2011-01-03"
-    term_end: "2023-01-03"
-    biography: "Mike Lee, a Senator from Utah; born in Mesa, Ariz., June 4, 1971; graduated Brigham Young University, B.A., 1994; graduated Brigham Young University, J.D., 1997; law clerk to 3rd Circuit Court of Appeals Justice Samuel Alito 1998; lawyer; assistant U.S. attorney 2002-2005; counsel to Utah Governor John Huntsman 2005-2006; law clerk to United States Supreme Court Justice Samuel Alito 2006-2007; lawyer; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
-    phone: "202-224-5444"
+    date_of_birth: "1970-12-22"
+    entered_office: "2013-01-03"
+    term_end: "2019-01-03"
+    biography: "Ted Cruz, a Senator from Texas; born in Calgary, Alberta, Canada, December 22, 1970; graduated Princeton University, B.A., 1992; graduated Harvard University, J.D., 1995; law clerk to Chief Justice of the United States William Rehnquist; associate deputy attorney general, U.S. Department of Justice; Director of the Office of Policy Planning, Federal Trade Commission; solicitor general of Texas 2003-2008; lawyer; elected as a Republican to the United States Senate in 2012 for the term ending January 3, 2019."
+    phone: "202-224-5922"
     fax: null
     latitude: "38.892542"
     longitude: "-77.007415"
-    address_complete: "361A Russell Senate Office Building, Washington, DC 20510"
+    address_complete: "404 Russell Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "361A Russell Senate Office Building"
+    address_street: "404 Russell Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.lee.senate.gov"
-    contact_page: "https://www.lee.senate.gov/public/index.cfm/contact"
-    facebook_url: "https://www.facebook.com/senatormikelee"
-    twitter_handle: "SenMikeLee"
-    twitter_url: "https://twitter.com/SenMikeLee"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-lee.jpg"
+    website: "http://www.cruz.senate.gov"
+    contact_page: "https://www.cruz.senate.gov/?p=email_senator"
+    facebook_url: "https://www.facebook.com/SenatorTedCruz"
+    twitter_handle: "SenTedCruz"
+    twitter_url: "https://twitter.com/SenTedCruz"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ted-cruz.jpg"
+  - 
+    state_name: "New Mexico"
+    state_name_slug: "new-mexico"
+    state_code: "NM"
+    state_code_slug: "nm"
+    class: "I"
+    bioguide: "H001046"
+    thomas: "1937"
+    opensecrets: "N00029835"
+    votesmart: "74517"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Martin Heinrich"
+    name_slug: "martin-heinrich"
+    first_name: "Martin"
+    middle_name: null
+    last_name: "Heinrich"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "MAR-tn HINE-rehk"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "lutheran"
+    openly_lgbtq: "no"
+    date_of_birth: "1971-10-17"
+    entered_office: "2013-01-03"
+    term_end: "2019-01-03"
+    biography: "Martin Heinrich, a Senator and a Representative from New Mexico; born in Fallon, Churchill County, Nev.; October 17, 1971; B. S., University of Missouri, Columbia, Mo., 1995; attended University of New Mexico, Albuquerque, N. Mex., 2001-2002; engineer; business owner; member, Albuquerque, N. Mex., city council, 2003-2007; President, Albuquerque, N. Mex., city council, 2005-2006; trustee, New Mexico state natural resources, 2006; elected as a Democrat to the One Hundred Eleventh and to the succeeding Congress (January 3, 2009-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
+    phone: "202-224-5521"
+    fax: "202-228-2841"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "303 Hart Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "303 Hart Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.heinrich.senate.gov"
+    contact_page: "https://www.heinrich.senate.gov/contact"
+    facebook_url: "https://www.facebook.com/MartinHeinrich"
+    twitter_handle: "MartinHeinrich"
+    twitter_url: "https://twitter.com/MartinHeinrich"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/martin-heinrich.jpg"
   - 
     state_name: "Utah"
     state_name_slug: "utah"
@@ -4472,57 +4472,57 @@
     twitter_url: "https://twitter.com/MarkWarner"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mark-warner.jpg"
   - 
-    state_name: "Texas"
-    state_name_slug: "texas"
-    state_code: "TX"
-    state_code_slug: "tx"
+    state_name: "Virginia"
+    state_name_slug: "virginia"
+    state_code: "VA"
+    state_code_slug: "va"
     class: "I"
-    bioguide: "C001098"
-    thomas: "2175"
-    opensecrets: "N00033085"
-    votesmart: "135705"
+    bioguide: "K000384"
+    thomas: "2176"
+    opensecrets: "N00033177"
+    votesmart: "50772"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
-    party: "republican"
-    name: "Ted Cruz"
-    name_slug: "ted-cruz"
-    first_name: "Ted"
+    party: "democrat"
+    name: "Tim Kaine"
+    name_slug: "tim-kaine"
+    first_name: "Tim"
     middle_name: null
-    last_name: "Cruz"
+    last_name: "Kaine"
     name_suffix: null
     goes_by: null
-    pronunciation: "TED KROOZ"
+    pronunciation: "TIM KANE"
     gender: "male"
-    ethnicity: "hispanic-american"
-    religion: "southern-baptist"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
     openly_lgbtq: "no"
-    date_of_birth: "1970-12-22"
+    date_of_birth: "1958-02-26"
     entered_office: "2013-01-03"
     term_end: "2019-01-03"
-    biography: "Ted Cruz, a Senator from Texas; born in Calgary, Alberta, Canada, December 22, 1970; graduated Princeton University, B.A., 1992; graduated Harvard University, J.D., 1995; law clerk to Chief Justice of the United States William Rehnquist; associate deputy attorney general, U.S. Department of Justice; Director of the Office of Policy Planning, Federal Trade Commission; solicitor general of Texas 2003-2008; lawyer; elected as a Republican to the United States Senate in 2012 for the term ending January 3, 2019."
-    phone: "202-224-5922"
-    fax: null
+    biography: "Timothy Kaine, a Senator from Virginia; born in St. Paul, Minn., February 26, 1958; graduated University of Missouri, B.A., 1979; graduated Harvard University, J.D., 1983; lawyer; Richmond City Council 1994-1998; mayor of Richmond, Va., 1998-2001; lieutenant governor of Virginia 2002-2006; governor of Virginia 2006-2010; chairman of the Democratic National Committee 2009-2011; elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
+    phone: "202-224-4024"
+    fax: "202-228-6363"
     latitude: "38.892542"
     longitude: "-77.007415"
-    address_complete: "404 Russell Senate Office Building, Washington, DC 20510"
+    address_complete: "231 Russell Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "404 Russell Senate Office Building"
+    address_street: "231 Russell Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.cruz.senate.gov"
-    contact_page: "https://www.cruz.senate.gov/?p=email_senator"
-    facebook_url: "https://www.facebook.com/SenatorTedCruz"
-    twitter_handle: "SenTedCruz"
-    twitter_url: "https://twitter.com/SenTedCruz"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/ted-cruz.jpg"
+    website: "http://www.kaine.senate.gov"
+    contact_page: "https://www.kaine.senate.gov/contact"
+    facebook_url: "https://www.facebook.com/SenatorKaine"
+    twitter_handle: "timkaine"
+    twitter_url: "https://twitter.com/timkaine"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tim-kaine.jpg"
   - 
     state_name: "Vermont"
     state_name_slug: "vermont"
@@ -4679,162 +4679,6 @@
     twitter_handle: "SenatorCantwell"
     twitter_url: "https://twitter.com/SenatorCantwell"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/maria-cantwell.jpg"
-  - 
-    state_name: "Texas"
-    state_name_slug: "texas"
-    state_code: "TX"
-    state_code_slug: "tx"
-    class: "II"
-    bioguide: "C001056"
-    thomas: "1692"
-    opensecrets: "N00024852"
-    votesmart: "15375"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senate-majority-whip"
-    party: "republican"
-    name: "John Cornyn"
-    name_slug: "john-cornyn"
-    first_name: "John"
-    middle_name: null
-    last_name: "Cornyn"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "JAHN KOR-nuhn"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "church-of-christ"
-    openly_lgbtq: "no"
-    date_of_birth: "1952-02-02"
-    entered_office: "2002-12-01"
-    term_end: "2021-01-03"
-    biography: "John Cornyn, a Senator from Texas; born in Houston, Texas, on February 2, 1952; B.A., Trinity University 1973; J.D., St. Mary's School of Law 1977; LLM, University of Virginia 1995; attorney; Bexar County district court judge 1984-1990; Texas Supreme Court 1990-1997; Texas state attorney general 1999-2002; elected as a Republican to the U.S. Senate in 2002; subsequently appointed to the remainder of the term left vacant by the resignation of William Philip Gramm, and took the oath of office on December 2, 2002; reelected in 2008, and again in 2014 for the term ending January 3, 2021; Republican Conference vice-chair (2007-2009); chair, National Republican Senatorial Committee (2009-2012); Republican party whip (2013-)."
-    phone: "202-224-2934"
-    fax: "713- 572-3777"
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "517 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "517 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.cornyn.senate.gov"
-    contact_page: "https://www.cornyn.senate.gov/contact"
-    facebook_url: "https://www.facebook.com/Sen.JohnCornyn"
-    twitter_handle: "JohnCornyn"
-    twitter_url: "https://twitter.com/JohnCornyn"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-cornyn.jpg"
-  - 
-    state_name: "Virginia"
-    state_name_slug: "virginia"
-    state_code: "VA"
-    state_code_slug: "va"
-    class: "I"
-    bioguide: "K000384"
-    thomas: "2176"
-    opensecrets: "N00033177"
-    votesmart: "50772"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "democrat"
-    name: "Tim Kaine"
-    name_slug: "tim-kaine"
-    first_name: "Tim"
-    middle_name: null
-    last_name: "Kaine"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "TIM KANE"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1958-02-26"
-    entered_office: "2013-01-03"
-    term_end: "2019-01-03"
-    biography: "Timothy Kaine, a Senator from Virginia; born in St. Paul, Minn., February 26, 1958; graduated University of Missouri, B.A., 1979; graduated Harvard University, J.D., 1983; lawyer; Richmond City Council 1994-1998; mayor of Richmond, Va., 1998-2001; lieutenant governor of Virginia 2002-2006; governor of Virginia 2006-2010; chairman of the Democratic National Committee 2009-2011; elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019."
-    phone: "202-224-4024"
-    fax: "202-228-6363"
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "231 Russell Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "231 Russell Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.kaine.senate.gov"
-    contact_page: "https://www.kaine.senate.gov/contact"
-    facebook_url: "https://www.facebook.com/SenatorKaine"
-    twitter_handle: "timkaine"
-    twitter_url: "https://twitter.com/timkaine"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tim-kaine.jpg"
-  - 
-    state_name: "Pennsylvania"
-    state_name_slug: "pennsylvania"
-    state_code: "PA"
-    state_code_slug: "pa"
-    class: "III"
-    bioguide: "T000461"
-    thomas: "2085"
-    opensecrets: "N00001489"
-    votesmart: "24096"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Patrick Toomey"
-    name_slug: "patrick-toomey"
-    first_name: "Patrick"
-    middle_name: "J."
-    last_name: "Toomey"
-    name_suffix: null
-    goes_by: "Pat"
-    pronunciation: "PATT TOO-mee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1961-11-17"
-    entered_office: "2011-01-03"
-    term_end: "2023-01-03"
-    biography: "Patrick Toomey, a Senator and a Representative from Pennsylvania; born in Providence, Providence County, R.I., November 17, 1961; graduated from LaSalle Academy, Providence, R.I.; graduated Harvard University, Cambridge, Mass., B.A., 1984; elected to Allentown, Pa., Government Study Commission 1994; elected as a Republican to the One Hundred Sixth and to the two succeeding Congresses (January 3, 1999-January 3, 2005); was not a candidate for reelection in 2004, but was an unsuccessful candidate for nomination to the United States Senate; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
-    phone: "202-224-4254"
-    fax: "202-228-0284"
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "248 Russell Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "248 Russell Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.toomey.senate.gov"
-    contact_page: "https://www.toomey.senate.gov/?p=contact"
-    facebook_url: "https://www.facebook.com/senatortoomey"
-    twitter_handle: "SenToomey"
-    twitter_url: "https://twitter.com/SenToomey"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/patrick-toomey.jpg"
   - 
     state_name: "Washington"
     state_name_slug: "washington"
@@ -5147,6 +4991,162 @@
     twitter_handle: "SenJohnBarrasso"
     twitter_url: "https://twitter.com/SenJohnBarrasso"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-barrasso.jpg"
+  - 
+    state_name: "New Jersey"
+    state_name_slug: "new-jersey"
+    state_code: "NJ"
+    state_code_slug: "nj"
+    class: "II"
+    bioguide: "B001288"
+    thomas: "2194"
+    opensecrets: "N00035267"
+    votesmart: "76151"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Cory Booker"
+    name_slug: "cory-booker"
+    first_name: "Cory"
+    middle_name: null
+    last_name: "Booker"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "KOR-ee BOOK-er"
+    gender: "male"
+    ethnicity: "african-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1969-04-27"
+    entered_office: "2013-10-31"
+    term_end: "2021-01-03"
+    biography: "Cory Booker, a Senator from New Jersey; born on April 27, 1969, in Washington, D.C.; graduated Northern Valley Regional High School, Old Tappan, N.J., 1987; B.A., Stanford University, 1991; M.A., Stanford University, 1992; attended The Queen's College, University of Oxford, Oxford, England, as a Rhodes Scholar and received a graduate degree in 1994; J.D., Yale Law School, 1997; worked as an attorney in the non-profit sector; Newark City Council 1998-2002; Mayor of Newark, N.J. 2006-2013; elected as a Democrat to the United States Senate in a special election on October 16, 2013, to fill the vacancy caused by the death of Frank Lautenberg, a seat subsequently held by appointed Senator Jeffrey Chiesa, and took the oath of office on October 31, 2013; reelected in 2014 for the term ending January 3, 2021."
+    phone: "202-224-3224"
+    fax: "202-224-8378"
+    latitude: "38.892947"
+    longitude: "-77.075686"
+    address_complete: "359 Dirksen Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "359 Dirksen Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.booker.senate.gov"
+    contact_page: "https://www.booker.senate.gov/?p=contact"
+    facebook_url: "https://www.facebook.com/corybooker/"
+    twitter_handle: "CoryBooker"
+    twitter_url: "https://twitter.com/CoryBooker"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cory-booker.jpg"
+  - 
+    state_name: "Utah"
+    state_name_slug: "utah"
+    state_code: "UT"
+    state_code_slug: "ut"
+    class: "III"
+    bioguide: "L000577"
+    thomas: "2080"
+    opensecrets: "N00031696"
+    votesmart: "66395"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Mike Lee"
+    name_slug: "mike-lee"
+    first_name: "Mike"
+    middle_name: null
+    last_name: "Lee"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "MIKE LEE"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "mormon"
+    openly_lgbtq: "no"
+    date_of_birth: "1971-06-04"
+    entered_office: "2011-01-03"
+    term_end: "2023-01-03"
+    biography: "Mike Lee, a Senator from Utah; born in Mesa, Ariz., June 4, 1971; graduated Brigham Young University, B.A., 1994; graduated Brigham Young University, J.D., 1997; law clerk to 3rd Circuit Court of Appeals Justice Samuel Alito 1998; lawyer; assistant U.S. attorney 2002-2005; counsel to Utah Governor John Huntsman 2005-2006; law clerk to United States Supreme Court Justice Samuel Alito 2006-2007; lawyer; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
+    phone: "202-224-5444"
+    fax: null
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "361A Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "361A Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.lee.senate.gov"
+    contact_page: "https://www.lee.senate.gov/public/index.cfm/contact"
+    facebook_url: "https://www.facebook.com/senatormikelee"
+    twitter_handle: "SenMikeLee"
+    twitter_url: "https://twitter.com/SenMikeLee"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-lee.jpg"
+  - 
+    state_name: "Tennessee"
+    state_name_slug: "tennessee"
+    state_code: "TN"
+    state_code_slug: "tn"
+    class: "I"
+    bioguide: "B001243"
+    thomas: null
+    opensecrets: "N00003105"
+    votesmart: "25186"
+    fec: "S8TN00337"
+    maplight: null
+    wikidata: "Q458971"
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Marsha Blackburn"
+    name_slug: "marsha-blackburn"
+    first_name: "Marsha"
+    middle_name: null
+    last_name: "Blackburn"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "MARR-shuh BLAK-bern"
+    gender: "female"
+    ethnicity: "white-american"
+    religion: "unspecified"
+    openly_lgbtq: "no"
+    date_of_birth: "1952-06-06"
+    entered_office: "2019-01-03"
+    term_end: "2025-01-03"
+    biography: "Marsha Blackburn is a Republican member of the U.S. Senate from Tennessee. Blackburn was elected to the office on November 6, 2018. Blackburn is a member of the U.S. House of Representatives from the state of Tennessee, representing the 7th Congressional District. Blackburn was first elected in 2002."
+    phone: "202-224-3344"
+    fax: null
+    latitude: "38.892947"
+    longitude: "-77.075686"
+    address_complete: "B40B Dirksen Senate Office Building Washington DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "B40B Dirksen Senate Office Building Washington DC 20510"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "https://www.blackburn.senate.gov/"
+    contact_page: "https://www.blackburn.senate.gov/"
+    facebook_url: null
+    twitter_handle: null
+    twitter_url: null
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/marsha-blackburn.jpg"
   - 
     state_name: "Wyoming"
     state_name_slug: "wyoming"
