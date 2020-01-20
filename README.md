@@ -143,7 +143,7 @@ Updating House Data can be done with the following instructions:
 <details>
   <summary>View Instructions</summary>
 
-1. [Download Latest CSV](https://docs.google.com/spreadsheets/d/1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0/export?format=csv&id=1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0&gid=284703522) from Google Sheets
+1. [Download Latest CSV](http://bit.ly/116th-congress-us-senate) from Google Sheets
 2. Replace [./source/us-senate.csv](./source/us-senate.csv) with this new file
 3. Run the following commands:
 
