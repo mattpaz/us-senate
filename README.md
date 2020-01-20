@@ -28,6 +28,8 @@ Data Source
 
 Our team Manages the [116th Congress United States Senate Demographic Data](http://bit.ly/116th-congress-us-senate).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
 
+> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/116th-congress-us-senate).  If you edit the data in this repo manually, it will get overwritten.
+
 
 Completed Tasks
 ---

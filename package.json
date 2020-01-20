@@ -1,8 +1,12 @@
 {
   "name": "civil-services-us-senate",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "116th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
+  "engines": {
+    "node": ">= 12.12.0",
+    "npm": ">= 6.13.0"
+  },
   "keywords": [
     "Civil Services",
     "US",
@@ -67,7 +71,7 @@
     "url": "https://civil.services"
   },
   "scripts": {
-    "update-csv": "curl -o ./source/us-senate.csv 'https://docs.google.com/spreadsheets/d/1sbkk-E9odeEa-AvmioYrrcmjgCZmOvZ_JlFlTiytzFY/export?format=csv&id=1sbkk-E9odeEa-AvmioYrrcmjgCZmOvZ_JlFlTiytzFY&gid=284703522'",
+    "update-csv": "curl -o ./source/us-senate.csv 'https://docs.google.com/spreadsheets/d/1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0/export?format=csv&id=1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0&gid=284703522'",
     "json-to-yml": "if ( test -e ./us-senate/data/us-senate.json ); then ./node_modules/.bin/json2yaml ./us-senate/data/us-senate.json > ./us-senate/data/us-senate.yml && echo '✓ Updated us-senate/data/us-senate.yml'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
     "json-to-xml": "if ( test -e ./us-senate/data/us-senate.json ); then node ./.scripts/json-to-xml.js && echo '✓ Updated us-senate/data/us-senate.xml'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
     "csv-to-sql": "if ( test -e ./us-senate/data/us-senate.json ); then node ./.scripts/csv-to-sql.js && echo '✓ Updated us-senate/data/us-senate.sql'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
@@ -82,20 +86,20 @@
     "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-seeder && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
-    "bluebird": "^3.4.7",
-    "csvtojson": "^1.1.2",
-    "fast-csv": "^2.3.0",
-    "glob": "^7.1.1",
-    "gm": "^1.23.0",
-    "htmlparser2": "^3.9.2",
-    "js2xmlparser": "^2.0.2",
+    "bluebird": "^3.7.2",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^4.0.2",
+    "glob": "^7.1.6",
+    "gm": "^1.23.1",
+    "htmlparser2": "^4.0.0",
+    "js2xmlparser": "^4.0.0",
     "json-pretty-print": "0.0.4",
-    "json2csv": "^3.7.3",
+    "json2csv": "^4.5.4",
     "json2yaml": "^1.1.0",
-    "jsdom": "^13.1.0",
-    "object.values": "^1.0.4",
-    "parse-address": "0.0.10",
-    "slug": "^0.9.1",
+    "jsdom": "^16.0.1",
+    "object.values": "^1.1.1",
+    "parse-address": "1.1.2",
+    "slug": "^2.1.0",
     "stream-replace": "^1.0.0"
   }
 }

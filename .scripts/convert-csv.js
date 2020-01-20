@@ -16,7 +16,7 @@ if (fs.existsSync(core)) {
   fs.truncate(converted, 0, function() {
     var stream = fs.createReadStream(core);
 
-    csv.fromStream(stream, {headers : true}).validate(function(data){
+    csv.parseStream(stream, {headers : true}).validate(function(data){
 
       var validGender = [
         'female',
@@ -56,9 +56,6 @@ if (fs.existsSync(core)) {
 
       if (data.vacant !== 'yes' && data.state === '') {
         console.error('× Missing Required State');
-        return false;
-      } else if (data.vacant !== 'yes' && data.state_code === '') {
-        console.error('× Missing Required State Code');
         return false;
       } else if (data.vacant !== 'yes' && data.state_code === '') {
         console.error('× Missing Required State Code');
