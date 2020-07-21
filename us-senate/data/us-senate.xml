@@ -631,10 +631,63 @@
         <address_type>Building</address_type>
         <website>http://www.bennet.senate.gov</website>
         <contact_page>https://www.bennet.senate.gov/?p=contact</contact_page>
-        <facebook_url>https://facebook.com/senatorbennet</facebook_url>
+        <facebook_url>https://facebook.com/SenatorBennet</facebook_url>
         <twitter_handle>SenBennetCO</twitter_handle>
         <twitter_url>https://twitter.com/SenBennetCO</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/michael-bennet.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Connecticut</state_name>
+        <state_name_slug>connecticut</state_name_slug>
+        <state_code>CT</state_code>
+        <state_code_slug>ct</state_code_slug>
+        <class>I</class>
+        <bioguide>M001169</bioguide>
+        <thomas>1837</thomas>
+        <opensecrets>N00027566</opensecrets>
+        <votesmart>17189</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Christopher Murphy</name>
+        <name_slug>christopher-murphy</name_slug>
+        <first_name>Christopher</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Murphy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Chris</goes_by>
+        <pronunciation>KRISS MER-fee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>protestant</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1973-08-03</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Christopher Murphy, a Senator and a Representative from Connecticut; born in White Plains, Westchester County, N.Y., August 3, 1973; B.A., Williams College, Williamstown, Mass., 1996; attended Exeter College, Oxford, England, 1994-1995; J.D., University of Connecticut, Hartford, Conn., 2002; lawyer, private practice; Southington, Conn., planning and zoning commission, 1997-1999; member of the Connecticut state house of representatives, 1999-2003; member of the Connecticut state senate, 2003-2006; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
+        <phone>202-224-4041</phone>
+        <fax>202-224-9750</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>136 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>136 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.murphy.senate.gov</website>
+        <contact_page>https://www.murphy.senate.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/ChrisMurphyCT</facebook_url>
+        <twitter_handle>ChrisMurphyCT</twitter_handle>
+        <twitter_url>https://twitter.com/ChrisMurphyCT</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/christopher-murphy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Connecticut</state_name>
@@ -849,59 +902,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/rick-scott.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Connecticut</state_name>
-        <state_name_slug>connecticut</state_name_slug>
-        <state_code>CT</state_code>
-        <state_code_slug>ct</state_code_slug>
-        <class>I</class>
-        <bioguide>M001169</bioguide>
-        <thomas>1837</thomas>
-        <opensecrets>N00027566</opensecrets>
-        <votesmart>17189</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Christopher Murphy</name>
-        <name_slug>christopher-murphy</name_slug>
-        <first_name>Christopher</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Murphy</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Chris</goes_by>
-        <pronunciation>KRISS MER-fee</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1973-08-03</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Christopher Murphy, a Senator and a Representative from Connecticut; born in White Plains, Westchester County, N.Y., August 3, 1973; B.A., Williams College, Williamstown, Mass., 1996; attended Exeter College, Oxford, England, 1994-1995; J.D., University of Connecticut, Hartford, Conn., 2002; lawyer, private practice; Southington, Conn., planning and zoning commission, 1997-1999; member of the Connecticut state house of representatives, 1999-2003; member of the Connecticut state senate, 2003-2006; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
-        <phone>202-224-4041</phone>
-        <fax>202-224-9750</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>136 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>136 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.murphy.senate.gov</website>
-        <contact_page>https://www.murphy.senate.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/ChrisMurphyCT</facebook_url>
-        <twitter_handle>ChrisMurphyCT</twitter_handle>
-        <twitter_url>https://twitter.com/ChrisMurphyCT</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/christopher-murphy.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Florida</state_name>
         <state_name_slug>florida</state_name_slug>
         <state_code>FL</state_code>
@@ -1114,6 +1114,59 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/brian-schatz.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Hawaii</state_name>
+        <state_name_slug>hawaii</state_name_slug>
+        <state_code>HI</state_code>
+        <state_code_slug>hi</state_code_slug>
+        <class>I</class>
+        <bioguide>H001042</bioguide>
+        <thomas>1844</thomas>
+        <opensecrets>N00028139</opensecrets>
+        <votesmart>1677</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Mazie Hirono</name>
+        <name_slug>mazie-hirono</name_slug>
+        <first_name>Mazie</first_name>
+        <middle_name>K.</middle_name>
+        <last_name>Hirono</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>MAY-zee hear-OH-noh [O's unrounded]</pronunciation>
+        <gender>female</gender>
+        <ethnicity>asian-american</ethnicity>
+        <religion>buddhism</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1947-11-03</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Mazie Hirono, a Senator and a Representative from Hawaii; born in Fukushima, Japan, November 3, 1947; graduated from Kaimuki High School, Honolulu, Hawaii; B.A., University of Hawaii, Manoa, Hawaii, 1970; J.D., Georgetown University, Washington, D.C., 1978; lawyer, private practice; member of the Hawaii state house of representatives, 1981-1994; Hawaii lieutenant governor, 1994-2002; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
+        <phone>202-224-6361</phone>
+        <fax>202-224-2126</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>330 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>330 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.hirono.senate.gov</website>
+        <contact_page>https://www.hirono.senate.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/senatorhirono</facebook_url>
+        <twitter_handle>maziehirono</twitter_handle>
+        <twitter_url>https://twitter.com/maziehirono</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mazie-hirono.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Iowa</state_name>
         <state_name_slug>iowa</state_name_slug>
         <state_code>IA</state_code>
@@ -1165,6 +1218,112 @@
         <twitter_handle>ChuckGrassley</twitter_handle>
         <twitter_url>https://twitter.com/ChuckGrassley</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Iowa</state_name>
+        <state_name_slug>iowa</state_name_slug>
+        <state_code>IA</state_code>
+        <state_code_slug>ia</state_code_slug>
+        <class>II</class>
+        <bioguide>E000295</bioguide>
+        <thomas>2283</thomas>
+        <opensecrets>N00035483</opensecrets>
+        <votesmart>128583</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Joni Ernst</name>
+        <name_slug>joni-ernst</name_slug>
+        <first_name>Joni</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Ernst</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JOH-nee URNST</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1970-07-01</date_of_birth>
+        <entered_office>2015-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>Joni Ernst, a Senator from Iowa; born in Red Oak, Montgomery County, Iowa, July 1, 1970; B.A., Iowa State University, 1992; M.P.A., Columbus College (now Columbus State University), Columbus, Ga., 1995; United States Army Reserves, 1993-2001; Iowa Army National Guard, 2001-present, attaining the rank of lieutenant colonel; auditor of Montgomery County, Iowa, 2005-2011; member of the Iowa state Senate 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-3254</phone>
+        <fax>202-224-9369</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>111 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>111 Russell Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.ernst.senate.gov</website>
+        <contact_page>https://www.ernst.senate.gov/public/index.cfm/contact</contact_page>
+        <facebook_url>https://facebook.com/joniforiowa</facebook_url>
+        <twitter_handle>joniernst</twitter_handle>
+        <twitter_url>https://twitter.com/joniernst</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/joni-ernst.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Idaho</state_name>
+        <state_name_slug>idaho</state_name_slug>
+        <state_code>ID</state_code>
+        <state_code_slug>id</state_code_slug>
+        <class>II</class>
+        <bioguide>R000584</bioguide>
+        <thomas>1896</thomas>
+        <opensecrets>N00029441</opensecrets>
+        <votesmart>2919</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>James Risch</name>
+        <name_slug>james-risch</name_slug>
+        <first_name>James</first_name>
+        <middle_name>E.</middle_name>
+        <last_name>Risch</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Jim</goes_by>
+        <pronunciation>JIM RESH [Rhymes with mesh]</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1943-05-03</date_of_birth>
+        <entered_office>2009-01-03</entered_office>
+        <term_end>2021-01-03</term_end>
+        <biography>James Risch, a Senator from Idaho; born in Milwaukee, Wis., May 3, 1943; B.A., attended the University of Wisconsin, Milwaukee, 1961-1963; B.S. in Forestry, University of Idaho, 1965; J.D., University of Idaho College of Law, 1968; Ada County, Idaho, prosecuting attorney, 1970-1974; Idaho State Senator, 1974-1989 and 1995-2003, serving as majority leader (1976-1982), and as president pro tempore (1982-1989); lieutenant governor of Idaho, 2003-2006 and 2007-2009; governor of Idaho, 2006; elected as a Republican to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-2752</phone>
+        <fax>202-224-2573</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>483 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>483 Russell Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.risch.senate.gov</website>
+        <contact_page>https://www.risch.senate.gov/public/index.cfm?p=Email</contact_page>
+        <facebook_url>https://facebook.com/SenatorRisch</facebook_url>
+        <twitter_handle>SenatorRisch</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorRisch</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Idaho</state_name>
@@ -1644,59 +1803,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/rand-paul.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Hawaii</state_name>
-        <state_name_slug>hawaii</state_name_slug>
-        <state_code>HI</state_code>
-        <state_code_slug>hi</state_code_slug>
-        <class>I</class>
-        <bioguide>H001042</bioguide>
-        <thomas>1844</thomas>
-        <opensecrets>N00028139</opensecrets>
-        <votesmart>1677</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Mazie Hirono</name>
-        <name_slug>mazie-hirono</name_slug>
-        <first_name>Mazie</first_name>
-        <middle_name>K.</middle_name>
-        <last_name>Hirono</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>MAY-zee hear-OH-noh [O's unrounded]</pronunciation>
-        <gender>female</gender>
-        <ethnicity>asian-american</ethnicity>
-        <religion>buddhism</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1947-11-03</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Mazie Hirono, a Senator and a Representative from Hawaii; born in Fukushima, Japan, November 3, 1947; graduated from Kaimuki High School, Honolulu, Hawaii; B.A., University of Hawaii, Manoa, Hawaii, 1970; J.D., Georgetown University, Washington, D.C., 1978; lawyer, private practice; member of the Hawaii state house of representatives, 1981-1994; Hawaii lieutenant governor, 1994-2002; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
-        <phone>202-224-6361</phone>
-        <fax>202-224-2126</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>330 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>330 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.hirono.senate.gov</website>
-        <contact_page>https://www.hirono.senate.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/senatorhirono</facebook_url>
-        <twitter_handle>maziehirono</twitter_handle>
-        <twitter_url>https://twitter.com/maziehirono</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mazie-hirono.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Louisiana</state_name>
         <state_name_slug>louisiana</state_name_slug>
         <state_code>LA</state_code>
@@ -1801,112 +1907,6 @@
         <twitter_handle>JohnKennedyLA</twitter_handle>
         <twitter_url>https://twitter.com/JohnKennedyLA</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-kennedy.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Idaho</state_name>
-        <state_name_slug>idaho</state_name_slug>
-        <state_code>ID</state_code>
-        <state_code_slug>id</state_code_slug>
-        <class>II</class>
-        <bioguide>R000584</bioguide>
-        <thomas>1896</thomas>
-        <opensecrets>N00029441</opensecrets>
-        <votesmart>2919</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>James Risch</name>
-        <name_slug>james-risch</name_slug>
-        <first_name>James</first_name>
-        <middle_name>E.</middle_name>
-        <last_name>Risch</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Jim</goes_by>
-        <pronunciation>JIM RESH [Rhymes with mesh]</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1943-05-03</date_of_birth>
-        <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>James Risch, a Senator from Idaho; born in Milwaukee, Wis., May 3, 1943; B.A., attended the University of Wisconsin, Milwaukee, 1961-1963; B.S. in Forestry, University of Idaho, 1965; J.D., University of Idaho College of Law, 1968; Ada County, Idaho, prosecuting attorney, 1970-1974; Idaho State Senator, 1974-1989 and 1995-2003, serving as majority leader (1976-1982), and as president pro tempore (1982-1989); lieutenant governor of Idaho, 2003-2006 and 2007-2009; governor of Idaho, 2006; elected as a Republican to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-2752</phone>
-        <fax>202-224-2573</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>483 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>483 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.risch.senate.gov</website>
-        <contact_page>https://www.risch.senate.gov/public/index.cfm?p=Email</contact_page>
-        <facebook_url>https://facebook.com/SenatorRisch</facebook_url>
-        <twitter_handle>SenatorRisch</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorRisch</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Iowa</state_name>
-        <state_name_slug>iowa</state_name_slug>
-        <state_code>IA</state_code>
-        <state_code_slug>ia</state_code_slug>
-        <class>II</class>
-        <bioguide>E000295</bioguide>
-        <thomas>2283</thomas>
-        <opensecrets>N00035483</opensecrets>
-        <votesmart>128583</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Joni Ernst</name>
-        <name_slug>joni-ernst</name_slug>
-        <first_name>Joni</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Ernst</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JOH-nee URNST</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1970-07-01</date_of_birth>
-        <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Joni Ernst, a Senator from Iowa; born in Red Oak, Montgomery County, Iowa, July 1, 1970; B.A., Iowa State University, 1992; M.P.A., Columbus College (now Columbus State University), Columbus, Ga., 1995; United States Army Reserves, 1993-2001; Iowa Army National Guard, 2001-present, attaining the rank of lieutenant colonel; auditor of Montgomery County, Iowa, 2005-2011; member of the Iowa state Senate 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-3254</phone>
-        <fax>202-224-9369</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>111 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>111 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.ernst.senate.gov</website>
-        <contact_page>https://www.ernst.senate.gov/public/index.cfm/contact</contact_page>
-        <facebook_url>https://facebook.com/joniforiowa</facebook_url>
-        <twitter_handle>joniernst</twitter_handle>
-        <twitter_url>https://twitter.com/joniernst</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/joni-ernst.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Massachusetts</state_name>
@@ -3075,6 +3075,112 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/deb-fischer.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>New Hampshire</state_name>
+        <state_name_slug>new-hampshire</state_name_slug>
+        <state_code>NH</state_code>
+        <state_code_slug>nh</state_code_slug>
+        <class>II</class>
+        <bioguide>S001181</bioguide>
+        <thomas>1901</thomas>
+        <opensecrets>N00024790</opensecrets>
+        <votesmart>1663</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Jeanne Shaheen</name>
+        <name_slug>jeanne-shaheen</name_slug>
+        <first_name>Jeanne</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Shaheen</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JEEN shuh-HEEN</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>protestant</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1947-01-28</date_of_birth>
+        <entered_office>2009-01-03</entered_office>
+        <term_end>2021-01-13</term_end>
+        <biography>Jeanne Shaheen, a Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State Senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-2841</phone>
+        <fax>null</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>506 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>506 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.shaheen.senate.gov</website>
+        <contact_page>https://www.shaheen.senate.gov/contact/contact-jeanne</contact_page>
+        <facebook_url>https://facebook.com/SenatorShaheen</facebook_url>
+        <twitter_handle>SenatorShaheen</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorShaheen</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jeanne-shaheen.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Hampshire</state_name>
+        <state_name_slug>new-hampshire</state_name_slug>
+        <state_code>NH</state_code>
+        <state_code_slug>nh</state_code_slug>
+        <class>III</class>
+        <bioguide>H001076</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00038397</opensecrets>
+        <votesmart>42552</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Margaret Hassan</name>
+        <name_slug>margaret-hassan</name_slug>
+        <first_name>Margaret</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Hassan</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Maggie</goes_by>
+        <pronunciation>MAG-ee HASS-uhn</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>united-church-of-christ</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1958-02-27</date_of_birth>
+        <entered_office>2017-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Maggie Hassan, a Senator from New Hampshire; born in Boston, Mass., February 27, 1958; B.A., Brown University, 1980; J.D., Northeastern University School of Law, 1985; lawyer; member of the New Hampshire Advisory Committee to the Adequacy in Education and Finance Commission; member of the New Hampshire state Senate 2005-2010, serving as majority leader 2008-2010; governor of New Hampshire 2013-2016; elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.</biography>
+        <phone>202-224-3324</phone>
+        <fax>null</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>B85 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>B85 Russell Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.hassan.senate.gov</website>
+        <contact_page>https://www.hassan.senate.gov/content/contact-senator</contact_page>
+        <facebook_url>https://facebook.com/maggiefornh</facebook_url>
+        <twitter_handle>Maggie_Hassan</twitter_handle>
+        <twitter_url>https://twitter.com/Maggie_Hassan</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/margaret-hassan.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>New Jersey</state_name>
         <state_name_slug>new-jersey</state_name_slug>
         <state_code>NJ</state_code>
@@ -3126,6 +3232,59 @@
         <twitter_handle>CoryBooker</twitter_handle>
         <twitter_url>https://twitter.com/CoryBooker</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/cory-booker.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <class>I</class>
+        <bioguide>M000639</bioguide>
+        <thomas>791</thomas>
+        <opensecrets>N00000699</opensecrets>
+        <votesmart>26961</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Robert Menendez</name>
+        <name_slug>robert-menendez</name_slug>
+        <first_name>Robert</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Menendez</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BAHB men-EN-dez</pronunciation>
+        <gender>male</gender>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1954-01-01</date_of_birth>
+        <entered_office>2006-01-18</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Robert Menendez, a Senator and a Representative from New Jersey; born in New York, N.Y., on January 1, 1954; graduated from Union Hill High School, Union City, N.J., 1972; B.A., Saint Peter's College, Jersey City, N.J., 1976; J.D., Rutgers University School of Law, Newark, N.J., 1979; lawyer, private practice; member of the Union City, N.J., board of education 1974-1978, and chief financial officer 1978-1982; mayor of Union City, N.J., 1986-1992; member of the New Jersey state general assembly 1987-1991; Member of the New Jersey state Senate 1991-1993; elected as a Democrat to the One Hundred Third and to the six succeeding Congresses, and served from January 3, 1993, to January 16, 2006, when he resigned to become a U.S. senator; chair, House Democratic Caucus (One Hundred Eighth through One Hundred Ninth Congresses); appointed on January 17, 2006, to the United States Senate to fill vacancy caused by resignation of Jon S. Corzine; service began on January 17, 2006, and took the oath of office on January 18, 2006; elected to the U.S. Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Democratic Senatorial Campaign Committee (2008-2011), Committee on Foreign Relations (One Hundred Thirteenth Congress [February 1, 2013-January 3, 2015]).</biography>
+        <phone>202-224-4744</phone>
+        <fax>202-228-2197</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>528 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>528 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://menendez.senate.gov</website>
+        <contact_page>https://www.menendez.senate.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/senatormenendez</facebook_url>
+        <twitter_handle>SenatorMenendez</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorMenendez</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/robert-menendez.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Mexico</state_name>
@@ -4135,59 +4294,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-thune.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Tennessee</state_name>
-        <state_name_slug>tennessee</state_name_slug>
-        <state_code>TN</state_code>
-        <state_code_slug>tn</state_code_slug>
-        <class>I</class>
-        <bioguide>B001243</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00003105</opensecrets>
-        <votesmart>25186</votesmart>
-        <fec>S8TN00337</fec>
-        <maplight>null</maplight>
-        <wikidata>Q458971</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Marsha Blackburn</name>
-        <name_slug>marsha-blackburn</name_slug>
-        <first_name>Marsha</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Blackburn</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>MARR-shuh BLAK-bern</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1952-06-06</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2025-01-03</term_end>
-        <biography>Marsha Blackburn is a Republican member of the U.S. Senate from Tennessee. Blackburn was elected to the office on November 6, 2018. Blackburn is a member of the U.S. House of Representatives from the state of Tennessee, representing the 7th Congressional District. Blackburn was first elected in 2002.</biography>
-        <phone>202-224-3344</phone>
-        <fax>null</fax>
-        <latitude>38.892947</latitude>
-        <longitude>-77.075686</longitude>
-        <address_complete>B40B Dirksen Senate Office Building Washington DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>B40B Dirksen Senate Office Building Washington DC 20510</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>https://www.blackburn.senate.gov/</website>
-        <contact_page>https://www.blackburn.senate.gov/</contact_page>
-        <facebook_url>https://facebook.com/marshablackburn</facebook_url>
-        <twitter_handle>MarshaBlackburn</twitter_handle>
-        <twitter_url>https://twitter.com/MarshaBlackburn</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/marsha-blackburn.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>South Dakota</state_name>
         <state_name_slug>south-dakota</state_name_slug>
         <state_code>SD</state_code>
@@ -4239,6 +4345,59 @@
         <twitter_handle>SenatorRounds</twitter_handle>
         <twitter_url>https://twitter.com/SenatorRounds</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-rounds.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Tennessee</state_name>
+        <state_name_slug>tennessee</state_name_slug>
+        <state_code>TN</state_code>
+        <state_code_slug>tn</state_code_slug>
+        <class>I</class>
+        <bioguide>B001243</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00003105</opensecrets>
+        <votesmart>25186</votesmart>
+        <fec>S8TN00337</fec>
+        <maplight>null</maplight>
+        <wikidata>Q458971</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Marsha Blackburn</name>
+        <name_slug>marsha-blackburn</name_slug>
+        <first_name>Marsha</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Blackburn</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>MARR-shuh BLAK-bern</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1952-06-06</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2025-01-03</term_end>
+        <biography>Marsha Blackburn is a Republican member of the U.S. Senate from Tennessee. Blackburn was elected to the office on November 6, 2018. Blackburn is a member of the U.S. House of Representatives from the state of Tennessee, representing the 7th Congressional District. Blackburn was first elected in 2002.</biography>
+        <phone>202-224-3344</phone>
+        <fax>null</fax>
+        <latitude>38.892947</latitude>
+        <longitude>-77.075686</longitude>
+        <address_complete>B40B Dirksen Senate Office Building Washington DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>B40B Dirksen Senate Office Building Washington DC 20510</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>https://www.blackburn.senate.gov/</website>
+        <contact_page>https://www.blackburn.senate.gov/</contact_page>
+        <facebook_url>https://facebook.com/marshablackburn</facebook_url>
+        <twitter_handle>MarshaBlackburn</twitter_handle>
+        <twitter_url>https://twitter.com/MarshaBlackburn</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/marsha-blackburn.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Tennessee</state_name>
@@ -5140,164 +5299,5 @@
         <twitter_handle>SenatorEnzi</twitter_handle>
         <twitter_url>https://twitter.com/SenatorEnzi</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/michael-enzi.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Hampshire</state_name>
-        <state_name_slug>new-hampshire</state_name_slug>
-        <state_code>NH</state_code>
-        <state_code_slug>nh</state_code_slug>
-        <class>II</class>
-        <bioguide>S001181</bioguide>
-        <thomas>1901</thomas>
-        <opensecrets>N00024790</opensecrets>
-        <votesmart>1663</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Jeanne Shaheen</name>
-        <name_slug>jeanne-shaheen</name_slug>
-        <first_name>Jeanne</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Shaheen</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JEEN shuh-HEEN</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1947-01-28</date_of_birth>
-        <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-13</term_end>
-        <biography>Jeanne Shaheen, a Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State Senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-2841</phone>
-        <fax>null</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>506 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>506 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.shaheen.senate.gov</website>
-        <contact_page>https://www.shaheen.senate.gov/contact/contact-jeanne</contact_page>
-        <facebook_url>https://facebook.com/SenatorShaheen</facebook_url>
-        <twitter_handle>SenatorShaheen</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorShaheen</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jeanne-shaheen.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Hampshire</state_name>
-        <state_name_slug>new-hampshire</state_name_slug>
-        <state_code>NH</state_code>
-        <state_code_slug>nh</state_code_slug>
-        <class>III</class>
-        <bioguide>H001076</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00038397</opensecrets>
-        <votesmart>42552</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Margaret Hassan</name>
-        <name_slug>margaret-hassan</name_slug>
-        <first_name>Margaret</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Hassan</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Maggie</goes_by>
-        <pronunciation>MAG-ee HASS-uhn</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>united-church-of-christ</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-02-27</date_of_birth>
-        <entered_office>2017-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Maggie Hassan, a Senator from New Hampshire; born in Boston, Mass., February 27, 1958; B.A., Brown University, 1980; J.D., Northeastern University School of Law, 1985; lawyer; member of the New Hampshire Advisory Committee to the Adequacy in Education and Finance Commission; member of the New Hampshire state Senate 2005-2010, serving as majority leader 2008-2010; governor of New Hampshire 2013-2016; elected as a Democrat to the United States Senate in 2016 for the term ending January 3, 2023.</biography>
-        <phone>202-224-3324</phone>
-        <fax>null</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>B85 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>B85 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.hassan.senate.gov</website>
-        <contact_page>https://www.hassan.senate.gov/content/contact-senator</contact_page>
-        <facebook_url>https://facebook.com/maggiefornh</facebook_url>
-        <twitter_handle>Maggie_Hassan</twitter_handle>
-        <twitter_url>https://twitter.com/Maggie_Hassan</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/margaret-hassan.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
-        <class>I</class>
-        <bioguide>M000639</bioguide>
-        <thomas>791</thomas>
-        <opensecrets>N00000699</opensecrets>
-        <votesmart>26961</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Robert Menendez</name>
-        <name_slug>robert-menendez</name_slug>
-        <first_name>Robert</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Menendez</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BAHB men-EN-dez</pronunciation>
-        <gender>male</gender>
-        <ethnicity>hispanic-american</ethnicity>
-        <religion>christian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1954-01-01</date_of_birth>
-        <entered_office>2006-01-18</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Robert Menendez, a Senator and a Representative from New Jersey; born in New York, N.Y., on January 1, 1954; graduated from Union Hill High School, Union City, N.J., 1972; B.A., Saint Peter's College, Jersey City, N.J., 1976; J.D., Rutgers University School of Law, Newark, N.J., 1979; lawyer, private practice; member of the Union City, N.J., board of education 1974-1978, and chief financial officer 1978-1982; mayor of Union City, N.J., 1986-1992; member of the New Jersey state general assembly 1987-1991; Member of the New Jersey state Senate 1991-1993; elected as a Democrat to the One Hundred Third and to the six succeeding Congresses, and served from January 3, 1993, to January 16, 2006, when he resigned to become a U.S. senator; chair, House Democratic Caucus (One Hundred Eighth through One Hundred Ninth Congresses); appointed on January 17, 2006, to the United States Senate to fill vacancy caused by resignation of Jon S. Corzine; service began on January 17, 2006, and took the oath of office on January 18, 2006; elected to the U.S. Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Democratic Senatorial Campaign Committee (2008-2011), Committee on Foreign Relations (One Hundred Thirteenth Congress [February 1, 2013-January 3, 2015]).</biography>
-        <phone>202-224-4744</phone>
-        <fax>202-228-2197</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>528 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>528 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://menendez.senate.gov</website>
-        <contact_page>https://www.menendez.senate.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/senatormenendez</facebook_url>
-        <twitter_handle>SenatorMenendez</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorMenendez</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/robert-menendez.jpg</photo_url>
     </councilor>
 </us-senate>
