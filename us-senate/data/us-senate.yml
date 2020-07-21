@@ -620,8 +620,8 @@
     website: "http://www.bennet.senate.gov"
     contact_page: "https://www.bennet.senate.gov/?p=contact"
     facebook_url: "https://facebook.com/SenatorBennet"
-    twitter_handle: "SenBennetCO"
-    twitter_url: "https://twitter.com/SenBennetCO"
+    twitter_handle: "SenatorBennet"
+    twitter_url: "https://twitter.com/SenatorBennet"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/michael-bennet.jpg"
   - 
     state_name: "Connecticut"
@@ -1148,58 +1148,6 @@
     state_name_slug: "iowa"
     state_code: "IA"
     state_code_slug: "ia"
-    class: "III"
-    bioguide: "G000386"
-    thomas: "457"
-    opensecrets: "N00001758"
-    votesmart: "53293"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Charles Grassley"
-    name_slug: "charles-grassley"
-    first_name: "Charles"
-    middle_name: null
-    last_name: "Grassley"
-    name_suffix: null
-    goes_by: "Chuck"
-    pronunciation: "CHUHK GRASS-lee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "baptist"
-    openly_lgbtq: "no"
-    date_of_birth: "1933-09-17"
-    entered_office: "1981-01-03"
-    term_end: "2023-01-03"
-    biography: "Charles Grassley, a Senator and a Representative from Iowa; born in New Hartford, Butler County, Iowa, September 17, 1933; attended the public schools; graduated, University of Northern Iowa, Cedar Falls 1955; received a graduate degree from the same university in 1956; pursued graduate work, University of Iowa, Iowa City 1957-1958; engaged in agriculture; part-time university instructor; member, Iowa house of representatives 1959-1974; elected in 1974 as a Republican to the Ninety-fourth Congress; reelected to the Ninety-fifth and Ninety-sixth Congresses (January 3, 1975-January 3, 1981); was not a candidate in 1980 for reelection to the House of Representatives, but was elected to the Senate in 1980; reelected in 1986, 1992, 1998, 2004 and again in 2010 for the term ending January 3, 2017; Chair, Special Committee on Aging (One Hundred Fifth Congress), Committee on Finance (One Hundred Seventh Congress [January 20 to June 6, 2001], One Hundred Eighth and One Hundred Ninth Congresses), Committee on the Judiciary (One Hundred Fourteenth Congress)."
-    phone: "202-224-3744"
-    fax: "202-224-6020"
-    latitude: "38.892839"
-    longitude: "-77.004356"
-    address_complete: "135 Hart Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "135 Hart Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.grassley.senate.gov"
-    contact_page: "https://www.grassley.senate.gov/contact"
-    facebook_url: "https://facebook.com/grassley"
-    twitter_handle: "ChuckGrassley"
-    twitter_url: "https://twitter.com/ChuckGrassley"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg"
-  - 
-    state_name: "Iowa"
-    state_name_slug: "iowa"
-    state_code: "IA"
-    state_code_slug: "ia"
     class: "II"
     bioguide: "E000295"
     thomas: "2283"
@@ -1247,110 +1195,6 @@
     twitter_handle: "joniernst"
     twitter_url: "https://twitter.com/joniernst"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/joni-ernst.jpg"
-  - 
-    state_name: "Idaho"
-    state_name_slug: "idaho"
-    state_code: "ID"
-    state_code_slug: "id"
-    class: "II"
-    bioguide: "R000584"
-    thomas: "1896"
-    opensecrets: "N00029441"
-    votesmart: "2919"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "James Risch"
-    name_slug: "james-risch"
-    first_name: "James"
-    middle_name: "E."
-    last_name: "Risch"
-    name_suffix: null
-    goes_by: "Jim"
-    pronunciation: "JIM RESH [Rhymes with mesh]"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1943-05-03"
-    entered_office: "2009-01-03"
-    term_end: "2021-01-03"
-    biography: "James Risch, a Senator from Idaho; born in Milwaukee, Wis., May 3, 1943; B.A., attended the University of Wisconsin, Milwaukee, 1961-1963; B.S. in Forestry, University of Idaho, 1965; J.D., University of Idaho College of Law, 1968; Ada County, Idaho, prosecuting attorney, 1970-1974; Idaho State Senator, 1974-1989 and 1995-2003, serving as majority leader (1976-1982), and as president pro tempore (1982-1989); lieutenant governor of Idaho, 2003-2006 and 2007-2009; governor of Idaho, 2006; elected as a Republican to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
-    phone: "202-224-2752"
-    fax: "202-224-2573"
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "483 Russell Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "483 Russell Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.risch.senate.gov"
-    contact_page: "https://www.risch.senate.gov/public/index.cfm?p=Email"
-    facebook_url: "https://facebook.com/SenatorRisch"
-    twitter_handle: "SenatorRisch"
-    twitter_url: "https://twitter.com/SenatorRisch"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg"
-  - 
-    state_name: "Idaho"
-    state_name_slug: "idaho"
-    state_code: "ID"
-    state_code_slug: "id"
-    class: "III"
-    bioguide: "C000880"
-    thomas: "250"
-    opensecrets: "N00006267"
-    votesmart: "26830"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Mike Crapo"
-    name_slug: "mike-crapo"
-    first_name: "Mike"
-    middle_name: null
-    last_name: "Crapo"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "MIKE CRAY-poh"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "mormon"
-    openly_lgbtq: "no"
-    date_of_birth: "1951-05-20"
-    entered_office: "1999-01-03"
-    term_end: "2023-01-03"
-    biography: "Michael Crapo, a Senator and a Representative from Idaho; born in Idaho Falls, Bonneville County, Idaho, May 20, 1951; graduated Idaho Falls High School 1969; B.A., Brigham Young University 1973; J.D., Harvard University School of Law 1977; admitted to the bar in 1977; law clerk to Judge James M. Carter, United States Court of Appeals, Ninth Circuit 1977-1978; practiced law in San Diego 1978-1979, and in Idaho Falls 1979-1992; vice chair, Bonneville County Republican Committee 1979-1981; vice chair, Legislative District 29 Republican Committee 1982-1984; Idaho State Senator 1985-1992; elected as a Republican to the One Hundred Third and to the two succeeding Congresses (January 3, 1993-January 3, 1999); was not a candidate for reelection to the U.S. House of Representatives, but was elected to the United States Senate in 1998; reelected in 2004 and again in 2010 for the term ending January 3, 2017."
-    phone: "202-224-6142"
-    fax: "202-228-1375"
-    latitude: "38.892947"
-    longitude: "-77.075686"
-    address_complete: "239 Dirksen Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "239 Dirksen Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.crapo.senate.gov"
-    contact_page: "https://www.crapo.senate.gov/contact/email.cfm"
-    facebook_url: "https://facebook.com/mikecrapo"
-    twitter_handle: "MikeCrapo"
-    twitter_url: "https://twitter.com/MikeCrapo"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-crapo.jpg"
   - 
     state_name: "Illinois"
     state_name_slug: "illinois"
@@ -1404,6 +1248,58 @@
     twitter_url: "https://twitter.com/SenatorDurbin"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-durbin.jpg"
   - 
+    state_name: "Idaho"
+    state_name_slug: "idaho"
+    state_code: "ID"
+    state_code_slug: "id"
+    class: "II"
+    bioguide: "R000584"
+    thomas: "1896"
+    opensecrets: "N00029441"
+    votesmart: "2919"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "James Risch"
+    name_slug: "james-risch"
+    first_name: "James"
+    middle_name: "E."
+    last_name: "Risch"
+    name_suffix: null
+    goes_by: "Jim"
+    pronunciation: "JIM RESH [Rhymes with mesh]"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1943-05-03"
+    entered_office: "2009-01-03"
+    term_end: "2021-01-03"
+    biography: "James Risch, a Senator from Idaho; born in Milwaukee, Wis., May 3, 1943; B.A., attended the University of Wisconsin, Milwaukee, 1961-1963; B.S. in Forestry, University of Idaho, 1965; J.D., University of Idaho College of Law, 1968; Ada County, Idaho, prosecuting attorney, 1970-1974; Idaho State Senator, 1974-1989 and 1995-2003, serving as majority leader (1976-1982), and as president pro tempore (1982-1989); lieutenant governor of Idaho, 2003-2006 and 2007-2009; governor of Idaho, 2006; elected as a Republican to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021."
+    phone: "202-224-2752"
+    fax: "202-224-2573"
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "483 Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "483 Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.risch.senate.gov"
+    contact_page: "https://www.risch.senate.gov/public/index.cfm?p=Email"
+    facebook_url: "https://facebook.com/SenatorRisch"
+    twitter_handle: "SenatorRisch"
+    twitter_url: "https://twitter.com/SenatorRisch"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg"
+  - 
     state_name: "Illinois"
     state_name_slug: "illinois"
     state_code: "IL"
@@ -1455,58 +1351,6 @@
     twitter_handle: "RepDuckworth"
     twitter_url: "https://twitter.com/RepDuckworth"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/tammy-duckworth.jpg"
-  - 
-    state_name: "Indiana"
-    state_name_slug: "indiana"
-    state_code: "IN"
-    state_code_slug: "in"
-    class: "I"
-    bioguide: "B001310"
-    thomas: null
-    opensecrets: "N00041731"
-    votesmart: "148564"
-    fec: "S8IN00171"
-    maplight: null
-    wikidata: "Q42804470"
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Mike Braun"
-    name_slug: "mike-braun"
-    first_name: "Mike"
-    middle_name: null
-    last_name: "Braun"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "MYK BRA-un"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "unspecified"
-    openly_lgbtq: "no"
-    date_of_birth: "1954-03-24"
-    entered_office: "2019-01-03"
-    term_end: "2025-01-03"
-    biography: "Mike Braun is a Republican member of the U.S. Senate from Indiana. Braun was elected to the office on November 6, 2018."
-    phone: "202-224-4814"
-    fax: null
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "B85 Russell Senate Office Building Washington DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "B85 Russell Senate Office Building Washington DC 20510"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "https://www.braun.senate.gov/"
-    contact_page: "https://www.braun.senate.gov/"
-    facebook_url: "https://facebook.com/SenatorBraun"
-    twitter_handle: "SenatorBraun"
-    twitter_url: "https://twitter.com/SenatorBraun"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-braun.jpg"
   - 
     state_name: "Indiana"
     state_name_slug: "indiana"
@@ -2444,57 +2288,57 @@
     twitter_url: "https://twitter.com/HawleyMO"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/josh-hawley.jpg"
   - 
-    state_name: "Missouri"
-    state_name_slug: "missouri"
-    state_code: "MO"
-    state_code_slug: "mo"
-    class: "III"
-    bioguide: "B000575"
-    thomas: "1464"
-    opensecrets: "N00005195"
-    votesmart: "418"
-    fec: null
+    state_name: "Indiana"
+    state_name_slug: "indiana"
+    state_code: "IN"
+    state_code_slug: "in"
+    class: "I"
+    bioguide: "B001310"
+    thomas: null
+    opensecrets: "N00041731"
+    votesmart: "148564"
+    fec: "S8IN00171"
     maplight: null
-    wikidata: null
+    wikidata: "Q42804470"
     google_entity_id: null
     title: "senator"
     party: "republican"
-    name: "Roy Blunt"
-    name_slug: "roy-blunt"
-    first_name: "Roy"
+    name: "Mike Braun"
+    name_slug: "mike-braun"
+    first_name: "Mike"
     middle_name: null
-    last_name: "Blunt"
+    last_name: "Braun"
     name_suffix: null
     goes_by: null
-    pronunciation: "ROY BLUHNT"
+    pronunciation: "MYK BRA-un"
     gender: "male"
     ethnicity: "white-american"
-    religion: "southern-baptist"
+    religion: "unspecified"
     openly_lgbtq: "no"
-    date_of_birth: "1950-01-10"
-    entered_office: "2011-01-03"
-    term_end: "2023-01-03"
-    biography: "Roy Blunt, a Senator and a Representative from Missouri; born in Niangua, Webster County, Mo., January 10, 1950; graduated Southwest Baptist University, Bolivar, Mo., B.A., 1970; graduated Missouri State University, Springfield, Mo., M.A., 1972; high school history teacher; clerk and chief election officer, Greene County, Mo. 1973-1984; Missouri state secretary of state 1984-1993; President, Southwest Baptist University, Bolivar, Mo. 1993-1996; elected as a Republican to the One Hundred Fifth and to the six succeeding Congresses (January 3, 1997-January 3, 2011); majority whip (One Hundred Eighth through One Hundred Ninth Congresses); acting majority leader (One Hundred Ninth Congress, September 28, 2005-February 2, 2006); minority whip (One Hundred Tenth Congress); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2012-); chair, Committee on Rules and Administration (One Hundred Fourteenth Congress)."
-    phone: "202-224-5721"
-    fax: "202-224-8149"
+    date_of_birth: "1954-03-24"
+    entered_office: "2019-01-03"
+    term_end: "2025-01-03"
+    biography: "Mike Braun is a Republican member of the U.S. Senate from Indiana. Braun was elected to the office on November 6, 2018."
+    phone: "202-224-4814"
+    fax: null
     latitude: "38.892542"
     longitude: "-77.007415"
-    address_complete: "260 Russell Senate Office Building, Washington, DC 20510"
+    address_complete: "B85 Russell Senate Office Building Washington DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "260 Russell Senate Office Building"
+    address_street: "B85 Russell Senate Office Building Washington DC 20510"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.blunt.senate.gov"
-    contact_page: "https://www.blunt.senate.gov/public/index.cfm/contact-roy"
-    facebook_url: "https://facebook.com/RoyForMissouri"
-    twitter_handle: "RoyBlunt"
-    twitter_url: "https://twitter.com/RoyBlunt"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/roy-blunt.jpg"
+    website: "https://www.braun.senate.gov/"
+    contact_page: "https://www.braun.senate.gov/"
+    facebook_url: "https://facebook.com/SenatorBraun"
+    twitter_handle: "SenatorBraun"
+    twitter_url: "https://twitter.com/SenatorBraun"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-braun.jpg"
   - 
     state_name: "Mississippi"
     state_name_slug: "mississippi"
@@ -2600,57 +2444,57 @@
     twitter_url: "https://twitter.com/SenHydeSmith"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/cindy-hyde-smith.jpg"
   - 
-    state_name: "Montana"
-    state_name_slug: "montana"
-    state_code: "MT"
-    state_code_slug: "mt"
-    class: "I"
-    bioguide: "T000464"
-    thomas: "1829"
-    opensecrets: "N00027605"
-    votesmart: "20928"
+    state_name: "Iowa"
+    state_name_slug: "iowa"
+    state_code: "IA"
+    state_code_slug: "ia"
+    class: "III"
+    bioguide: "G000386"
+    thomas: "457"
+    opensecrets: "N00001758"
+    votesmart: "53293"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
-    party: "democrat"
-    name: "Jon Tester"
-    name_slug: "jon-tester"
-    first_name: "Jon"
+    party: "republican"
+    name: "Charles Grassley"
+    name_slug: "charles-grassley"
+    first_name: "Charles"
     middle_name: null
-    last_name: "Tester"
+    last_name: "Grassley"
     name_suffix: null
-    goes_by: null
-    pronunciation: "JAHN TEH-ster"
+    goes_by: "Chuck"
+    pronunciation: "CHUHK GRASS-lee"
     gender: "male"
     ethnicity: "white-american"
-    religion: "church-of-god"
+    religion: "baptist"
     openly_lgbtq: "no"
-    date_of_birth: "1956-08-21"
-    entered_office: "2007-01-03"
-    term_end: "2019-01-03"
-    biography: "Jon Tester, a Senator from Montana; born in Havre, Mont., on August 21, 1956; graduated College of Great Falls 1978, farmer; teacher; member, Big Sandy school board 1983-1992 (chairman 1986-1991); Montana State Senate 1999-2006, serving as minority whip 2001-2003, minority leader 2003-2005, president 2005-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Committee on Indian Affairs (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015]); chair, Democratic Senatorial Campaign Committee (2015-)."
-    phone: "202-224-2644"
-    fax: "202-224-8594"
+    date_of_birth: "1933-09-17"
+    entered_office: "1981-01-03"
+    term_end: "2023-01-03"
+    biography: "Charles Grassley, a Senator and a Representative from Iowa; born in New Hartford, Butler County, Iowa, September 17, 1933; attended the public schools; graduated, University of Northern Iowa, Cedar Falls 1955; received a graduate degree from the same university in 1956; pursued graduate work, University of Iowa, Iowa City 1957-1958; engaged in agriculture; part-time university instructor; member, Iowa house of representatives 1959-1974; elected in 1974 as a Republican to the Ninety-fourth Congress; reelected to the Ninety-fifth and Ninety-sixth Congresses (January 3, 1975-January 3, 1981); was not a candidate in 1980 for reelection to the House of Representatives, but was elected to the Senate in 1980; reelected in 1986, 1992, 1998, 2004 and again in 2010 for the term ending January 3, 2017; Chair, Special Committee on Aging (One Hundred Fifth Congress), Committee on Finance (One Hundred Seventh Congress [January 20 to June 6, 2001], One Hundred Eighth and One Hundred Ninth Congresses), Committee on the Judiciary (One Hundred Fourteenth Congress)."
+    phone: "202-224-3744"
+    fax: "202-224-6020"
     latitude: "38.892839"
     longitude: "-77.004356"
-    address_complete: "311 Hart Senate Office Building, Washington, DC 20510"
+    address_complete: "135 Hart Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "311 Hart Senate Office Building"
+    address_street: "135 Hart Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.tester.senate.gov"
-    contact_page: "https://www.tester.senate.gov/?p=email_senator"
-    facebook_url: "https://facebook.com/senatortester"
-    twitter_handle: "SenatorTester"
-    twitter_url: "https://twitter.com/SenatorTester"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jon-tester.jpg"
+    website: "http://www.grassley.senate.gov"
+    contact_page: "https://www.grassley.senate.gov/contact"
+    facebook_url: "https://facebook.com/grassley"
+    twitter_handle: "ChuckGrassley"
+    twitter_url: "https://twitter.com/ChuckGrassley"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg"
   - 
     state_name: "Montana"
     state_name_slug: "montana"
@@ -2704,109 +2548,109 @@
     twitter_url: "https://twitter.com/SteveDaines"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/steve-daines.jpg"
   - 
-    state_name: "North Carolina"
-    state_name_slug: "north-carolina"
-    state_code: "NC"
-    state_code_slug: "nc"
+    state_name: "Idaho"
+    state_name_slug: "idaho"
+    state_code: "ID"
+    state_code_slug: "id"
     class: "III"
-    bioguide: "B001135"
-    thomas: "153"
-    opensecrets: "N00002221"
-    votesmart: "21787"
+    bioguide: "C000880"
+    thomas: "250"
+    opensecrets: "N00006267"
+    votesmart: "26830"
     fec: null
     maplight: null
     wikidata: null
     google_entity_id: null
     title: "senator"
     party: "republican"
-    name: "Richard Burr"
-    name_slug: "richard-burr"
-    first_name: "Richard"
+    name: "Mike Crapo"
+    name_slug: "mike-crapo"
+    first_name: "Mike"
     middle_name: null
-    last_name: "Burr"
+    last_name: "Crapo"
     name_suffix: null
     goes_by: null
-    pronunciation: "RICH-erd BUR"
+    pronunciation: "MIKE CRAY-poh"
     gender: "male"
     ethnicity: "white-american"
-    religion: "methodist"
+    religion: "mormon"
     openly_lgbtq: "no"
-    date_of_birth: "1955-11-30"
-    entered_office: "2005-01-03"
+    date_of_birth: "1951-05-20"
+    entered_office: "1999-01-03"
     term_end: "2023-01-03"
-    biography: "Richard Burr, a Senator and a Representative from North Carolina; born in Charlottesville, Albemarle County, Va., November 30, 1955; graduated from Reynolds High School, Winston-Salem, N.C., 1974; B.A., Wake Forest University, Winston-Salem, N.C., 1978; unsuccessful candidate for election to the One Hundred Third Congress in 1992; elected as a Republican to the One Hundred Fourth and to the four succeeding Congresses (January 3, 1995-January 3, 2005); was not a candidate for reelection to the House of Representatives, but was elected to the United States Senate in 2004; reelected in 2010 for the term ending January 3, 2017; Chair, Select Committee on Intelligence (One Hundred Fourteenth Congress)."
-    phone: "202-224-3154"
-    fax: "202-228-2981"
-    latitude: "38.892542"
-    longitude: "-77.007415"
-    address_complete: "217 Russell Senate Office Building, Washington, DC 20510"
-    address_number: null
-    address_prefix: null
-    address_street: "217 Russell Senate Office Building"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Washington"
-    address_state: "DC"
-    address_zipcode: "20510"
-    address_type: "Building"
-    website: "http://www.burr.senate.gov"
-    contact_page: "https://www.burr.senate.gov/contact/email"
-    facebook_url: "https://facebook.com/SenatorRichardBurr"
-    twitter_handle: "SenatorBurr"
-    twitter_url: "https://twitter.com/SenatorBurr"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-burr.jpg"
-  - 
-    state_name: "North Carolina"
-    state_name_slug: "north-carolina"
-    state_code: "NC"
-    state_code_slug: "nc"
-    class: "II"
-    bioguide: "T000476"
-    thomas: "2291"
-    opensecrets: "N00035492"
-    votesmart: "57717"
-    fec: null
-    maplight: null
-    wikidata: null
-    google_entity_id: null
-    title: "senator"
-    party: "republican"
-    name: "Thom Tillis"
-    name_slug: "thom-tillis"
-    first_name: "Thom"
-    middle_name: null
-    last_name: "Tillis"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "TAHM TIL-iss"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: "no"
-    date_of_birth: "1960-08-30"
-    entered_office: "2015-01-03"
-    term_end: "2021-01-03"
-    biography: "Thom Tillis, a Senator from North Carolina; born in Jacksonville, Duval County, Fla., August 30, 1960; B.A., University of Maryland University College, 1997; management consultant; member of the Cornelius (N.C.) board of commissioners 2003-2005; Member of the North Carolina house of representatives 2007-2014, serving as speaker of the House 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021."
-    phone: "202-224-6342"
-    fax: "202-228-2563"
+    biography: "Michael Crapo, a Senator and a Representative from Idaho; born in Idaho Falls, Bonneville County, Idaho, May 20, 1951; graduated Idaho Falls High School 1969; B.A., Brigham Young University 1973; J.D., Harvard University School of Law 1977; admitted to the bar in 1977; law clerk to Judge James M. Carter, United States Court of Appeals, Ninth Circuit 1977-1978; practiced law in San Diego 1978-1979, and in Idaho Falls 1979-1992; vice chair, Bonneville County Republican Committee 1979-1981; vice chair, Legislative District 29 Republican Committee 1982-1984; Idaho State Senator 1985-1992; elected as a Republican to the One Hundred Third and to the two succeeding Congresses (January 3, 1993-January 3, 1999); was not a candidate for reelection to the U.S. House of Representatives, but was elected to the United States Senate in 1998; reelected in 2004 and again in 2010 for the term ending January 3, 2017."
+    phone: "202-224-6142"
+    fax: "202-228-1375"
     latitude: "38.892947"
     longitude: "-77.075686"
-    address_complete: "185 Dirksen Senate Office Building, Washington, DC 20510"
+    address_complete: "239 Dirksen Senate Office Building, Washington, DC 20510"
     address_number: null
     address_prefix: null
-    address_street: "185 Dirksen Senate Office Building"
+    address_street: "239 Dirksen Senate Office Building"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: "Washington"
     address_state: "DC"
     address_zipcode: "20510"
     address_type: "Building"
-    website: "http://www.tillis.senate.gov"
-    contact_page: "https://www.tillis.senate.gov/public/index.cfm/email-me"
-    facebook_url: "https://facebook.com/SenatorThomTillis"
-    twitter_handle: "SenThomTillis"
-    twitter_url: "https://twitter.com/SenThomTillis"
-    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thom-tillis.jpg"
+    website: "http://www.crapo.senate.gov"
+    contact_page: "https://www.crapo.senate.gov/contact/email.cfm"
+    facebook_url: "https://facebook.com/mikecrapo"
+    twitter_handle: "MikeCrapo"
+    twitter_url: "https://twitter.com/MikeCrapo"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/mike-crapo.jpg"
+  - 
+    state_name: "Missouri"
+    state_name_slug: "missouri"
+    state_code: "MO"
+    state_code_slug: "mo"
+    class: "III"
+    bioguide: "B000575"
+    thomas: "1464"
+    opensecrets: "N00005195"
+    votesmart: "418"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Roy Blunt"
+    name_slug: "roy-blunt"
+    first_name: "Roy"
+    middle_name: null
+    last_name: "Blunt"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "ROY BLUHNT"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "southern-baptist"
+    openly_lgbtq: "no"
+    date_of_birth: "1950-01-10"
+    entered_office: "2011-01-03"
+    term_end: "2023-01-03"
+    biography: "Roy Blunt, a Senator and a Representative from Missouri; born in Niangua, Webster County, Mo., January 10, 1950; graduated Southwest Baptist University, Bolivar, Mo., B.A., 1970; graduated Missouri State University, Springfield, Mo., M.A., 1972; high school history teacher; clerk and chief election officer, Greene County, Mo. 1973-1984; Missouri state secretary of state 1984-1993; President, Southwest Baptist University, Bolivar, Mo. 1993-1996; elected as a Republican to the One Hundred Fifth and to the six succeeding Congresses (January 3, 1997-January 3, 2011); majority whip (One Hundred Eighth through One Hundred Ninth Congresses); acting majority leader (One Hundred Ninth Congress, September 28, 2005-February 2, 2006); minority whip (One Hundred Tenth Congress); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2012-); chair, Committee on Rules and Administration (One Hundred Fourteenth Congress)."
+    phone: "202-224-5721"
+    fax: "202-224-8149"
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "260 Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "260 Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.blunt.senate.gov"
+    contact_page: "https://www.blunt.senate.gov/public/index.cfm/contact-roy"
+    facebook_url: "https://facebook.com/RoyForMissouri"
+    twitter_handle: "RoyBlunt"
+    twitter_url: "https://twitter.com/RoyBlunt"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/roy-blunt.jpg"
   - 
     state_name: "North Dakota"
     state_name_slug: "north-dakota"
@@ -2911,6 +2755,162 @@
     twitter_handle: "SenJohnHoeven"
     twitter_url: "https://twitter.com/SenJohnHoeven"
     photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/john-hoeven.jpg"
+  - 
+    state_name: "Montana"
+    state_name_slug: "montana"
+    state_code: "MT"
+    state_code_slug: "mt"
+    class: "I"
+    bioguide: "T000464"
+    thomas: "1829"
+    opensecrets: "N00027605"
+    votesmart: "20928"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "democrat"
+    name: "Jon Tester"
+    name_slug: "jon-tester"
+    first_name: "Jon"
+    middle_name: null
+    last_name: "Tester"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "JAHN TEH-ster"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "church-of-god"
+    openly_lgbtq: "no"
+    date_of_birth: "1956-08-21"
+    entered_office: "2007-01-03"
+    term_end: "2019-01-03"
+    biography: "Jon Tester, a Senator from Montana; born in Havre, Mont., on August 21, 1956; graduated College of Great Falls 1978, farmer; teacher; member, Big Sandy school board 1983-1992 (chairman 1986-1991); Montana State Senate 1999-2006, serving as minority whip 2001-2003, minority leader 2003-2005, president 2005-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Committee on Indian Affairs (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015]); chair, Democratic Senatorial Campaign Committee (2015-)."
+    phone: "202-224-2644"
+    fax: "202-224-8594"
+    latitude: "38.892839"
+    longitude: "-77.004356"
+    address_complete: "311 Hart Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "311 Hart Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.tester.senate.gov"
+    contact_page: "https://www.tester.senate.gov/?p=email_senator"
+    facebook_url: "https://facebook.com/senatortester"
+    twitter_handle: "SenatorTester"
+    twitter_url: "https://twitter.com/SenatorTester"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/jon-tester.jpg"
+  - 
+    state_name: "North Carolina"
+    state_name_slug: "north-carolina"
+    state_code: "NC"
+    state_code_slug: "nc"
+    class: "III"
+    bioguide: "B001135"
+    thomas: "153"
+    opensecrets: "N00002221"
+    votesmart: "21787"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Richard Burr"
+    name_slug: "richard-burr"
+    first_name: "Richard"
+    middle_name: null
+    last_name: "Burr"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "RICH-erd BUR"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "methodist"
+    openly_lgbtq: "no"
+    date_of_birth: "1955-11-30"
+    entered_office: "2005-01-03"
+    term_end: "2023-01-03"
+    biography: "Richard Burr, a Senator and a Representative from North Carolina; born in Charlottesville, Albemarle County, Va., November 30, 1955; graduated from Reynolds High School, Winston-Salem, N.C., 1974; B.A., Wake Forest University, Winston-Salem, N.C., 1978; unsuccessful candidate for election to the One Hundred Third Congress in 1992; elected as a Republican to the One Hundred Fourth and to the four succeeding Congresses (January 3, 1995-January 3, 2005); was not a candidate for reelection to the House of Representatives, but was elected to the United States Senate in 2004; reelected in 2010 for the term ending January 3, 2017; Chair, Select Committee on Intelligence (One Hundred Fourteenth Congress)."
+    phone: "202-224-3154"
+    fax: "202-228-2981"
+    latitude: "38.892542"
+    longitude: "-77.007415"
+    address_complete: "217 Russell Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "217 Russell Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.burr.senate.gov"
+    contact_page: "https://www.burr.senate.gov/contact/email"
+    facebook_url: "https://facebook.com/SenatorRichardBurr"
+    twitter_handle: "SenatorBurr"
+    twitter_url: "https://twitter.com/SenatorBurr"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/richard-burr.jpg"
+  - 
+    state_name: "North Carolina"
+    state_name_slug: "north-carolina"
+    state_code: "NC"
+    state_code_slug: "nc"
+    class: "II"
+    bioguide: "T000476"
+    thomas: "2291"
+    opensecrets: "N00035492"
+    votesmart: "57717"
+    fec: null
+    maplight: null
+    wikidata: null
+    google_entity_id: null
+    title: "senator"
+    party: "republican"
+    name: "Thom Tillis"
+    name_slug: "thom-tillis"
+    first_name: "Thom"
+    middle_name: null
+    last_name: "Tillis"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "TAHM TIL-iss"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: "no"
+    date_of_birth: "1960-08-30"
+    entered_office: "2015-01-03"
+    term_end: "2021-01-03"
+    biography: "Thom Tillis, a Senator from North Carolina; born in Jacksonville, Duval County, Fla., August 30, 1960; B.A., University of Maryland University College, 1997; management consultant; member of the Cornelius (N.C.) board of commissioners 2003-2005; Member of the North Carolina house of representatives 2007-2014, serving as speaker of the House 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021."
+    phone: "202-224-6342"
+    fax: "202-228-2563"
+    latitude: "38.892947"
+    longitude: "-77.075686"
+    address_complete: "185 Dirksen Senate Office Building, Washington, DC 20510"
+    address_number: null
+    address_prefix: null
+    address_street: "185 Dirksen Senate Office Building"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20510"
+    address_type: "Building"
+    website: "http://www.tillis.senate.gov"
+    contact_page: "https://www.tillis.senate.gov/public/index.cfm/email-me"
+    facebook_url: "https://facebook.com/SenatorThomTillis"
+    twitter_handle: "SenThomTillis"
+    twitter_url: "https://twitter.com/SenThomTillis"
+    photo_url: "https://cdn.civil.services/us-senate/headshots/512x512/thom-tillis.jpg"
   - 
     state_name: "Nebraska"
     state_name_slug: "nebraska"
