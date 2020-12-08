@@ -88,7 +88,7 @@
   "devDependencies": {
     "bluebird": "^3.7.2",
     "csvtojson": "^2.0.10",
-    "fast-csv": "^4.0.2",
+    "fast-csv": "^4.3.6",
     "glob": "^7.1.6",
     "gm": "^1.23.1",
     "htmlparser2": "^4.0.0",
