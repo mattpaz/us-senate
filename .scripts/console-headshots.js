@@ -16,7 +16,7 @@ function toTitleCase(str) {
 
 if (fs.existsSync(core)) {
   var stream = fs.createReadStream(core);
-  csv.fromStream(stream, {headers : true}).on('data', function(data){
+  csv.parseStream(stream, {headers : true}).on('data', function(data){
     console.log('!['+ toTitleCase(data.title) + ' '+ data.first_name + ' ' + data.last_name +'](us-senate/images/headshots/128x128/' + slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }) + '.jpg "'+ toTitleCase(data.title) + ' '+ data.first_name + ' ' + data.last_name +'")');
   });
 } else {

@@ -96,74 +96,77 @@ if (fs.existsSync(core)) {
         process.exit(1);
       })
       .on('data', function(data){
+        if (data.vacant !== 'yes') {
+          var cdnHeadshotPath = (data.vacant === 'yes') ? '' : 'https://cdn.civil.services/us-senate/headshots/512x512/' +
+            slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }) + '.jpg';
 
-        var cdnHeadshotPath = (data.vacant === 'yes') ? '' : 'https://cdn.civil.services/us-senate/headshots/512x512/' +
-          slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }) + '.jpg';
+          var parsedAddress = data.address.split(',');
+          var convertedData = {
+            state_name: data.state,
+            state_name_slug: slug(data.state, { lower: true, replacement: '-' }),
+            state_code: data.state_code,
+            state_code_slug: slug(data.state_code, { lower: true, replacement: '-' }),
+            class: data.class,
+            bioguide: data.bioguide,
+            thomas: data.thomas,
+            opensecrets: data.opensecrets,
+            votesmart: data.votesmart,
+            fec: data.fec,
+            maplight: data.maplight,
+            wikidata: data.wikidata,
+            google_entity_id: data.google_entity_id,
+            title: data.title,
+            party: data.party,
+            name: data.first_name + ' ' + data.last_name,
+            name_slug: slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }),
+            first_name: data.first_name,
+            middle_name: data.middle_name,
+            last_name: data.last_name,
+            name_suffix: data.name_suffix,
+            goes_by: data.goes_by,
+            pronunciation: data.pronunciation,
+            gender: data.gender,
+            ethnicity: data.ethnicity,
+            religion: data.religion,
+            openly_lgbtq: data.openly_lgbtq,
+            date_of_birth: data.date_of_birth,
+            entered_office: data.entered_office,
+            term_end: data.term_end,
+            biography: data.biography,
+            phone: data.phone,
+            fax: data.fax,
+            latitude: data.latitude,
+            longitude: data.longitude,
+            address_complete: data.address,
+            address_number: null,
+            address_prefix: null,
+            address_street: parsedAddress[0],
+            address_sec_unit_type: null,
+            address_sec_unit_num: null,
+            address_city: 'Washington',
+            address_state: 'DC',
+            address_zipcode: '20510',
+            address_type: 'Building',
+            website: data.website,
+            contact_page: data.contact_page,
+            facebook_url: data.facebook_url,
+            twitter_handle: (data.twitter_url) ? data.twitter_url.replace('https://twitter.com/', '') : null,
+            twitter_url: data.twitter_url,
+            photo_url: cdnHeadshotPath
+          };
 
-        var parsedAddress = data.address.split(',');
-        var convertedData = {
-          state_name: data.state,
-          state_name_slug: slug(data.state, { lower: true, replacement: '-' }),
-          state_code: data.state_code,
-          state_code_slug: slug(data.state_code, { lower: true, replacement: '-' }),
-          class: data.class,
-          bioguide: data.bioguide,
-          thomas: data.thomas,
-          opensecrets: data.opensecrets,
-          votesmart: data.votesmart,
-          fec: data.fec,
-          maplight: data.maplight,
-          wikidata: data.wikidata,
-          google_entity_id: data.google_entity_id,
-          title: data.title,
-          party: data.party,
-          name: data.first_name + ' ' + data.last_name,
-          name_slug: slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }),
-          first_name: data.first_name,
-          middle_name: data.middle_name,
-          last_name: data.last_name,
-          name_suffix: data.name_suffix,
-          goes_by: data.goes_by,
-          pronunciation: data.pronunciation,
-          gender: data.gender,
-          ethnicity: data.ethnicity,
-          religion: data.religion,
-          openly_lgbtq: data.openly_lgbtq,
-          date_of_birth: data.date_of_birth,
-          entered_office: data.entered_office,
-          term_end: data.term_end,
-          biography: data.biography,
-          phone: data.phone,
-          fax: data.fax,
-          latitude: data.latitude,
-          longitude: data.longitude,
-          address_complete: data.address,
-          address_number: null,
-          address_prefix: null,
-          address_street: parsedAddress[0],
-          address_sec_unit_type: null,
-          address_sec_unit_num: null,
-          address_city: 'Washington',
-          address_state: 'DC',
-          address_zipcode: '20510',
-          address_type: 'Building',
-          website: data.website,
-          contact_page: data.contact_page,
-          facebook_url: data.facebook_url,
-          twitter_handle: (data.twitter_url) ? data.twitter_url.replace('https://twitter.com/', '') : null,
-          twitter_url: data.twitter_url,
-          photo_url: cdnHeadshotPath
-        };
+          if (currentRow === 0) {
+            var header = Object.keys(convertedData).join(',') + '\n';
+            fs.appendFile(converted, header, function (){});
+          }
 
-        if (currentRow === 0) {
-          var header = Object.keys(convertedData).join(',') + '\n';
-          fs.appendFile(converted, header, function (){});
+          var row = '"' + Object.values(convertedData).join('","').replace(/""/g, '') + '"' + '\n';
+          fs.appendFile(converted, row, function (){});
+
+          console.log('✓ Processed ' + data.first_name + ' ' + data.last_name);
+        } else {
+          console.log('✓ Skipped Vacant ' + data.state);
         }
-
-        var row = '"' + Object.values(convertedData).join('","').replace(/""/g, '') + '"' + '\n';
-        fs.appendFile(converted, row, function (){});
-
-        console.log('✓ Processed ' + data.first_name + ' ' + data.last_name);
 
         currentRow++;
       })

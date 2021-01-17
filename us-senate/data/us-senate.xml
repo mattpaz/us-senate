@@ -30,7 +30,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1964-11-13</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Dan Sullivan is a Senator from Alaska; born in Fairview Park, Cuyahoga County, Ohio, November 13, 1964; graduated Culver Military Academy, Culver, Ind., 1983; B.A., Harvard University, 1987; M.F.S. and J.D., Georgetown University, 1993; United States Marine Corps 1993-1997; United States Marine Corps Reserves 1997-present, attaining the rank of lieutenant colonel; lawyer; White House aide and director on the National Security Council staff during the George W. Bush administration; assistant U.S. secretary of state for economic, energy and business affairs 2006-2009; attorney general of Alaska 2009-2010; Commissioner of Alaska Department of Natural Resources 2010-2013; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-3004</phone>
         <fax>202-224-6501</fax>
@@ -112,52 +112,52 @@
         <state_code>AL</state_code>
         <state_code_slug>al</state_code_slug>
         <class>II</class>
-        <bioguide>J000300</bioguide>
+        <bioguide>T000278</bioguide>
         <thomas>null</thomas>
-        <opensecrets>N00024817</opensecrets>
-        <votesmart>176464</votesmart>
-        <fec>null</fec>
+        <opensecrets>null</opensecrets>
+        <votesmart>188306</votesmart>
+        <fec>S0AL00230</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
-        <party>democrat</party>
-        <name>Gordon Jones</name>
-        <name_slug>gordon-jones</name_slug>
-        <first_name>Gordon</first_name>
-        <middle_name>Douglas</middle_name>
-        <last_name>Jones</last_name>
+        <party>republican</party>
+        <name>Tommy Tuberville</name>
+        <name_slug>tommy-tuberville</name_slug>
+        <first_name>Tommy</first_name>
+        <middle_name>Hawley</middle_name>
+        <last_name>Tuberville</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Doug</goes_by>
-        <pronunciation>DOAG JOANZ</pronunciation>
+        <goes_by>null</goes_by>
+        <pronunciation>taw-mee too-buh-vil</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>united-methodist</religion>
+        <religion>christian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1954-05-04</date_of_birth>
-        <entered_office>2018-01-03</entered_office>
-        <term_end>2020-01-03</term_end>
-        <biography>Doug Jones, a Senator from Alabama; born in Fairfield, Ala., May 4, 1954; B.S., University of Alabama, 1976; J.D., Samford University, Cumberland School of Law, 1979; staff counsel to Alabama senator Howell Heflin on the U.S. Senate Committee on the Judiciary; assistant U.S. attorney for the Northern District of Alabama, 1980-1984; practiced law in Birmingham, Ala., U.S. attorney for the Northern District of Alabama, 1997-2001; elected as a Democrat to the United States Senate in a special election on December 12, 2017, to fill the vacancy caused by the resignation of Jefferson Sessions, a seat subsequently held by appointed senator Luther Strange, for the term ending January 3, 2021, and took the oath of office on January 3, 2018.</biography>
+        <date_of_birth>1954-09-18</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>United States Senator Tommy Tuberville was elected to the U.S. Senate in 2020 and is currently serving his first term representing the state of Alabama. His constituents still know him as Coach Tuberville, following his 40-year career coaching college football.</biography>
         <phone>202-224-4124</phone>
-        <fax>202-224-3149</fax>
+        <fax>null</fax>
         <latitude>38.892542</latitude>
         <longitude>-77.007415</longitude>
-        <address_complete>326 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>B40A Dirksen Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>326 Russell Senate Office Building</address_street>
+        <address_street>B40A Dirksen Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>https://www.jones.senate.gov/</website>
-        <contact_page>https://www.jones.senate.gov/content/contact-senator</contact_page>
-        <facebook_url>https://facebook.com/senatordougjones</facebook_url>
-        <twitter_handle>sendougjones</twitter_handle>
-        <twitter_url>https://twitter.com/sendougjones</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/gordon-jones.jpg</photo_url>
+        <website>https://www.tuberville.senate.gov</website>
+        <contact_page>https://www.tuberville.senate.gov/</contact_page>
+        <facebook_url>https://facebook.com/SenatorTuberville/</facebook_url>
+        <twitter_handle>SenTuberville</twitter_handle>
+        <twitter_url>https://twitter.com/SenTuberville</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tommy-tuberville.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Alabama</state_name>
@@ -295,7 +295,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1977-05-13</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Tom Cotton, a Senator and a Representative from Arkansas; born in Dardanelle, Yell County, Ark., May 13, 1977; A.B., Harvard University, Cambridge, Mass., 1998; attended Claremont Graduate University, Claremont, Calif., 1998-1999; J.D., Harvard University, Cambridge, Mass., 2002; United States Army, 2004-2009; clerk, U.S. Court of Appeals, 2002-2003; lawyer, private practice; management consultant; farmer; elected as a Republican to the One Hundred Thirteenth Congress (January 3, 2013-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-2353</phone>
         <fax>479-927-1092</fax>
@@ -377,52 +377,52 @@
         <state_code>AZ</state_code>
         <state_code_slug>az</state_code_slug>
         <class>III</class>
-        <bioguide>M001197</bioguide>
-        <thomas>2225</thomas>
-        <opensecrets>N00033982</opensecrets>
-        <votesmart>137299</votesmart>
-        <fec>S8AZ00221</fec>
+        <bioguide>K000377</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00044223</opensecrets>
+        <votesmart>null</votesmart>
+        <fec>S0AZ00350</fec>
         <maplight>null</maplight>
-        <wikidata>Q6774492</wikidata>
+        <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
-        <party>republican</party>
-        <name>Martha McSally</name>
-        <name_slug>martha-mcsally</name_slug>
-        <first_name>Martha</first_name>
+        <party>democrat</party>
+        <name>Mark Kelly</name>
+        <name_slug>mark-kelly</name_slug>
+        <first_name>Mark</first_name>
         <middle_name>null</middle_name>
-        <last_name>McSally</last_name>
+        <last_name>Kelly</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>MARR-thuh MAK-suh-lee</pronunciation>
-        <gender>female</gender>
+        <pronunciation>marhk kel-ly</pronunciation>
+        <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1966-03-22</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Martha McSally was a Republican candidate for the U.S. Senate from Arizona. McSally lost the general election on November 6, 2018, after advancing from the primary on August 28, 2018. On December 18, 2018, Arizona Gov. Doug Ducey (R) announced the appointment of McSally to the U.S. Senate to replace Sen. Jon Kyl (R). Kyl, who was appointed to the U.S. Senate in September 2018 after the death of former Sen. John McCain (R), announced that he would resign as of December 31, 2018.</biography>
+        <date_of_birth>1964-02-21</date_of_birth>
+        <entered_office>2020-12-02</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Senator Kelly is the son of two police officers, and he attended public schools from elementary school through the U.S. Merchant Marine Academy and U.S. Naval Postgraduate School. As a naval aviator, he served on the aircraft carrier the U.S.S. Midway and flew 39 combat missions in Operation Desert Storm.</biography>
         <phone>202-224-2235</phone>
         <fax>null</fax>
         <latitude>38.892947</latitude>
         <longitude>-77.075686</longitude>
-        <address_complete>B40D Dirksen Senate Office Building Washington DC 20510</address_complete>
+        <address_complete>B40B Dirksen Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>B40D Dirksen Senate Office Building Washington DC 20510</address_street>
+        <address_street>B40B Dirksen Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>https://www.mcsally.senate.gov/</website>
-        <contact_page>https://www.mcsally.senate.gov/</contact_page>
-        <facebook_url>https://facebook.com/MarthaMcSally</facebook_url>
-        <twitter_handle>marthamcsally</twitter_handle>
-        <twitter_url>https://twitter.com/marthamcsally</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/martha-mcsally.jpg</photo_url>
+        <website>https://www.kelly.senate.gov</website>
+        <contact_page>https://www.kelly.senate.gov/</contact_page>
+        <facebook_url>https://facebook.com/SenMarkKelly/</facebook_url>
+        <twitter_handle>SenMarkKelly</twitter_handle>
+        <twitter_url>https://twitter.com/SenMarkKelly</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mark-kelly.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -536,52 +536,52 @@
         <state_code>CO</state_code>
         <state_code_slug>co</state_code_slug>
         <class>II</class>
-        <bioguide>G000562</bioguide>
-        <thomas>1998</thomas>
-        <opensecrets>N00030780</opensecrets>
-        <votesmart>30004</votesmart>
-        <fec>null</fec>
+        <bioguide>H000273</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>null</opensecrets>
+        <votesmart>null</votesmart>
+        <fec>S0CO00575</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
-        <party>republican</party>
-        <name>Cory Gardner</name>
-        <name_slug>cory-gardner</name_slug>
-        <first_name>Cory</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Gardner</last_name>
-        <name_suffix>null</name_suffix>
+        <party>democrat</party>
+        <name>John Hickenlooper</name>
+        <name_slug>john-hickenlooper</name_slug>
+        <first_name>John</first_name>
+        <middle_name>Wright</middle_name>
+        <last_name>Hickenlooper</last_name>
+        <name_suffix>Jr.</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>CORE-ee GAHRD-ner</pronunciation>
+        <pronunciation>jawn hih-ken-loo-puh</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1974-08-22</date_of_birth>
-        <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Cory Gardner, a Senator and a Representative from Colorado; born in Yuma, Yuma County, Colo., on August 22, 1974; graduated from Yuma High School, Yuma, Colo., 1993; B.A., Colorado State University, Fort Collins, Colo., 1997; J.D., University of Colorado, Boulder, Colo., 2001; agricultural advocate; staff, United States Senator Wayne Allard of Colorado, 2002-2005; member of the Colorado state house of representatives, 2005-2010; elected as a Republican to the One Hundred Twelfth and to the succeeding Congress (January 3, 2011-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
+        <date_of_birth>1952-02-07</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>John started his career in Colorado as a geologist. After being laid off in the long recession of the mid-80’s, along with an estimated 10,000 other Earth Science professionals, he opened the state’s first brewpub in a neglected warehouse district in Lower Downtown (LoDo) Denver.</biography>
         <phone>202-224-5941</phone>
-        <fax>202-224-6524</fax>
+        <fax>null</fax>
         <latitude>38.892542</latitude>
         <longitude>-77.007415</longitude>
-        <address_complete>354 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>B85 Russell Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>354 Russell Senate Office Building</address_street>
+        <address_street>B85 Russell Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.gardner.senate.gov</website>
-        <contact_page>https://www.gardner.senate.gov/contact-cory/email-cory</contact_page>
-        <facebook_url>https://facebook.com/SenCoryGardner</facebook_url>
-        <twitter_handle>sencorygardner</twitter_handle>
-        <twitter_url>https://twitter.com/sencorygardner</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/cory-gardner.jpg</photo_url>
+        <website>https://www.hickenlooper.senate.gov/</website>
+        <contact_page>https://www.hickenlooper.senate.gov</contact_page>
+        <facebook_url>null</facebook_url>
+        <twitter_handle>SenatorHick</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorHick</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-hickenlooper.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Colorado</state_name>
@@ -772,7 +772,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1963-09-09</date_of_birth>
         <entered_office>2010-11-15</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Chris Coons, a Senator from Delaware; born on September 9, 1963, in Greenwich, Conn.; B.A., Amherst College, 1985; J.D., Yale University Law School, 1992; M.A.R., Yale Divinity School, 1992; worked in the non-profit sector; attorney; served as president of the New Castle County Council 2001-2005; County Executive of New Castle County 2005-2010; elected as a Democrat to the United States Senate in the November 2, 2010, special election to the term ending January 3, 2015, a seat previously held by appointed Senator Edward E. Kaufman, and took the oath of office on November 15, 2010; reelected in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-5042</phone>
         <fax>null</fax>
@@ -955,112 +955,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/marco-rubio.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Georgia</state_name>
-        <state_name_slug>georgia</state_name_slug>
-        <state_code>GA</state_code>
-        <state_code_slug>ga</state_code_slug>
-        <class>II</class>
-        <bioguide>P000612</bioguide>
-        <thomas>2286</thomas>
-        <opensecrets>N00035516</opensecrets>
-        <votesmart>151330</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>David Perdue</name>
-        <name_slug>david-perdue</name_slug>
-        <first_name>David</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Perdue</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>DAY-vid pur-DOO</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>methodist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1949-12-10</date_of_birth>
-        <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>David Perdue, a Senator from Georgia; born in Macon, Bibb County, Ga., December 10, 1949; B.S., Georgia Institute of Technology, 1972; M.S., Georgia Institute of Technology, 1976; management consultant; company executive; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-3521</phone>
-        <fax>202-228-1031</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>383 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>383 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.perdue.senate.gov</website>
-        <contact_page>https://www.perdue.senate.gov/connect/email</contact_page>
-        <facebook_url>https://facebook.com/SenatorDavidPerdue</facebook_url>
-        <twitter_handle>sendavidperdue</twitter_handle>
-        <twitter_url>https://twitter.com/sendavidperdue</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/david-perdue.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Georgia</state_name>
-        <state_name_slug>georgia</state_name_slug>
-        <state_code>GA</state_code>
-        <state_code_slug>ga</state_code_slug>
-        <class>III</class>
-        <bioguide>I000055</bioguide>
-        <thomas>1608</thomas>
-        <opensecrets>N00002593</opensecrets>
-        <votesmart>1721</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Johnny Isakson</name>
-        <name_slug>johnny-isakson</name_slug>
-        <first_name>Johnny</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Isakson</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JAH-nee AHY-zick-suhn</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>methodist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1944-12-28</date_of_birth>
-        <entered_office>2005-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>John Isakson, a Senator and a Representative from Georgia; born in Atlanta, Fulton County, Ga., December 28, 1944; graduated from the University of Georgia, Athens, Ga., 1966; served in the Georgia Air National Guard 1966-1972; member of the Georgia state general assembly, 1976-1990; unsuccessful candidate for election as Governor of Georgia 1990; member of the Georgia state senate 1993-1996; unsuccessful candidate for election to the United States Senate in 1996; chair of the Georgia board of education 1996; elected as a Republican to the One Hundred Sixth Congress by special election to fill the vacancy created when United States Representative Newt Gingrich did not take his seat in the One Hundred Sixth Congress; reelected to the two succeeding Congresses (February 23, 1999-January 3, 2005); was not a candidate for reelection to the House of Representatives, but was elected to the United States Senate in 2004; reelected in 2010 for the term ending January 3, 2017; chair, Committee on Veterans' Affairs (One Hundred Fourteenth Congress), Select Committee on Ethics (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-3643</phone>
-        <fax>202-228-0724</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>131 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>131 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>https://www.loeffler.senate.gov</website>
-        <contact_page>https://www.loeffler.senate.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/kellyloefflerga</facebook_url>
-        <twitter_handle>senatorloeffler?lang=en</twitter_handle>
-        <twitter_url>https://twitter.com/senatorloeffler?lang=en</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/johnny-isakson.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Hawaii</state_name>
         <state_name_slug>hawaii</state_name_slug>
         <state_code>HI</state_code>
@@ -1171,6 +1065,59 @@
         <state_name_slug>iowa</state_name_slug>
         <state_code>IA</state_code>
         <state_code_slug>ia</state_code_slug>
+        <class>III</class>
+        <bioguide>G000386</bioguide>
+        <thomas>457</thomas>
+        <opensecrets>N00001758</opensecrets>
+        <votesmart>53293</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Charles Grassley</name>
+        <name_slug>charles-grassley</name_slug>
+        <first_name>Charles</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Grassley</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Chuck</goes_by>
+        <pronunciation>CHUHK GRASS-lee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1933-09-17</date_of_birth>
+        <entered_office>1981-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Charles Grassley, a Senator and a Representative from Iowa; born in New Hartford, Butler County, Iowa, September 17, 1933; attended the public schools; graduated, University of Northern Iowa, Cedar Falls 1955; received a graduate degree from the same university in 1956; pursued graduate work, University of Iowa, Iowa City 1957-1958; engaged in agriculture; part-time university instructor; member, Iowa house of representatives 1959-1974; elected in 1974 as a Republican to the Ninety-fourth Congress; reelected to the Ninety-fifth and Ninety-sixth Congresses (January 3, 1975-January 3, 1981); was not a candidate in 1980 for reelection to the House of Representatives, but was elected to the Senate in 1980; reelected in 1986, 1992, 1998, 2004 and again in 2010 for the term ending January 3, 2017; Chair, Special Committee on Aging (One Hundred Fifth Congress), Committee on Finance (One Hundred Seventh Congress [January 20 to June 6, 2001], One Hundred Eighth and One Hundred Ninth Congresses), Committee on the Judiciary (One Hundred Fourteenth Congress).</biography>
+        <phone>202-224-3744</phone>
+        <fax>202-224-6020</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>135 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>135 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.grassley.senate.gov</website>
+        <contact_page>https://www.grassley.senate.gov/contact</contact_page>
+        <facebook_url>https://facebook.com/grassley</facebook_url>
+        <twitter_handle>ChuckGrassley</twitter_handle>
+        <twitter_url>https://twitter.com/ChuckGrassley</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Iowa</state_name>
+        <state_name_slug>iowa</state_name_slug>
+        <state_code>IA</state_code>
+        <state_code_slug>ia</state_code_slug>
         <class>II</class>
         <bioguide>E000295</bioguide>
         <thomas>2283</thomas>
@@ -1196,7 +1143,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1970-07-01</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Joni Ernst, a Senator from Iowa; born in Red Oak, Montgomery County, Iowa, July 1, 1970; B.A., Iowa State University, 1992; M.P.A., Columbus College (now Columbus State University), Columbus, Ga., 1995; United States Army Reserves, 1993-2001; Iowa Army National Guard, 2001-present, attaining the rank of lieutenant colonel; auditor of Montgomery County, Iowa, 2005-2011; member of the Iowa state Senate 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-3254</phone>
         <fax>202-224-9369</fax>
@@ -1218,59 +1165,6 @@
         <twitter_handle>joniernst</twitter_handle>
         <twitter_url>https://twitter.com/joniernst</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/joni-ernst.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Illinois</state_name>
-        <state_name_slug>illinois</state_name_slug>
-        <state_code>IL</state_code>
-        <state_code_slug>il</state_code_slug>
-        <class>II</class>
-        <bioguide>D000563</bioguide>
-        <thomas>326</thomas>
-        <opensecrets>N00004981</opensecrets>
-        <votesmart>26847</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senate-minority-whip</title>
-        <party>democrat</party>
-        <name>Richard Durbin</name>
-        <name_slug>richard-durbin</name_slug>
-        <first_name>Richard</first_name>
-        <middle_name>J.</middle_name>
-        <last_name>Durbin</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Dick</goes_by>
-        <pronunciation>DICK DER-buhn</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1944-11-21</date_of_birth>
-        <entered_office>1997-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Richard Durbin, a Senator and a Representative from Illinois; born in East St. Louis, St. Clair County, Ill., November 21, 1944; graduated from Assumption High School, East St. Louis 1962; B.S., Georgetown University School of Foreign Service Senate Office Building, Washington, DC 1966; intern in the office of Illinois Senator Paul Douglas during his senior year in College; J.D., Georgetown University Law Center 1969; admitted to the Illinois bar 1969, and commenced practice in Springfield; legal counsel to Illinois Lieutenant Governor Paul Simon 1969-1972; legal counsel, Illinois State Senate Judiciary Committee 1972-1982; Democratic nominee for lieutenant governor of Illinois 1978; associate professor, Southern Illinois University School of Medicine, Springfield 1978-1983; delegate, Democratic National Conventions 1984, 1988, 1992 and 1996; chairman of Illinois state delegation in 1996; elected as a Democrat to the Ninety-eighth and to the six succeeding Congresses (January 3, 1983-January 2, 1997); elected as a Democrat to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; Democratic party whip (2005-).</biography>
-        <phone>202-224-2152</phone>
-        <fax>202-228-0400</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>711 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>711 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.durbin.senate.gov</website>
-        <contact_page>https://www.durbin.senate.gov/contact/</contact_page>
-        <facebook_url>https://facebook.com/SenatorDurbin</facebook_url>
-        <twitter_handle>SenatorDurbin</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorDurbin</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/richard-durbin.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Idaho</state_name>
@@ -1302,7 +1196,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1943-05-03</date_of_birth>
         <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>James Risch, a Senator from Idaho; born in Milwaukee, Wis., May 3, 1943; B.A., attended the University of Wisconsin, Milwaukee, 1961-1963; B.S. in Forestry, University of Idaho, 1965; J.D., University of Idaho College of Law, 1968; Ada County, Idaho, prosecuting attorney, 1970-1974; Idaho State Senator, 1974-1989 and 1995-2003, serving as majority leader (1976-1982), and as president pro tempore (1982-1989); lieutenant governor of Idaho, 2003-2006 and 2007-2009; governor of Idaho, 2006; elected as a Republican to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-2752</phone>
         <fax>202-224-2573</fax>
@@ -1324,6 +1218,112 @@
         <twitter_handle>SenatorRisch</twitter_handle>
         <twitter_url>https://twitter.com/SenatorRisch</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/james-risch.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Idaho</state_name>
+        <state_name_slug>idaho</state_name_slug>
+        <state_code>ID</state_code>
+        <state_code_slug>id</state_code_slug>
+        <class>III</class>
+        <bioguide>C000880</bioguide>
+        <thomas>250</thomas>
+        <opensecrets>N00006267</opensecrets>
+        <votesmart>26830</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Mike Crapo</name>
+        <name_slug>mike-crapo</name_slug>
+        <first_name>Mike</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Crapo</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>MIKE CRAY-poh</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>mormon</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1951-05-20</date_of_birth>
+        <entered_office>1999-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Michael Crapo, a Senator and a Representative from Idaho; born in Idaho Falls, Bonneville County, Idaho, May 20, 1951; graduated Idaho Falls High School 1969; B.A., Brigham Young University 1973; J.D., Harvard University School of Law 1977; admitted to the bar in 1977; law clerk to Judge James M. Carter, United States Court of Appeals, Ninth Circuit 1977-1978; practiced law in San Diego 1978-1979, and in Idaho Falls 1979-1992; vice chair, Bonneville County Republican Committee 1979-1981; vice chair, Legislative District 29 Republican Committee 1982-1984; Idaho State Senator 1985-1992; elected as a Republican to the One Hundred Third and to the two succeeding Congresses (January 3, 1993-January 3, 1999); was not a candidate for reelection to the U.S. House of Representatives, but was elected to the United States Senate in 1998; reelected in 2004 and again in 2010 for the term ending January 3, 2017.</biography>
+        <phone>202-224-6142</phone>
+        <fax>202-228-1375</fax>
+        <latitude>38.892947</latitude>
+        <longitude>-77.075686</longitude>
+        <address_complete>239 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>239 Dirksen Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.crapo.senate.gov</website>
+        <contact_page>https://www.crapo.senate.gov/contact/email.cfm</contact_page>
+        <facebook_url>https://facebook.com/mikecrapo</facebook_url>
+        <twitter_handle>MikeCrapo</twitter_handle>
+        <twitter_url>https://twitter.com/MikeCrapo</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-crapo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Illinois</state_name>
+        <state_name_slug>illinois</state_name_slug>
+        <state_code>IL</state_code>
+        <state_code_slug>il</state_code_slug>
+        <class>II</class>
+        <bioguide>D000563</bioguide>
+        <thomas>326</thomas>
+        <opensecrets>N00004981</opensecrets>
+        <votesmart>26847</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senate-minority-whip</title>
+        <party>democrat</party>
+        <name>Richard Durbin</name>
+        <name_slug>richard-durbin</name_slug>
+        <first_name>Richard</first_name>
+        <middle_name>J.</middle_name>
+        <last_name>Durbin</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Dick</goes_by>
+        <pronunciation>DICK DER-buhn</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1944-11-21</date_of_birth>
+        <entered_office>1997-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Richard Durbin, a Senator and a Representative from Illinois; born in East St. Louis, St. Clair County, Ill., November 21, 1944; graduated from Assumption High School, East St. Louis 1962; B.S., Georgetown University School of Foreign Service Senate Office Building, Washington, DC 1966; intern in the office of Illinois Senator Paul Douglas during his senior year in College; J.D., Georgetown University Law Center 1969; admitted to the Illinois bar 1969, and commenced practice in Springfield; legal counsel to Illinois Lieutenant Governor Paul Simon 1969-1972; legal counsel, Illinois State Senate Judiciary Committee 1972-1982; Democratic nominee for lieutenant governor of Illinois 1978; associate professor, Southern Illinois University School of Medicine, Springfield 1978-1983; delegate, Democratic National Conventions 1984, 1988, 1992 and 1996; chairman of Illinois state delegation in 1996; elected as a Democrat to the Ninety-eighth and to the six succeeding Congresses (January 3, 1983-January 2, 1997); elected as a Democrat to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; Democratic party whip (2005-).</biography>
+        <phone>202-224-2152</phone>
+        <fax>202-228-0400</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>711 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>711 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.durbin.senate.gov</website>
+        <contact_page>https://www.durbin.senate.gov/contact/</contact_page>
+        <facebook_url>https://facebook.com/SenatorDurbin</facebook_url>
+        <twitter_handle>SenatorDurbin</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorDurbin</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/richard-durbin.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Illinois</state_name>
@@ -1377,6 +1377,59 @@
         <twitter_handle>RepDuckworth</twitter_handle>
         <twitter_url>https://twitter.com/RepDuckworth</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tammy-duckworth.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Indiana</state_name>
+        <state_name_slug>indiana</state_name_slug>
+        <state_code>IN</state_code>
+        <state_code_slug>in</state_code_slug>
+        <class>I</class>
+        <bioguide>B001310</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00041731</opensecrets>
+        <votesmart>148564</votesmart>
+        <fec>S8IN00171</fec>
+        <maplight>null</maplight>
+        <wikidata>Q42804470</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Mike Braun</name>
+        <name_slug>mike-braun</name_slug>
+        <first_name>Mike</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Braun</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>MYK BRA-un</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1954-03-24</date_of_birth>
+        <entered_office>2019-01-03</entered_office>
+        <term_end>2025-01-03</term_end>
+        <biography>Mike Braun is a Republican member of the U.S. Senate from Indiana. Braun was elected to the office on November 6, 2018.</biography>
+        <phone>202-224-4814</phone>
+        <fax>null</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>B85 Russell Senate Office Building Washington DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>B85 Russell Senate Office Building Washington DC 20510</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>https://www.braun.senate.gov/</website>
+        <contact_page>https://www.braun.senate.gov/</contact_page>
+        <facebook_url>https://facebook.com/SenatorBraun</facebook_url>
+        <twitter_handle>SenatorBraun</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorBraun</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-braun.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Indiana</state_name>
@@ -1490,52 +1543,52 @@
         <state_code>KS</state_code>
         <state_code_slug>ks</state_code_slug>
         <class>II</class>
-        <bioguide>R000307</bioguide>
-        <thomas>968</thomas>
-        <opensecrets>N00005285</opensecrets>
-        <votesmart>26866</votesmart>
-        <fec>null</fec>
+        <bioguide>M001198</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00037034</opensecrets>
+        <votesmart>172080</votesmart>
+        <fec>S0KS00315</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>republican</party>
-        <name>Pat Roberts</name>
-        <name_slug>pat-roberts</name_slug>
-        <first_name>Pat</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Roberts</last_name>
+        <name>Roger Marshall</name>
+        <name_slug>roger-marshall</name_slug>
+        <first_name>Roger</first_name>
+        <middle_name>W.</middle_name>
+        <last_name>Marshall</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>PATT RAH-berts</pronunciation>
+        <pronunciation>roh-gehr maw-shul</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>methodist</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1936-04-20</date_of_birth>
-        <entered_office>1997-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Pat Roberts, a Senator and a Representative from Kansas; born in Topeka, Kans., April 20, 1936; attended the public schools; graduated from Holton High School 1954; B.A., Kansas State University, Manhattan 1958; served in the U.S. Marine Corps as a captain 1958-1962; newspaper publisher, Litchfield Park, Ariz. 1962-1967; administrative assistant, United States Senator Frank Carlson 1967-1968; administrative assistant, United States Congressman Keith Sebelius 1968-1980; elected as a Republican to the Ninety-seventh and to the seven succeeding Congresses (January 3, 1981-January 2, 1997); chair, Committee on Agriculture (One Hundred Fourth Congress); not a candidate for reelection to the House of Representatives in 1996, but was elected as a Republican to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; Chair, Select Committee on Ethics (One Hundred Sixth and One Hundred Seventh Congresses [November 9, 1999-January 3, 2001; January 20, 2001-June 6, 2001]), Select Committee on Intelligence (One Hundred Eighth and One Hundred Ninth Congresses), Committee on Agriculture, Nutrition, and Forestry (One Hundred Fourteenth Congress).</biography>
+        <date_of_birth>1960-08-09</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Senator Marshall is a former Congressman for Kansas’ Big 1st District, a physician, devoted father, grandfather, and husband. As a 5th generation farm kid growing up in Butler County, Dr. Marshall became the first in his family to attend college.</biography>
         <phone>202-224-4774</phone>
-        <fax>202-224-3514</fax>
+        <fax>null</fax>
         <latitude>38.892839</latitude>
         <longitude>-77.004356</longitude>
-        <address_complete>109 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>B33 Russell Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>109 Hart Senate Office Building</address_street>
+        <address_street>B33 Russell Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.roberts.senate.gov</website>
-        <contact_page>https://www.roberts.senate.gov/public/?p=EmailPat</contact_page>
-        <facebook_url>https://facebook.com/SenPatRoberts</facebook_url>
-        <twitter_handle>SenPatRoberts</twitter_handle>
-        <twitter_url>https://twitter.com/SenPatRoberts</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/pat-roberts.jpg</photo_url>
+        <website>https://www.marshall.senate.gov</website>
+        <contact_page>https://www.marshall.senate.gov</contact_page>
+        <facebook_url>null</facebook_url>
+        <twitter_handle>SenatorMarshall</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorMarshall</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/roger-marshall.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Kentucky</state_name>
@@ -1567,7 +1620,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1942-02-20</date_of_birth>
         <entered_office>1985-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Mitch McConnell, a Senator from Kentucky; born in Tuscumbia, Colbert County, Ala., February 20, 1942; attended Louisville, Ky. public schools; graduated, University of Louisville 1964; graduated, University of Kentucky Law School, Lexington 1967; admitted to the Kentucky bar in 1967; legislative assistant to Senator Marlow Cook 1968-1970; Deputy Assistant United States Attorney for Legislative Affairs 1974-1975; Acting Assistant Attorney General 1975; elected judge-executive of Jefferson County, Ky., 1978-1985; elected as a Republican to the United States Senate in 1984; reelected in 1990, 1996, 2002, 2008, and again in 2014 for the term ending January 3, 2021; Republican party whip (2003-2007); minority leader (2007-2015); majority leader (2015-); chair, Select Committee on Ethics (One Hundred Fourth Congress), National Republican Senatorial Campaign Committee (One Hundred Fifth through One Hundred Sixth Congresses), Committee on Rules and Administration (One Hundred Sixth Congress, One Hundred Seventh Congress [January 20, 2001-June 6, 2001]).</biography>
         <phone>202-224-2541</phone>
         <fax>202-224-2499</fax>
@@ -1673,7 +1726,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1957-09-28</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Bill Cassidy, a Senator and a Representative from Louisiana; born in Highland Park, Lake County, Ill., September 28, 1957; B.S., Louisiana State University, Baton Rouge, La., 1979; M.D., Louisiana State University Medical School, New Orleans, La., 1983; physician; member of the Louisiana state senate, 2006-2008; elected as a Republican to the One Hundred Eleventh and to the two succeeding Congresses (January 3, 2009-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-5824</phone>
         <fax>202-224-9735</fax>
@@ -1779,7 +1832,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1946-11-11</date_of_birth>
         <entered_office>2013-07-16</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Edward Markey, a Senator and a Representative from Massachusetts; born in Malden, Middlesex County, Mass., July 11, 1946; attended Immaculate Conception Grammar School, Malden, Mass.; graduated from Malden Catholic High School, Malden, Mass., 1964; B.A., Boston College, Chestnut Hill, Mass., 1968; J.D., Boston College Law School, Chestnut Hill, Mass., 1972; lawyer, private practice; United States Army Reserve, 1968-1973; member of the Massachusetts state house of representatives, 1973-1976; elected as a Democrat to the Ninety-fourth Congress, by special election to fill the vacancy caused by the death of United States Representative Torbert H. Macdonald; reelected to the nineteen succeeding Congresses, and served from November 2, 1976, to July 15, 2013, when he resigned to become a U.S. Senator; elected as a Democrat to the U.S. Senate in a special election on June 25, 2013, to fill the vacancy caused by the resignation of John F. Kerry, a seat subsequently held by appointed Senator William Cowan, and took the oath of office on July 16, 2013; reelected in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-2742</phone>
         <fax>null</fax>
@@ -2044,7 +2097,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-12-07</date_of_birth>
         <entered_office>1997-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Susan Collins, a Senator from Maine; born in Caribou, Aroostook County, Maine, December 7, 1952; graduated from St. Lawrence University, Canton, NY 1975; worked for United States Senator William S. Cohen 1975-1987, serving as staff director of the Senate Governmental Affairs Subcommittee on the Oversight of Government Management 1981-1987; commissioner of the Maine Department of Professional and Financial Regulation 1987-1992; New England regional director, United States Small Business Administration 1992; served as deputy state treasurer of Massachusetts, 1993; won an eight-way Republican primary to become the first woman nominated for governor of Maine in 1994, but lost general election; elected as a Republican to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; chair, Committee on Governmental Affairs (One Hundred Eighth Congress), Committee on Homeland Security and Governmental Affairs (One Hundred Ninth Congress); Special Committee on Aging (One Hundred Fourteenth Congress).</biography>
         <phone>202-224-2523</phone>
         <fax>202-224-2693</fax>
@@ -2121,165 +2174,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/debbie-stabenow.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Michigan</state_name>
-        <state_name_slug>michigan</state_name_slug>
-        <state_code>MI</state_code>
-        <state_code_slug>mi</state_code_slug>
-        <class>II</class>
-        <bioguide>P000595</bioguide>
-        <thomas>1929</thomas>
-        <opensecrets>N00029277</opensecrets>
-        <votesmart>8749</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Gary Peters</name>
-        <name_slug>gary-peters</name_slug>
-        <first_name>Gary</first_name>
-        <middle_name>C.</middle_name>
-        <last_name>Peters</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>GAIR-ee PEE-terz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-01-01</date_of_birth>
-        <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Gary Peters, a Senator and a Representative from Michigan; born in Pontiac, Oakland County, Mich., December 1, 1958; B.A., Alma College, Alma, Mich., 1980; M.B.A., Finance, University of Detroit, Detroit, Mich., 1984; J.D., Wayne State University, Detroit, Mich., 1989; M.A., Philosophy, Michigan State University, East Lansing, Mich., 2007; United States Navy Reserve, 1993-2000, 2001-2005; assistant vice president, Merrill Lynch, 1980-1989; vice president, UBS/Paine Webber, 1989-2003; Arbitrator, Financial Industry Regulatory Authority; instructor, Oakland University, Rochester, Mich., and Wayne State University, Detroit, Mich.; Professor, Central Michigan University; member, Rochester Hills, Mich., city council, 1991-1993; member of the Michigan state senate, 1995-2002; unsuccessful candidate for Michigan state attorney general in 2002; chief administrative officer for the Bureau of investments, state of Michigan, 2003; lottery commissioner, state of Michigan, 2003-2007; elected as a Democrat to the One Hundred Eleventh and to the two succeeding Congresses (January 3, 2009-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-6221</phone>
-        <fax>null</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>724 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>724 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.peters.senate.gov</website>
-        <contact_page>https://www.peters.senate.gov/contact/email-gary</contact_page>
-        <facebook_url>https://facebook.com/SenGaryPeters</facebook_url>
-        <twitter_handle>SenGaryPeters</twitter_handle>
-        <twitter_url>https://twitter.com/SenGaryPeters</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/gary-peters.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Minnesota</state_name>
-        <state_name_slug>minnesota</state_name_slug>
-        <state_code>MN</state_code>
-        <state_code_slug>mn</state_code_slug>
-        <class>II</class>
-        <bioguide>S001203</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00042353</opensecrets>
-        <votesmart>152968</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Tina Smith</name>
-        <name_slug>tina-smith</name_slug>
-        <first_name>Tina</first_name>
-        <middle_name>Flint</middle_name>
-        <last_name>Smith</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TEE-nuh SMITH</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1958-03-04</date_of_birth>
-        <entered_office>2018-01-02</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Tina Smith, a Senator from Minnesota; born in Albuquerque, N.Mex., March 4, 1958; B.A., Stanford University, 1980; M.B.A., Dartmouth College, Tuck School of Business, 1984; marketing consultant and executive; chief of staff to Minneapolis mayor R.T. Rybak; chief of staff to Minnesota governor Mark Dayton; lieutenant governor of Minnesota 2015-2018; appointed as a Democrat to the United States Senate to fill the vacancy caused by the resignation of Al Franken, for the term ending January 3, 2021, and took the oath of office on January 3, 2018.</biography>
-        <phone>202-224-5641</phone>
-        <fax>null</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>309 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>309 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>https://www.smith.senate.gov/</website>
-        <contact_page>https://www.smith.senate.gov/content/contact-senator</contact_page>
-        <facebook_url>https://facebook.com/USSenTinaSmith</facebook_url>
-        <twitter_handle>SenTinaSmith</twitter_handle>
-        <twitter_url>https://twitter.com/SenTinaSmith</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tina-smith.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Minnesota</state_name>
-        <state_name_slug>minnesota</state_name_slug>
-        <state_code>MN</state_code>
-        <state_code_slug>mn</state_code_slug>
-        <class>I</class>
-        <bioguide>K000367</bioguide>
-        <thomas>1826</thomas>
-        <opensecrets>N00027500</opensecrets>
-        <votesmart>65092</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Amy Klobuchar</name>
-        <name_slug>amy-klobuchar</name_slug>
-        <first_name>Amy</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Klobuchar</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AY-mee KLOH-buh-shar</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>congregationalist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1960-05-25</date_of_birth>
-        <entered_office>2007-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Amy Klobuchar, a Senator from Minnesota; born in Plymouth, Minn., May 25, 1960; attended the public schools in Plymouth; graduated magna cum laude Yale University 1982; J.D., University of Chicago 1985; practiced law in Minnesota, becoming partner at the law firms of Dorsey &amp;amp; Whitney and Gray Plant Mooty; Hennepin County Attorney 1999-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019.</biography>
-        <phone>202-224-3244</phone>
-        <fax>202-228-2186</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>302 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>302 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.klobuchar.senate.gov</website>
-        <contact_page>https://www.klobuchar.senate.gov/public/index.cfm/email-amy</contact_page>
-        <facebook_url>https://facebook.com/amyklobuchar</facebook_url>
-        <twitter_handle>amyklobuchar</twitter_handle>
-        <twitter_url>https://twitter.com/amyklobuchar</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/amy-klobuchar.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Missouri</state_name>
         <state_name_slug>missouri</state_name_slug>
         <state_code>MO</state_code>
@@ -2333,57 +2227,57 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/josh-hawley.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Indiana</state_name>
-        <state_name_slug>indiana</state_name_slug>
-        <state_code>IN</state_code>
-        <state_code_slug>in</state_code_slug>
-        <class>I</class>
-        <bioguide>B001310</bioguide>
-        <thomas>null</thomas>
-        <opensecrets>N00041731</opensecrets>
-        <votesmart>148564</votesmart>
-        <fec>S8IN00171</fec>
+        <state_name>Missouri</state_name>
+        <state_name_slug>missouri</state_name_slug>
+        <state_code>MO</state_code>
+        <state_code_slug>mo</state_code_slug>
+        <class>III</class>
+        <bioguide>B000575</bioguide>
+        <thomas>1464</thomas>
+        <opensecrets>N00005195</opensecrets>
+        <votesmart>418</votesmart>
+        <fec>null</fec>
         <maplight>null</maplight>
-        <wikidata>Q42804470</wikidata>
+        <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>republican</party>
-        <name>Mike Braun</name>
-        <name_slug>mike-braun</name_slug>
-        <first_name>Mike</first_name>
+        <name>Roy Blunt</name>
+        <name_slug>roy-blunt</name_slug>
+        <first_name>Roy</first_name>
         <middle_name>null</middle_name>
-        <last_name>Braun</last_name>
+        <last_name>Blunt</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>MYK BRA-un</pronunciation>
+        <pronunciation>ROY BLUHNT</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>southern-baptist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1954-03-24</date_of_birth>
-        <entered_office>2019-01-03</entered_office>
-        <term_end>2025-01-03</term_end>
-        <biography>Mike Braun is a Republican member of the U.S. Senate from Indiana. Braun was elected to the office on November 6, 2018.</biography>
-        <phone>202-224-4814</phone>
-        <fax>null</fax>
+        <date_of_birth>1950-01-10</date_of_birth>
+        <entered_office>2011-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Roy Blunt, a Senator and a Representative from Missouri; born in Niangua, Webster County, Mo., January 10, 1950; graduated Southwest Baptist University, Bolivar, Mo., B.A., 1970; graduated Missouri State University, Springfield, Mo., M.A., 1972; high school history teacher; clerk and chief election officer, Greene County, Mo. 1973-1984; Missouri state secretary of state 1984-1993; President, Southwest Baptist University, Bolivar, Mo. 1993-1996; elected as a Republican to the One Hundred Fifth and to the six succeeding Congresses (January 3, 1997-January 3, 2011); majority whip (One Hundred Eighth through One Hundred Ninth Congresses); acting majority leader (One Hundred Ninth Congress, September 28, 2005-February 2, 2006); minority whip (One Hundred Tenth Congress); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2012-); chair, Committee on Rules and Administration (One Hundred Fourteenth Congress).</biography>
+        <phone>202-224-5721</phone>
+        <fax>202-224-8149</fax>
         <latitude>38.892542</latitude>
         <longitude>-77.007415</longitude>
-        <address_complete>B85 Russell Senate Office Building Washington DC 20510</address_complete>
+        <address_complete>260 Russell Senate Office Building, Washington, DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>B85 Russell Senate Office Building Washington DC 20510</address_street>
+        <address_street>260 Russell Senate Office Building</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>https://www.braun.senate.gov/</website>
-        <contact_page>https://www.braun.senate.gov/</contact_page>
-        <facebook_url>https://facebook.com/SenatorBraun</facebook_url>
-        <twitter_handle>SenatorBraun</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorBraun</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-braun.jpg</photo_url>
+        <website>http://www.blunt.senate.gov</website>
+        <contact_page>https://www.blunt.senate.gov/public/index.cfm/contact-roy</contact_page>
+        <facebook_url>https://facebook.com/RoyForMissouri</facebook_url>
+        <twitter_handle>RoyBlunt</twitter_handle>
+        <twitter_url>https://twitter.com/RoyBlunt</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/roy-blunt.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Mississippi</state_name>
@@ -2468,7 +2362,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1959-05-10</date_of_birth>
         <entered_office>2018-04-09</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Cindy Hyde-Smith is a Senator from Mississippi; born in Brookhaven, Miss., May 10, 1959; graduated Copiah-Lincoln Community College; B.A., University of Southern Mississippi, 1981; cattle farmer; member of the Mississippi state senate 2000-2012; Mississippi state commissioner of agriculture and commerce 2012-2018; appointed as a Republican to the United States Senate to fill the vacancy caused by the resignation of Thad Cochran; took the oath of office on April 9, 2018; subsequently elected in a special election on November 27, 2018, for the remainder of the term ending January 3, 2021.</biography>
         <phone>202-224-5054</phone>
         <fax>null</fax>
@@ -2492,57 +2386,57 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/cindy-hyde-smith.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Iowa</state_name>
-        <state_name_slug>iowa</state_name_slug>
-        <state_code>IA</state_code>
-        <state_code_slug>ia</state_code_slug>
-        <class>III</class>
-        <bioguide>G000386</bioguide>
-        <thomas>457</thomas>
-        <opensecrets>N00001758</opensecrets>
-        <votesmart>53293</votesmart>
+        <state_name>Montana</state_name>
+        <state_name_slug>montana</state_name_slug>
+        <state_code>MT</state_code>
+        <state_code_slug>mt</state_code_slug>
+        <class>I</class>
+        <bioguide>T000464</bioguide>
+        <thomas>1829</thomas>
+        <opensecrets>N00027605</opensecrets>
+        <votesmart>20928</votesmart>
         <fec>null</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
-        <party>republican</party>
-        <name>Charles Grassley</name>
-        <name_slug>charles-grassley</name_slug>
-        <first_name>Charles</first_name>
+        <party>democrat</party>
+        <name>Jon Tester</name>
+        <name_slug>jon-tester</name_slug>
+        <first_name>Jon</first_name>
         <middle_name>null</middle_name>
-        <last_name>Grassley</last_name>
+        <last_name>Tester</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Chuck</goes_by>
-        <pronunciation>CHUHK GRASS-lee</pronunciation>
+        <goes_by>null</goes_by>
+        <pronunciation>JAHN TEH-ster</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
+        <religion>church-of-god</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1933-09-17</date_of_birth>
-        <entered_office>1981-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Charles Grassley, a Senator and a Representative from Iowa; born in New Hartford, Butler County, Iowa, September 17, 1933; attended the public schools; graduated, University of Northern Iowa, Cedar Falls 1955; received a graduate degree from the same university in 1956; pursued graduate work, University of Iowa, Iowa City 1957-1958; engaged in agriculture; part-time university instructor; member, Iowa house of representatives 1959-1974; elected in 1974 as a Republican to the Ninety-fourth Congress; reelected to the Ninety-fifth and Ninety-sixth Congresses (January 3, 1975-January 3, 1981); was not a candidate in 1980 for reelection to the House of Representatives, but was elected to the Senate in 1980; reelected in 1986, 1992, 1998, 2004 and again in 2010 for the term ending January 3, 2017; Chair, Special Committee on Aging (One Hundred Fifth Congress), Committee on Finance (One Hundred Seventh Congress [January 20 to June 6, 2001], One Hundred Eighth and One Hundred Ninth Congresses), Committee on the Judiciary (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-3744</phone>
-        <fax>202-224-6020</fax>
+        <date_of_birth>1956-08-21</date_of_birth>
+        <entered_office>2007-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Jon Tester, a Senator from Montana; born in Havre, Mont., on August 21, 1956; graduated College of Great Falls 1978, farmer; teacher; member, Big Sandy school board 1983-1992 (chairman 1986-1991); Montana State Senate 1999-2006, serving as minority whip 2001-2003, minority leader 2003-2005, president 2005-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Committee on Indian Affairs (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015]); chair, Democratic Senatorial Campaign Committee (2015-).</biography>
+        <phone>202-224-2644</phone>
+        <fax>202-224-8594</fax>
         <latitude>38.892839</latitude>
         <longitude>-77.004356</longitude>
-        <address_complete>135 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>311 Hart Senate Office Building, Washington, DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>135 Hart Senate Office Building</address_street>
+        <address_street>311 Hart Senate Office Building</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.grassley.senate.gov</website>
-        <contact_page>https://www.grassley.senate.gov/contact</contact_page>
-        <facebook_url>https://facebook.com/grassley</facebook_url>
-        <twitter_handle>ChuckGrassley</twitter_handle>
-        <twitter_url>https://twitter.com/ChuckGrassley</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/charles-grassley.jpg</photo_url>
+        <website>http://www.tester.senate.gov</website>
+        <contact_page>https://www.tester.senate.gov/?p=email_senator</contact_page>
+        <facebook_url>https://facebook.com/senatortester</facebook_url>
+        <twitter_handle>SenatorTester</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorTester</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jon-tester.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Montana</state_name>
@@ -2574,7 +2468,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1962-08-20</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Steve Daines, a Senator and a Representative from Montana; born in Van Nuys, Los Angeles County, Calif., August 20, 1962; graduated from Bozeman High School, Bozeman, Mont.; B.S., Montana State University, Bozeman, Mont., 1984; businessman; delegate, Republican National Convention, 1984; unsuccessful candidate for lieutenant governor of Montana in 2008; elected as a Republican to the One Hundred Thirteenth Congress (January 3, 2013-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-2651</phone>
         <fax>null</fax>
@@ -2598,110 +2492,110 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/steve-daines.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Idaho</state_name>
-        <state_name_slug>idaho</state_name_slug>
-        <state_code>ID</state_code>
-        <state_code_slug>id</state_code_slug>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
         <class>III</class>
-        <bioguide>C000880</bioguide>
-        <thomas>250</thomas>
-        <opensecrets>N00006267</opensecrets>
-        <votesmart>26830</votesmart>
+        <bioguide>B001135</bioguide>
+        <thomas>153</thomas>
+        <opensecrets>N00002221</opensecrets>
+        <votesmart>21787</votesmart>
         <fec>null</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>republican</party>
-        <name>Mike Crapo</name>
-        <name_slug>mike-crapo</name_slug>
-        <first_name>Mike</first_name>
+        <name>Richard Burr</name>
+        <name_slug>richard-burr</name_slug>
+        <first_name>Richard</first_name>
         <middle_name>null</middle_name>
-        <last_name>Crapo</last_name>
+        <last_name>Burr</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>MIKE CRAY-poh</pronunciation>
+        <pronunciation>RICH-erd BUR</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>mormon</religion>
+        <religion>methodist</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1951-05-20</date_of_birth>
-        <entered_office>1999-01-03</entered_office>
+        <date_of_birth>1955-11-30</date_of_birth>
+        <entered_office>2005-01-03</entered_office>
         <term_end>2023-01-03</term_end>
-        <biography>Michael Crapo, a Senator and a Representative from Idaho; born in Idaho Falls, Bonneville County, Idaho, May 20, 1951; graduated Idaho Falls High School 1969; B.A., Brigham Young University 1973; J.D., Harvard University School of Law 1977; admitted to the bar in 1977; law clerk to Judge James M. Carter, United States Court of Appeals, Ninth Circuit 1977-1978; practiced law in San Diego 1978-1979, and in Idaho Falls 1979-1992; vice chair, Bonneville County Republican Committee 1979-1981; vice chair, Legislative District 29 Republican Committee 1982-1984; Idaho State Senator 1985-1992; elected as a Republican to the One Hundred Third and to the two succeeding Congresses (January 3, 1993-January 3, 1999); was not a candidate for reelection to the U.S. House of Representatives, but was elected to the United States Senate in 1998; reelected in 2004 and again in 2010 for the term ending January 3, 2017.</biography>
-        <phone>202-224-6142</phone>
-        <fax>202-228-1375</fax>
-        <latitude>38.892947</latitude>
-        <longitude>-77.075686</longitude>
-        <address_complete>239 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>239 Dirksen Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.crapo.senate.gov</website>
-        <contact_page>https://www.crapo.senate.gov/contact/email.cfm</contact_page>
-        <facebook_url>https://facebook.com/mikecrapo</facebook_url>
-        <twitter_handle>MikeCrapo</twitter_handle>
-        <twitter_url>https://twitter.com/MikeCrapo</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-crapo.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Missouri</state_name>
-        <state_name_slug>missouri</state_name_slug>
-        <state_code>MO</state_code>
-        <state_code_slug>mo</state_code_slug>
-        <class>III</class>
-        <bioguide>B000575</bioguide>
-        <thomas>1464</thomas>
-        <opensecrets>N00005195</opensecrets>
-        <votesmart>418</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Roy Blunt</name>
-        <name_slug>roy-blunt</name_slug>
-        <first_name>Roy</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Blunt</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>ROY BLUHNT</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>southern-baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1950-01-10</date_of_birth>
-        <entered_office>2011-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Roy Blunt, a Senator and a Representative from Missouri; born in Niangua, Webster County, Mo., January 10, 1950; graduated Southwest Baptist University, Bolivar, Mo., B.A., 1970; graduated Missouri State University, Springfield, Mo., M.A., 1972; high school history teacher; clerk and chief election officer, Greene County, Mo. 1973-1984; Missouri state secretary of state 1984-1993; President, Southwest Baptist University, Bolivar, Mo. 1993-1996; elected as a Republican to the One Hundred Fifth and to the six succeeding Congresses (January 3, 1997-January 3, 2011); majority whip (One Hundred Eighth through One Hundred Ninth Congresses); acting majority leader (One Hundred Ninth Congress, September 28, 2005-February 2, 2006); minority whip (One Hundred Tenth Congress); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2012-); chair, Committee on Rules and Administration (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-5721</phone>
-        <fax>202-224-8149</fax>
+        <biography>Richard Burr, a Senator and a Representative from North Carolina; born in Charlottesville, Albemarle County, Va., November 30, 1955; graduated from Reynolds High School, Winston-Salem, N.C., 1974; B.A., Wake Forest University, Winston-Salem, N.C., 1978; unsuccessful candidate for election to the One Hundred Third Congress in 1992; elected as a Republican to the One Hundred Fourth and to the four succeeding Congresses (January 3, 1995-January 3, 2005); was not a candidate for reelection to the House of Representatives, but was elected to the United States Senate in 2004; reelected in 2010 for the term ending January 3, 2017; Chair, Select Committee on Intelligence (One Hundred Fourteenth Congress).</biography>
+        <phone>202-224-3154</phone>
+        <fax>202-228-2981</fax>
         <latitude>38.892542</latitude>
         <longitude>-77.007415</longitude>
-        <address_complete>260 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>217 Russell Senate Office Building, Washington, DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>260 Russell Senate Office Building</address_street>
+        <address_street>217 Russell Senate Office Building</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.blunt.senate.gov</website>
-        <contact_page>https://www.blunt.senate.gov/public/index.cfm/contact-roy</contact_page>
-        <facebook_url>https://facebook.com/RoyForMissouri</facebook_url>
-        <twitter_handle>RoyBlunt</twitter_handle>
-        <twitter_url>https://twitter.com/RoyBlunt</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/roy-blunt.jpg</photo_url>
+        <website>http://www.burr.senate.gov</website>
+        <contact_page>https://www.burr.senate.gov/contact/email</contact_page>
+        <facebook_url>https://facebook.com/SenatorRichardBurr</facebook_url>
+        <twitter_handle>SenatorBurr</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorBurr</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/richard-burr.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
+        <class>II</class>
+        <bioguide>T000476</bioguide>
+        <thomas>2291</thomas>
+        <opensecrets>N00035492</opensecrets>
+        <votesmart>57717</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Thom Tillis</name>
+        <name_slug>thom-tillis</name_slug>
+        <first_name>Thom</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Tillis</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TAHM TIL-iss</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1960-08-30</date_of_birth>
+        <entered_office>2015-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Thom Tillis, a Senator from North Carolina; born in Jacksonville, Duval County, Fla., August 30, 1960; B.A., University of Maryland University College, 1997; management consultant; member of the Cornelius (N.C.) board of commissioners 2003-2005; Member of the North Carolina house of representatives 2007-2014, serving as speaker of the House 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-6342</phone>
+        <fax>202-228-2563</fax>
+        <latitude>38.892947</latitude>
+        <longitude>-77.075686</longitude>
+        <address_complete>185 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>185 Dirksen Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.tillis.senate.gov</website>
+        <contact_page>https://www.tillis.senate.gov/public/index.cfm/email-me</contact_page>
+        <facebook_url>https://facebook.com/SenatorThomTillis</facebook_url>
+        <twitter_handle>SenThomTillis</twitter_handle>
+        <twitter_url>https://twitter.com/SenThomTillis</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/thom-tillis.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Dakota</state_name>
@@ -2810,165 +2704,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-hoeven.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Montana</state_name>
-        <state_name_slug>montana</state_name_slug>
-        <state_code>MT</state_code>
-        <state_code_slug>mt</state_code_slug>
-        <class>I</class>
-        <bioguide>T000464</bioguide>
-        <thomas>1829</thomas>
-        <opensecrets>N00027605</opensecrets>
-        <votesmart>20928</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Jon Tester</name>
-        <name_slug>jon-tester</name_slug>
-        <first_name>Jon</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Tester</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JAHN TEH-ster</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>church-of-god</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1956-08-21</date_of_birth>
-        <entered_office>2007-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Jon Tester, a Senator from Montana; born in Havre, Mont., on August 21, 1956; graduated College of Great Falls 1978, farmer; teacher; member, Big Sandy school board 1983-1992 (chairman 1986-1991); Montana State Senate 1999-2006, serving as minority whip 2001-2003, minority leader 2003-2005, president 2005-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019; chair, Committee on Indian Affairs (One Hundred Thirteenth Congress [February 12, 2014-January 3, 2015]); chair, Democratic Senatorial Campaign Committee (2015-).</biography>
-        <phone>202-224-2644</phone>
-        <fax>202-224-8594</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>311 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>311 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.tester.senate.gov</website>
-        <contact_page>https://www.tester.senate.gov/?p=email_senator</contact_page>
-        <facebook_url>https://facebook.com/senatortester</facebook_url>
-        <twitter_handle>SenatorTester</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorTester</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jon-tester.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
-        <class>III</class>
-        <bioguide>B001135</bioguide>
-        <thomas>153</thomas>
-        <opensecrets>N00002221</opensecrets>
-        <votesmart>21787</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Richard Burr</name>
-        <name_slug>richard-burr</name_slug>
-        <first_name>Richard</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Burr</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>RICH-erd BUR</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>methodist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1955-11-30</date_of_birth>
-        <entered_office>2005-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Richard Burr, a Senator and a Representative from North Carolina; born in Charlottesville, Albemarle County, Va., November 30, 1955; graduated from Reynolds High School, Winston-Salem, N.C., 1974; B.A., Wake Forest University, Winston-Salem, N.C., 1978; unsuccessful candidate for election to the One Hundred Third Congress in 1992; elected as a Republican to the One Hundred Fourth and to the four succeeding Congresses (January 3, 1995-January 3, 2005); was not a candidate for reelection to the House of Representatives, but was elected to the United States Senate in 2004; reelected in 2010 for the term ending January 3, 2017; Chair, Select Committee on Intelligence (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-3154</phone>
-        <fax>202-228-2981</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>217 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>217 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.burr.senate.gov</website>
-        <contact_page>https://www.burr.senate.gov/contact/email</contact_page>
-        <facebook_url>https://facebook.com/SenatorRichardBurr</facebook_url>
-        <twitter_handle>SenatorBurr</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorBurr</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/richard-burr.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
-        <class>II</class>
-        <bioguide>T000476</bioguide>
-        <thomas>2291</thomas>
-        <opensecrets>N00035492</opensecrets>
-        <votesmart>57717</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Thom Tillis</name>
-        <name_slug>thom-tillis</name_slug>
-        <first_name>Thom</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Tillis</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TAHM TIL-iss</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1960-08-30</date_of_birth>
-        <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Thom Tillis, a Senator from North Carolina; born in Jacksonville, Duval County, Fla., August 30, 1960; B.A., University of Maryland University College, 1997; management consultant; member of the Cornelius (N.C.) board of commissioners 2003-2005; Member of the North Carolina house of representatives 2007-2014, serving as speaker of the House 2011-2014; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-6342</phone>
-        <fax>202-228-2563</fax>
-        <latitude>38.892947</latitude>
-        <longitude>-77.075686</longitude>
-        <address_complete>185 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>185 Dirksen Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.tillis.senate.gov</website>
-        <contact_page>https://www.tillis.senate.gov/public/index.cfm/email-me</contact_page>
-        <facebook_url>https://facebook.com/SenatorThomTillis</facebook_url>
-        <twitter_handle>SenThomTillis</twitter_handle>
-        <twitter_url>https://twitter.com/SenThomTillis</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/thom-tillis.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Nebraska</state_name>
         <state_name_slug>nebraska</state_name_slug>
         <state_code>NE</state_code>
@@ -2998,7 +2733,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1972-02-22</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Benjamin Sasse, a Senator from Nebraska; born in Plainview, Pierce County, Nebr., February 22, 1972; B.A., Harvard University, 1994; M.A., St. John's College, Annapolis, Md., 1998; Ph.D., Yale University, 2004; management consultant; University professor; chief of staff to U.S. Representative Jeff Fortenberry; counselor to the secretary, U.S. Department of Health and Human Services; assistant secretary for planning and evaluation, U.S. Department of Health and Human Services; president of Midland University, Fremont, Nebr.; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-4224</phone>
         <fax>null</fax>
@@ -3210,7 +2945,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1969-04-27</date_of_birth>
         <entered_office>2013-10-31</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Cory Booker, a Senator from New Jersey; born on April 27, 1969, in Washington, D.C.; graduated Northern Valley Regional High School, Old Tappan, N.J., 1987; B.A., Stanford University, 1991; M.A., Stanford University, 1992; attended The Queen's College, University of Oxford, Oxford, England, as a Rhodes Scholar and received a graduate degree in 1994; J.D., Yale Law School, 1997; worked as an attorney in the non-profit sector; Newark City Council 1998-2002; Mayor of Newark, N.J. 2006-2013; elected as a Democrat to the United States Senate in a special election on October 16, 2013, to fill the vacancy caused by the death of Frank Lautenberg, a seat subsequently held by appointed Senator Jeffrey Chiesa, and took the oath of office on October 31, 2013; reelected in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-3224</phone>
         <fax>202-224-8378</fax>
@@ -3345,52 +3080,52 @@
         <state_code>NM</state_code>
         <state_code_slug>nm</state_code_slug>
         <class>II</class>
-        <bioguide>U000039</bioguide>
-        <thomas>1567</thomas>
-        <opensecrets>N00006561</opensecrets>
-        <votesmart>22658</votesmart>
-        <fec>null</fec>
+        <bioguide>L000570</bioguide>
+        <thomas>1939</thomas>
+        <opensecrets>N00029562</opensecrets>
+        <votesmart>102842</votesmart>
+        <fec>S0NM00058</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>democrat</party>
-        <name>Tom Udall</name>
-        <name_slug>tom-udall</name_slug>
-        <first_name>Tom</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Udall</last_name>
+        <name>Ben Luján</name>
+        <name_slug>ben-lujan</name_slug>
+        <first_name>Ben</first_name>
+        <middle_name>Ray</middle_name>
+        <last_name>Luján</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>TAHM YOO-dawl</pronunciation>
+        <pronunciation>behn lu-khan</pronunciation>
         <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>mormon</religion>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>christian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1948-05-18</date_of_birth>
-        <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Tom Udall (son of Stewart Lee Udall; nephew of Morris K. Udall; cousin of Mark Udall; cousin of Gordon H. Smith), a Senator and a Representative from New Mexico; born in Tucson, Pima County, Ariz., May 18, 1948; graduated from Prescott College, Prescott, Ariz., 1970; Bachelor of Law, Cambridge University, England, 1975; J.D., University of New Mexico School of Law, Albuquerque, N.M., 1977; appointed Assistant United States Attorney for the District of New Mexico, criminal division 1978-1981; served as Chief Counsel to the New Mexico Department of Health and Environment; Attorney General, State of New Mexico, 1990-1998; elected as a Democrat to the One Hundred Sixth and to the four succeeding Congresses (January 3, 1999-January 3, 2009); not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
+        <date_of_birth>1972-06-07</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Senator Luján grew up in Nambé, a small farming community north of Santa Fe, bordered by the Nambé and Pojoaque Pueblos. It was there that he learned New Mexico values, including hard work, dedication, and perseverance, from his family and community.</biography>
         <phone>202-224-6621</phone>
         <fax>null</fax>
         <latitude>38.892839</latitude>
         <longitude>-77.004356</longitude>
-        <address_complete>531 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>B40C Dirksen Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>531 Hart Senate Office Building</address_street>
+        <address_street>B40C Dirksen Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.tomudall.senate.gov</website>
-        <contact_page>https://www.tomudall.senate.gov/?p=contact</contact_page>
-        <facebook_url>https://facebook.com/senatortomudall</facebook_url>
-        <twitter_handle>SenatorTomUdall</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorTomUdall</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tom-udall.jpg</photo_url>
+        <website>https://www.lujan.senate.gov</website>
+        <contact_page>https://www.lujan.senate.gov/</contact_page>
+        <facebook_url>https://www.facebook.com/SenatorLujan/</facebook_url>
+        <twitter_handle>SenatorLujan</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorLujan</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/ben-lujan.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Nevada</state_name>
@@ -3740,7 +3475,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1934-11-17</date_of_birth>
         <entered_office>1994-11-17</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>James Inhofe, a Senator and a Representative from Oklahoma; born in Des Moines, Iowa, November 17, 1934; attended public schools in Tulsa, Okla.; B.A., University of Tulsa 1973; served in the U.S. Army 1957-1958; president, Quaker Life Insurance Company; member, Oklahoma State house of representatives 1967-1969; State Senate 1969-1977; unsuccessful candidate for Governor of Oklahoma 1974, and for the U. S. House of Representatives 1976; mayor of Tulsa 1978-1984; elected as a Republican to the One Hundredth and to the three succeeding Congresses and served from January 3, 1987, to November 15, 1994, when he resigned, having been elected to the United States Senate in the November 8, 1994, special election to the unexpired portion of the term ending January 3, 1997, left vacant by the resignation of David L. Boren; took the oath of office on November 17, 1994; elected to a full term in 1996; reelected in 2002, 2008, and again 2014 for the term ending January 3, 2021; chair, Committee on Environment and Public Works (One Hundred Eighth, One Hundred Ninth, and One Hundred Fourteenth Congresses).</biography>
         <phone>202-224-4721</phone>
         <fax>202-228-0380</fax>
@@ -3815,59 +3550,6 @@
         <twitter_handle>SenatorLankford</twitter_handle>
         <twitter_url>https://twitter.com/SenatorLankford</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/james-lankford.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Oregon</state_name>
-        <state_name_slug>oregon</state_name_slug>
-        <state_code>OR</state_code>
-        <state_code_slug>or</state_code_slug>
-        <class>II</class>
-        <bioguide>M001176</bioguide>
-        <thomas>1900</thomas>
-        <opensecrets>N00029303</opensecrets>
-        <votesmart>23644</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Jeff Merkley</name>
-        <name_slug>jeff-merkley</name_slug>
-        <first_name>Jeff</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Merkley</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JEFF MER-klee</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1956-10-24</date_of_birth>
-        <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Jeff Merkley, a Senator from Oregon; born in Myrtle Creek, Ore., October 24, 1956; B.A., Stanford University, 1979; M.P.A., Princeton University, 1982; government analyst; nonprofit executive; Oregon State Representative, 1999-2008; speaker of the Oregon State House of Representative, 2007-2008; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
-        <phone>202-224-3753</phone>
-        <fax>202-228-3997</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>313 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>313 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.merkley.senate.gov</website>
-        <contact_page>https://www.merkley.senate.gov/contact/</contact_page>
-        <facebook_url>https://facebook.com/jeffmerkley</facebook_url>
-        <twitter_handle>SenJeffMerkley</twitter_handle>
-        <twitter_url>https://twitter.com/SenJeffMerkley</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jeff-merkley.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Oregon</state_name>
@@ -3976,6 +3658,112 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/patrick-toomey.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Oregon</state_name>
+        <state_name_slug>oregon</state_name_slug>
+        <state_code>OR</state_code>
+        <state_code_slug>or</state_code_slug>
+        <class>II</class>
+        <bioguide>M001176</bioguide>
+        <thomas>1900</thomas>
+        <opensecrets>N00029303</opensecrets>
+        <votesmart>23644</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Jeff Merkley</name>
+        <name_slug>jeff-merkley</name_slug>
+        <first_name>Jeff</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Merkley</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JEFF MER-klee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1956-10-24</date_of_birth>
+        <entered_office>2009-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Jeff Merkley, a Senator from Oregon; born in Myrtle Creek, Ore., October 24, 1956; B.A., Stanford University, 1979; M.P.A., Princeton University, 1982; government analyst; nonprofit executive; Oregon State Representative, 1999-2008; speaker of the Oregon State House of Representative, 2007-2008; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-3753</phone>
+        <fax>202-228-3997</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>313 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>313 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.merkley.senate.gov</website>
+        <contact_page>https://www.merkley.senate.gov/contact/</contact_page>
+        <facebook_url>https://facebook.com/jeffmerkley</facebook_url>
+        <twitter_handle>SenJeffMerkley</twitter_handle>
+        <twitter_url>https://twitter.com/SenJeffMerkley</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jeff-merkley.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Michigan</state_name>
+        <state_name_slug>michigan</state_name_slug>
+        <state_code>MI</state_code>
+        <state_code_slug>mi</state_code_slug>
+        <class>II</class>
+        <bioguide>P000595</bioguide>
+        <thomas>1929</thomas>
+        <opensecrets>N00029277</opensecrets>
+        <votesmart>8749</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Gary Peters</name>
+        <name_slug>gary-peters</name_slug>
+        <first_name>Gary</first_name>
+        <middle_name>C.</middle_name>
+        <last_name>Peters</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>GAIR-ee PEE-terz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>episcopalian</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1958-01-01</date_of_birth>
+        <entered_office>2015-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Gary Peters, a Senator and a Representative from Michigan; born in Pontiac, Oakland County, Mich., December 1, 1958; B.A., Alma College, Alma, Mich., 1980; M.B.A., Finance, University of Detroit, Detroit, Mich., 1984; J.D., Wayne State University, Detroit, Mich., 1989; M.A., Philosophy, Michigan State University, East Lansing, Mich., 2007; United States Navy Reserve, 1993-2000, 2001-2005; assistant vice president, Merrill Lynch, 1980-1989; vice president, UBS/Paine Webber, 1989-2003; Arbitrator, Financial Industry Regulatory Authority; instructor, Oakland University, Rochester, Mich., and Wayne State University, Detroit, Mich.; Professor, Central Michigan University; member, Rochester Hills, Mich., city council, 1991-1993; member of the Michigan state senate, 1995-2002; unsuccessful candidate for Michigan state attorney general in 2002; chief administrative officer for the Bureau of investments, state of Michigan, 2003; lottery commissioner, state of Michigan, 2003-2007; elected as a Democrat to the One Hundred Eleventh and to the two succeeding Congresses (January 3, 2009-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
+        <phone>202-224-6221</phone>
+        <fax>null</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>724 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>724 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.peters.senate.gov</website>
+        <contact_page>https://www.peters.senate.gov/contact/email-gary</contact_page>
+        <facebook_url>https://facebook.com/SenGaryPeters</facebook_url>
+        <twitter_handle>SenGaryPeters</twitter_handle>
+        <twitter_url>https://twitter.com/SenGaryPeters</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/gary-peters.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Pennsylvania</state_name>
         <state_name_slug>pennsylvania</state_name_slug>
         <state_code>PA</state_code>
@@ -4058,7 +3846,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1949-11-12</date_of_birth>
         <entered_office>1997-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Jack Reed, a Senator and a Representative from Rhode Island; born in Providence, R.I., November 12, 1949; attended St. Matthew's Elementary School, Cranston, R.I.; graduated, LaSalle Academy, Providence, R.I., 1967; B.S., United States Military Academy, West Point 1971; M.P.P., Kennedy School of Government, Harvard University 1973; J.D., Harvard Law School 1982; served in the U.S. Army 1971-1979 and Army Reserve 1979-1991; associate professor, Department of Social Sciences, U.S. Military Academy 1977-1979; admitted to the Washington, D.C. bar 1983; lawyer; member, Rhode Island State Senate 1985-1990; elected as a Democrat to the One Hundred Second and to the two succeeding Congresses (January 3, 1991-January 2, 1997); was not a candidate for reelection to the House of Representatives in 1996, but was elected to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-4642</phone>
         <fax>202-224-4680</fax>
@@ -4080,59 +3868,6 @@
         <twitter_handle>SenJackReed</twitter_handle>
         <twitter_url>https://twitter.com/SenJackReed</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/jack-reed.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Rhode Island</state_name>
-        <state_name_slug>rhode-island</state_name_slug>
-        <state_code>RI</state_code>
-        <state_code_slug>ri</state_code_slug>
-        <class>I</class>
-        <bioguide>W000802</bioguide>
-        <thomas>1823</thomas>
-        <opensecrets>N00027533</opensecrets>
-        <votesmart>2572</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Sheldon Whitehouse</name>
-        <name_slug>sheldon-whitehouse</name_slug>
-        <first_name>Sheldon</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Whitehouse</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>SHELL-duhn WHITE-house</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1955-10-20</date_of_birth>
-        <entered_office>2007-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Sheldon Whitehouse, a Senator from Rhode Island; born in Manhattan, N.Y., October 20, 1955; graduated Yale University 1978; J.D., University of Virginia 1982; director, Rhode Island Department of Business Regulation 1992-1994; United States attorney 1994-1998; Rhode Island State attorney general 1999-2003; unsuccessful candidate for Governor 2002; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019.</biography>
-        <phone>202-224-2921</phone>
-        <fax>202-228-6362</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>530 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>530 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.whitehouse.senate.gov</website>
-        <contact_page>https://www.whitehouse.senate.gov/contact/email-sheldon</contact_page>
-        <facebook_url>https://facebook.com/SenatorWhitehouse</facebook_url>
-        <twitter_handle>SenWhitehouse</twitter_handle>
-        <twitter_url>https://twitter.com/SenWhitehouse</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/sheldon-whitehouse.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -4164,7 +3899,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1955-07-09</date_of_birth>
         <entered_office>2003-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Lindsey Graham, a Senator and a Representative from South Carolina; born in Central, Pickens County, S.C., July 9, 1955; graduated from Daniel High School, Central, S.C. 1973; B.A., University of South Carolina, Columbia 1977; J.D., University of South Carolina School of Law 1981; United States Air Force 1982-1988; South Carolina Air National Guard 1989-1995; United States Air Force Reserves 1995-present; lawyer, private practice; assistant county attorney, Oconee County, S.C. 1988-1992; city attorney for Central, S.C. 1990-1994; Member of the South Carolina state house of representatives 1992-1994; elected as a Republican to the House of Representatives for the One Hundred Fourth and to the three succeeding Congresses (January 3, 1995-January 3, 2003); one of the managers appointed by the House of Representatives in 1998 to conduct the impeachment proceedings against President William Clinton; was not a candidate for reelection in 2002, but was elected as a Republican to the U.S. Senate in 2002; reelected in 2008, and again in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-5972</phone>
         <fax>202-224-3808</fax>
@@ -4186,6 +3921,59 @@
         <twitter_handle>LindseyGrahamSC</twitter_handle>
         <twitter_url>https://twitter.com/LindseyGrahamSC</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/lindsey-graham.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>South Dakota</state_name>
+        <state_name_slug>south-dakota</state_name_slug>
+        <state_code>SD</state_code>
+        <state_code_slug>sd</state_code_slug>
+        <class>III</class>
+        <bioguide>T000250</bioguide>
+        <thomas>1534</thomas>
+        <opensecrets>N00004572</opensecrets>
+        <votesmart>398</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senate-majority-whip</title>
+        <party>republican</party>
+        <name>John Thune</name>
+        <name_slug>john-thune</name_slug>
+        <first_name>John</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Thune</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JAHN THOON</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>evangelical</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1961-01-07</date_of_birth>
+        <entered_office>2005-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>John Thune, a Senator and a Representative from South Dakota; born in Pierre, Hughes County, S. Dak., January 7, 1961; graduated from Jones County High School, S. Dak., 1979; B.S., Biola University, La Mirada, Calif., 1983; M.B.A., University of South Dakota, Vermillion, S. Dak., 1984; executive director, South Dakota state municipal league; board of directors, National League of Cities; staff, United States Senator James Abdnor of South Dakota 1985-1986; South Dakota state Republican party executive director 1989-1991; director, South Dakota state railroad division 1991-1993; director, South Dakota state municipal league 1993-1996; elected as a Republican to the One Hundred Fifth and to the two succeeding Congresses (January 3, 1997-January 3, 2003); was not a candidate for reelection to the One Hundred Eighth Congress in 2002, but was an unsuccessful candidate for the United States Senate; elected as a Republican to the U.S. Senate in 2004; reelected in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2009); chair, Republican Policy Committee (2009-2012); chair, Republican Conference (2012-); chair, Committee on Commerce, Science, and Transportation (One Hundred Fourteenth Congress).</biography>
+        <phone>202-224-2321</phone>
+        <fax>202-228-5429</fax>
+        <latitude>38.892947</latitude>
+        <longitude>-77.075686</longitude>
+        <address_complete>511 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>511 Dirksen Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.thune.senate.gov</website>
+        <contact_page>https://www.thune.senate.gov/public/index.cfm/contact</contact_page>
+        <facebook_url>https://facebook.com/johnthune</facebook_url>
+        <twitter_handle>SenJohnThune</twitter_handle>
+        <twitter_url>https://twitter.com/SenJohnThune</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-thune.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -4245,59 +4033,6 @@
         <state_name_slug>south-dakota</state_name_slug>
         <state_code>SD</state_code>
         <state_code_slug>sd</state_code_slug>
-        <class>III</class>
-        <bioguide>T000250</bioguide>
-        <thomas>1534</thomas>
-        <opensecrets>N00004572</opensecrets>
-        <votesmart>398</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>John Thune</name>
-        <name_slug>john-thune</name_slug>
-        <first_name>John</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Thune</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JAHN THOON</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>evangelical</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1961-01-07</date_of_birth>
-        <entered_office>2005-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>John Thune, a Senator and a Representative from South Dakota; born in Pierre, Hughes County, S. Dak., January 7, 1961; graduated from Jones County High School, S. Dak., 1979; B.S., Biola University, La Mirada, Calif., 1983; M.B.A., University of South Dakota, Vermillion, S. Dak., 1984; executive director, South Dakota state municipal league; board of directors, National League of Cities; staff, United States Senator James Abdnor of South Dakota 1985-1986; South Dakota state Republican party executive director 1989-1991; director, South Dakota state railroad division 1991-1993; director, South Dakota state municipal league 1993-1996; elected as a Republican to the One Hundred Fifth and to the two succeeding Congresses (January 3, 1997-January 3, 2003); was not a candidate for reelection to the One Hundred Eighth Congress in 2002, but was an unsuccessful candidate for the United States Senate; elected as a Republican to the U.S. Senate in 2004; reelected in 2010 for the term ending January 3, 2017; vice-chair, Republican Conference (2009); chair, Republican Policy Committee (2009-2012); chair, Republican Conference (2012-); chair, Committee on Commerce, Science, and Transportation (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-2321</phone>
-        <fax>202-228-5429</fax>
-        <latitude>38.892947</latitude>
-        <longitude>-77.075686</longitude>
-        <address_complete>511 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>511 Dirksen Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.thune.senate.gov</website>
-        <contact_page>https://www.thune.senate.gov/public/index.cfm/contact</contact_page>
-        <facebook_url>https://facebook.com/johnthune</facebook_url>
-        <twitter_handle>SenJohnThune</twitter_handle>
-        <twitter_url>https://twitter.com/SenJohnThune</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-thune.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>South Dakota</state_name>
-        <state_name_slug>south-dakota</state_name_slug>
-        <state_code>SD</state_code>
-        <state_code_slug>sd</state_code_slug>
         <class>II</class>
         <bioguide>R000605</bioguide>
         <thomas>2288</thomas>
@@ -4323,7 +4058,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-10-24</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Mike Rounds, a Senator from South Dakota; born in Huron, Beadle County, S. Dak., October 24, 1954; B.S., South Dakota State University, 1977; insurance and real estate executive; member of the South Dakota state Senate 1991-2000, serving as majority leader 1995-2000; governor of South Dakota 2003-2011; elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-5842</phone>
         <fax>null</fax>
@@ -4400,57 +4135,110 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/marsha-blackburn.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Tennessee</state_name>
-        <state_name_slug>tennessee</state_name_slug>
-        <state_code>TN</state_code>
-        <state_code_slug>tn</state_code_slug>
-        <class>II</class>
-        <bioguide>A000360</bioguide>
-        <thomas>1695</thomas>
-        <opensecrets>N00009888</opensecrets>
-        <votesmart>15691</votesmart>
+        <state_name>Rhode Island</state_name>
+        <state_name_slug>rhode-island</state_name_slug>
+        <state_code>RI</state_code>
+        <state_code_slug>ri</state_code_slug>
+        <class>I</class>
+        <bioguide>W000802</bioguide>
+        <thomas>1823</thomas>
+        <opensecrets>N00027533</opensecrets>
+        <votesmart>2572</votesmart>
         <fec>null</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
-        <party>republican</party>
-        <name>Lamar Alexander</name>
-        <name_slug>lamar-alexander</name_slug>
-        <first_name>Lamar</first_name>
+        <party>democrat</party>
+        <name>Sheldon Whitehouse</name>
+        <name_slug>sheldon-whitehouse</name_slug>
+        <first_name>Sheldon</first_name>
         <middle_name>null</middle_name>
-        <last_name>Alexander</last_name>
+        <last_name>Whitehouse</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>luh-MAR al-egg-ZAN-der</pronunciation>
+        <pronunciation>SHELL-duhn WHITE-house</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
+        <religion>episcopalian</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1940-07-03</date_of_birth>
-        <entered_office>2003-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Lamar Alexander, a Senator from Tennessee; born in Maryville, Tennessee, on July 3, 1940; B.A., Vanderbilt University 1962; J.D., New York University Law School 1965; governor of Tennessee 1979-1987; chairman of the National Governors Association 1985-1986; U.S. secretary of education 1991-1993; elected as a Republican to the U.S. Senate in 2002; reelected in 2008, and again in 2014 for the term ending January 3, 2021; chair, Republican Conference (2008-2012); chair, Committee on Health, Education, Labor, and Pensions (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-4944</phone>
-        <fax>202-228-3398</fax>
-        <latitude>38.892947</latitude>
-        <longitude>-77.075686</longitude>
-        <address_complete>455 Dirksen Senate Office Building, Washington, DC 20510</address_complete>
+        <date_of_birth>1955-10-20</date_of_birth>
+        <entered_office>2007-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Sheldon Whitehouse, a Senator from Rhode Island; born in Manhattan, N.Y., October 20, 1955; graduated Yale University 1978; J.D., University of Virginia 1982; director, Rhode Island Department of Business Regulation 1992-1994; United States attorney 1994-1998; Rhode Island State attorney general 1999-2003; unsuccessful candidate for Governor 2002; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019.</biography>
+        <phone>202-224-2921</phone>
+        <fax>202-228-6362</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>530 Hart Senate Office Building, Washington, DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>455 Dirksen Senate Office Building</address_street>
+        <address_street>530 Hart Senate Office Building</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.alexander.senate.gov</website>
-        <contact_page>https://www.alexander.senate.gov/public/index.cfm?p=Email</contact_page>
-        <facebook_url>https://facebook.com/senatorlamaralexander</facebook_url>
-        <twitter_handle>SenAlexander</twitter_handle>
-        <twitter_url>https://twitter.com/SenAlexander</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/lamar-alexander.jpg</photo_url>
+        <website>http://www.whitehouse.senate.gov</website>
+        <contact_page>https://www.whitehouse.senate.gov/contact/email-sheldon</contact_page>
+        <facebook_url>https://facebook.com/SenatorWhitehouse</facebook_url>
+        <twitter_handle>SenWhitehouse</twitter_handle>
+        <twitter_url>https://twitter.com/SenWhitehouse</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/sheldon-whitehouse.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Tennessee</state_name>
+        <state_name_slug>tennessee</state_name_slug>
+        <state_code>TN</state_code>
+        <state_code_slug>tn</state_code_slug>
+        <class>II</class>
+        <bioguide>H000601</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>null</opensecrets>
+        <votesmart>128466</votesmart>
+        <fec>S0TN00169</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Bill Hagerty</name>
+        <name_slug>bill-hagerty</name_slug>
+        <first_name>Bill</first_name>
+        <middle_name>Francis</middle_name>
+        <last_name>Hagerty</last_name>
+        <name_suffix>IV</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>bille ha-ger-ty</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1959-08-14</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Bill is a life-long businessman. He started his business career with the Boston Consulting Group, where his work took him to five continents, including three years based in Tokyo, Japan. He later became a venture capital and private equity investor where he invested in and served as an executive and board member of a wide range of companies.</biography>
+        <phone>202-224-4944</phone>
+        <fax>null</fax>
+        <latitude>38.892947</latitude>
+        <longitude>-77.075686</longitude>
+        <address_complete>B11 Russell Senate Office Building Washington DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>B11 Russell Senate Office Building Washington DC 20510</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>https://www.hagerty.senate.gov/</website>
+        <contact_page>https://www.hagerty.senate.gov/</contact_page>
+        <facebook_url>null</facebook_url>
+        <twitter_handle>null</twitter_handle>
+        <twitter_url>null</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/bill-hagerty.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Texas</state_name>
@@ -4466,7 +4254,7 @@
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
-        <title>senate-majority-whip</title>
+        <title>senator</title>
         <party>republican</party>
         <name>John Cornyn</name>
         <name_slug>john-cornyn</name_slug>
@@ -4482,7 +4270,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1952-02-02</date_of_birth>
         <entered_office>2002-12-01</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>John Cornyn, a Senator from Texas; born in Houston, Texas, on February 2, 1952; B.A., Trinity University 1973; J.D., St. Mary's School of Law 1977; LLM, University of Virginia 1995; attorney; Bexar County district court judge 1984-1990; Texas Supreme Court 1990-1997; Texas state attorney general 1999-2002; elected as a Republican to the U.S. Senate in 2002; subsequently appointed to the remainder of the term left vacant by the resignation of William Philip Gramm, and took the oath of office on December 2, 2002; reelected in 2008, and again in 2014 for the term ending January 3, 2021; Republican Conference vice-chair (2007-2009); chair, National Republican Senatorial Committee (2009-2012); Republican party whip (2013-).</biography>
         <phone>202-224-2934</phone>
         <fax>713- 572-3777</fax>
@@ -4504,59 +4292,6 @@
         <twitter_handle>JohnCornyn</twitter_handle>
         <twitter_url>https://twitter.com/JohnCornyn</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/john-cornyn.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Texas</state_name>
-        <state_name_slug>texas</state_name_slug>
-        <state_code>TX</state_code>
-        <state_code_slug>tx</state_code_slug>
-        <class>I</class>
-        <bioguide>C001098</bioguide>
-        <thomas>2175</thomas>
-        <opensecrets>N00033085</opensecrets>
-        <votesmart>135705</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Ted Cruz</name>
-        <name_slug>ted-cruz</name_slug>
-        <first_name>Ted</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Cruz</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TED KROOZ</pronunciation>
-        <gender>male</gender>
-        <ethnicity>hispanic-american</ethnicity>
-        <religion>southern-baptist</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1970-12-22</date_of_birth>
-        <entered_office>2013-01-03</entered_office>
-        <term_end>2019-01-03</term_end>
-        <biography>Ted Cruz, a Senator from Texas; born in Calgary, Alberta, Canada, December 22, 1970; graduated Princeton University, B.A., 1992; graduated Harvard University, J.D., 1995; law clerk to Chief Justice of the United States William Rehnquist; associate deputy attorney general, U.S. Department of Justice; Director of the Office of Policy Planning, Federal Trade Commission; solicitor general of Texas 2003-2008; lawyer; elected as a Republican to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
-        <phone>202-224-5922</phone>
-        <fax>null</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>404 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>404 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.cruz.senate.gov</website>
-        <contact_page>https://www.cruz.senate.gov/?p=email_senator</contact_page>
-        <facebook_url>https://facebook.com/SenatorTedCruz</facebook_url>
-        <twitter_handle>SenTedCruz</twitter_handle>
-        <twitter_url>https://twitter.com/SenTedCruz</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/ted-cruz.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Utah</state_name>
@@ -4612,6 +4347,59 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mike-lee.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Minnesota</state_name>
+        <state_name_slug>minnesota</state_name_slug>
+        <state_code>MN</state_code>
+        <state_code_slug>mn</state_code_slug>
+        <class>I</class>
+        <bioguide>K000367</bioguide>
+        <thomas>1826</thomas>
+        <opensecrets>N00027500</opensecrets>
+        <votesmart>65092</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Amy Klobuchar</name>
+        <name_slug>amy-klobuchar</name_slug>
+        <first_name>Amy</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Klobuchar</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AY-mee KLOH-buh-shar</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>congregationalist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1960-05-25</date_of_birth>
+        <entered_office>2007-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Amy Klobuchar, a Senator from Minnesota; born in Plymouth, Minn., May 25, 1960; attended the public schools in Plymouth; graduated magna cum laude Yale University 1982; J.D., University of Chicago 1985; practiced law in Minnesota, becoming partner at the law firms of Dorsey &amp;amp; Whitney and Gray Plant Mooty; Hennepin County Attorney 1999-2006; elected as a Democrat to the United States Senate in 2006 for the term commencing January 3, 2007; reelected in 2012 for the term ending January 3, 2019.</biography>
+        <phone>202-224-3244</phone>
+        <fax>202-228-2186</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>302 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>302 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.klobuchar.senate.gov</website>
+        <contact_page>https://www.klobuchar.senate.gov/public/index.cfm/email-amy</contact_page>
+        <facebook_url>https://facebook.com/amyklobuchar</facebook_url>
+        <twitter_handle>amyklobuchar</twitter_handle>
+        <twitter_url>https://twitter.com/amyklobuchar</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/amy-klobuchar.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Utah</state_name>
         <state_name_slug>utah</state_name_slug>
         <state_code>UT</state_code>
@@ -4665,6 +4453,59 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/mitt-romney.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Texas</state_name>
+        <state_name_slug>texas</state_name_slug>
+        <state_code>TX</state_code>
+        <state_code_slug>tx</state_code_slug>
+        <class>I</class>
+        <bioguide>C001098</bioguide>
+        <thomas>2175</thomas>
+        <opensecrets>N00033085</opensecrets>
+        <votesmart>135705</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Ted Cruz</name>
+        <name_slug>ted-cruz</name_slug>
+        <first_name>Ted</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Cruz</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TED KROOZ</pronunciation>
+        <gender>male</gender>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>southern-baptist</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1970-12-22</date_of_birth>
+        <entered_office>2013-01-03</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Ted Cruz, a Senator from Texas; born in Calgary, Alberta, Canada, December 22, 1970; graduated Princeton University, B.A., 1992; graduated Harvard University, J.D., 1995; law clerk to Chief Justice of the United States William Rehnquist; associate deputy attorney general, U.S. Department of Justice; Director of the Office of Policy Planning, Federal Trade Commission; solicitor general of Texas 2003-2008; lawyer; elected as a Republican to the United States Senate in 2012 for the term ending January 3, 2019.</biography>
+        <phone>202-224-5922</phone>
+        <fax>null</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>404 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>404 Russell Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.cruz.senate.gov</website>
+        <contact_page>https://www.cruz.senate.gov/?p=email_senator</contact_page>
+        <facebook_url>https://facebook.com/SenatorTedCruz</facebook_url>
+        <twitter_handle>SenTedCruz</twitter_handle>
+        <twitter_url>https://twitter.com/SenTedCruz</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/ted-cruz.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Virginia</state_name>
         <state_name_slug>virginia</state_name_slug>
         <state_code>VA</state_code>
@@ -4694,7 +4535,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1954-12-15</date_of_birth>
         <entered_office>2009-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Mark Warner, a Senator from Virginia; born in Indianapolis, Ind., December 15, 1954; B.A., George Washington University, 1977; J.D., Harvard Law School, 1980; worked on the staff of Senator Christopher Dodd; engaged in the high-technology business; co-founded the company that became Nextel; Virginia Democratic Party Chairman, 1993-1995; unsuccessful candidate for election to the United States Senate in 1996; Governor of Virginia, 2002-2006; chairman of the National Governors Association 2004-2005; elected as a Democrat to the United States Senate in 2008; reelected in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-2023</phone>
         <fax>null</fax>
@@ -4824,59 +4665,6 @@
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/bernard-sanders.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Vermont</state_name>
-        <state_name_slug>vermont</state_name_slug>
-        <state_code>VT</state_code>
-        <state_code_slug>vt</state_code_slug>
-        <class>III</class>
-        <bioguide>L000174</bioguide>
-        <thomas>1383</thomas>
-        <opensecrets>N00009918</opensecrets>
-        <votesmart>53353</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>democrat</party>
-        <name>Patrick Leahy</name>
-        <name_slug>patrick-leahy</name_slug>
-        <first_name>Patrick</first_name>
-        <middle_name>J.</middle_name>
-        <last_name>Leahy</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>PAT-truck LAY-hee</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1940-03-31</date_of_birth>
-        <entered_office>1975-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Patrick Leahy, a Senator from Vermont; born in Montpelier, Washington County, Vt., March 31, 1940; graduated, St. Michael's College, Winooski, Vt., 1961; received J.D. degree from Georgetown University 1964; admitted to the Vermont bar in 1964 and commenced practice in Burlington; State's attorney, Chittenden County, Vt., 1966-1974; elected as a Democrat to the United States Senate in 1974; reelected in 1980, 1986, 1992,1998, 2004 and again in 2010 for the term ending January 3, 2017; President pro tempore (December 17, 2012-January 3, 2015); chair, Committee on Agriculture, Nutrition and Forestry (One Hundredth through One Hundred Third Congresses), Committee on the Judiciary (One Hundred Seventh Congress [January 3-20, 2001; June 6, 2001-January 3, 2003], One Hundred Tenth to One Hundred Thirteenth Congresses).</biography>
-        <phone>202-224-4242</phone>
-        <fax>null</fax>
-        <latitude>38.892542</latitude>
-        <longitude>-77.007415</longitude>
-        <address_complete>437 Russell Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>437 Russell Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.leahy.senate.gov</website>
-        <contact_page>https://www.leahy.senate.gov/contact/</contact_page>
-        <facebook_url>https://facebook.com/SenatorPatrickLeahy</facebook_url>
-        <twitter_handle>SenatorLeahy</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorLeahy</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/patrick-leahy.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Washington</state_name>
         <state_name_slug>washington</state_name_slug>
         <state_code>WA</state_code>
@@ -4928,6 +4716,59 @@
         <twitter_handle>SenatorCantwell</twitter_handle>
         <twitter_url>https://twitter.com/SenatorCantwell</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/maria-cantwell.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Vermont</state_name>
+        <state_name_slug>vermont</state_name_slug>
+        <state_code>VT</state_code>
+        <state_code_slug>vt</state_code_slug>
+        <class>III</class>
+        <bioguide>L000174</bioguide>
+        <thomas>1383</thomas>
+        <opensecrets>N00009918</opensecrets>
+        <votesmart>53353</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Patrick Leahy</name>
+        <name_slug>patrick-leahy</name_slug>
+        <first_name>Patrick</first_name>
+        <middle_name>J.</middle_name>
+        <last_name>Leahy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>PAT-truck LAY-hee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1940-03-31</date_of_birth>
+        <entered_office>1975-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Patrick Leahy, a Senator from Vermont; born in Montpelier, Washington County, Vt., March 31, 1940; graduated, St. Michael's College, Winooski, Vt., 1961; received J.D. degree from Georgetown University 1964; admitted to the Vermont bar in 1964 and commenced practice in Burlington; State's attorney, Chittenden County, Vt., 1966-1974; elected as a Democrat to the United States Senate in 1974; reelected in 1980, 1986, 1992,1998, 2004 and again in 2010 for the term ending January 3, 2017; President pro tempore (December 17, 2012-January 3, 2015); chair, Committee on Agriculture, Nutrition and Forestry (One Hundredth through One Hundred Third Congresses), Committee on the Judiciary (One Hundred Seventh Congress [January 3-20, 2001; June 6, 2001-January 3, 2003], One Hundred Tenth to One Hundred Thirteenth Congresses).</biography>
+        <phone>202-224-4242</phone>
+        <fax>null</fax>
+        <latitude>38.892542</latitude>
+        <longitude>-77.007415</longitude>
+        <address_complete>437 Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>437 Russell Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.leahy.senate.gov</website>
+        <contact_page>https://www.leahy.senate.gov/contact/</contact_page>
+        <facebook_url>https://facebook.com/SenatorPatrickLeahy</facebook_url>
+        <twitter_handle>SenatorLeahy</twitter_handle>
+        <twitter_url>https://twitter.com/SenatorLeahy</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/patrick-leahy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Washington</state_name>
@@ -4987,59 +4828,6 @@
         <state_name_slug>wisconsin</state_name_slug>
         <state_code>WI</state_code>
         <state_code_slug>wi</state_code_slug>
-        <class>III</class>
-        <bioguide>J000293</bioguide>
-        <thomas>2086</thomas>
-        <opensecrets>N00032546</opensecrets>
-        <votesmart>126217</votesmart>
-        <fec>null</fec>
-        <maplight>null</maplight>
-        <wikidata>null</wikidata>
-        <google_entity_id>null</google_entity_id>
-        <title>senator</title>
-        <party>republican</party>
-        <name>Ron Johnson</name>
-        <name_slug>ron-johnson</name_slug>
-        <first_name>Ron</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Johnson</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>RAHN JAHN-suhn</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
-        <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1955-04-08</date_of_birth>
-        <entered_office>2011-01-03</entered_office>
-        <term_end>2023-01-03</term_end>
-        <biography>Ron Johnson, a Senator from Wisconsin; born on April 8, 1955, in Mankato, Minn.; graduated University of Minnesota, B.S., 1977; studied business administration, University of Minnesota, 1977-1979; plastics manufacturer; accountant; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; chair, Committee on Homeland Security and Governmental Affairs (One Hundred Fourteenth Congress).</biography>
-        <phone>202-224-5323</phone>
-        <fax>202-228-6965</fax>
-        <latitude>38.892839</latitude>
-        <longitude>-77.004356</longitude>
-        <address_complete>328 Hart Senate Office Building, Washington, DC 20510</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>328 Hart Senate Office Building</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Washington</address_city>
-        <address_state>DC</address_state>
-        <address_zipcode>20510</address_zipcode>
-        <address_type>Building</address_type>
-        <website>http://www.ronjohnson.senate.gov</website>
-        <contact_page>https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator</contact_page>
-        <facebook_url>https://facebook.com/senronjohnson</facebook_url>
-        <twitter_handle>SenRonJohnson</twitter_handle>
-        <twitter_url>https://twitter.com/SenRonJohnson</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/ron-johnson.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Wisconsin</state_name>
-        <state_name_slug>wisconsin</state_name_slug>
-        <state_code>WI</state_code>
-        <state_code_slug>wi</state_code_slug>
         <class>I</class>
         <bioguide>B001230</bioguide>
         <thomas>1558</thomas>
@@ -5087,6 +4875,59 @@
         <twitter_handle>tammybaldwin</twitter_handle>
         <twitter_url>https://twitter.com/tammybaldwin</twitter_url>
         <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tammy-baldwin.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Wisconsin</state_name>
+        <state_name_slug>wisconsin</state_name_slug>
+        <state_code>WI</state_code>
+        <state_code_slug>wi</state_code_slug>
+        <class>III</class>
+        <bioguide>J000293</bioguide>
+        <thomas>2086</thomas>
+        <opensecrets>N00032546</opensecrets>
+        <votesmart>126217</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>republican</party>
+        <name>Ron Johnson</name>
+        <name_slug>ron-johnson</name_slug>
+        <first_name>Ron</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Johnson</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>RAHN JAHN-suhn</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>lutheran</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1955-04-08</date_of_birth>
+        <entered_office>2011-01-03</entered_office>
+        <term_end>2023-01-03</term_end>
+        <biography>Ron Johnson, a Senator from Wisconsin; born on April 8, 1955, in Mankato, Minn.; graduated University of Minnesota, B.S., 1977; studied business administration, University of Minnesota, 1977-1979; plastics manufacturer; accountant; elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017; chair, Committee on Homeland Security and Governmental Affairs (One Hundred Fourteenth Congress).</biography>
+        <phone>202-224-5323</phone>
+        <fax>202-228-6965</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>328 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>328 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>http://www.ronjohnson.senate.gov</website>
+        <contact_page>https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator</contact_page>
+        <facebook_url>https://facebook.com/senronjohnson</facebook_url>
+        <twitter_handle>SenRonJohnson</twitter_handle>
+        <twitter_url>https://twitter.com/SenRonJohnson</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/ron-johnson.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>West Virginia</state_name>
@@ -5171,7 +5012,7 @@
         <openly_lgbtq>no</openly_lgbtq>
         <date_of_birth>1953-11-26</date_of_birth>
         <entered_office>2015-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
+        <term_end>2027-01-03</term_end>
         <biography>Shelley Capito (daughter of Arch Alfred Moore, Jr.), a Senator and a Representative from West Virginia; born in Glendale, Marshall County, W.Va., November 26, 1953; B.S., Duke University, Durham, N.C., 1975; M.Ed., University of Virginia, Charlottesville, Va., 1976; college counselor; Member, West Virginia state house of representatives, 1997-2001; elected as a Republican to the One Hundred Seventh and to the six succeeding Congresses (January 3, 2001-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021.</biography>
         <phone>202-224-6472</phone>
         <fax>null</fax>
@@ -5253,51 +5094,104 @@
         <state_code>WY</state_code>
         <state_code_slug>wy</state_code_slug>
         <class>II</class>
-        <bioguide>E000285</bioguide>
-        <thomas>1542</thomas>
-        <opensecrets>N00006249</opensecrets>
-        <votesmart>558</votesmart>
-        <fec>null</fec>
+        <bioguide>L000571</bioguide>
+        <thomas>01960</thomas>
+        <opensecrets>N00029788</opensecrets>
+        <votesmart>15546</votesmart>
+        <fec>S0WY00137</fec>
         <maplight>null</maplight>
         <wikidata>null</wikidata>
         <google_entity_id>null</google_entity_id>
         <title>senator</title>
         <party>republican</party>
-        <name>Michael Enzi</name>
-        <name_slug>michael-enzi</name_slug>
-        <first_name>Michael</first_name>
-        <middle_name>B.</middle_name>
-        <last_name>Enzi</last_name>
+        <name>Cynthia Lummis</name>
+        <name_slug>cynthia-lummis</name_slug>
+        <first_name>Cynthia</first_name>
+        <middle_name>M.</middle_name>
+        <last_name>Lummis</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Mike</goes_by>
-        <pronunciation>MIKE EN-zee</pronunciation>
-        <gender>male</gender>
+        <goes_by>null</goes_by>
+        <pronunciation>cyn-thee-ah luh-mis</pronunciation>
+        <gender>female</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>no</openly_lgbtq>
-        <date_of_birth>1944-02-01</date_of_birth>
-        <entered_office>1997-01-03</entered_office>
-        <term_end>2021-01-03</term_end>
-        <biography>Michael Enzi, a Senator from Wyoming; born in Bremerton, Wash., February 1, 1944; attended public schools of Thermopolis and Sheridan, Wyo.; graduated, Sheridan High School 1962; received degree in accounting, George Washington University 1966; M.B.A. in retail marketing from Denver University 1968; served in Wyoming National Guard 1967-73; owned and operated family shoe stores in Gillette and Sheridan, Wyo., and Miles City, Mont.; Accountant; Certified Professional in Human Resources, 1993-present; Mayor of Gillette 1975-1982; Member, Wyoming house of representatives 1987-1991; Member, Wyoming state Senate 1991-1996; Commissioner, Western Interstate Commission for Higher Education 1995-1996; elected as a Republican to the United States Senate in 1996; reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021; Chair, Committee on Health, Education, Labor, and Pensions (One Hundred Ninth Congress), Committee on Budget (One Hundred Fourteenth Congress).</biography>
+        <date_of_birth>1954-09-10</date_of_birth>
+        <entered_office>2021-01-03</entered_office>
+        <term_end>2027-01-03</term_end>
+        <biography>Born on a cattle ranch in Laramie County, Senator Lummis has spent her entire career fighting for Wyoming families, communities, businesses and values. From the halls of the Wyoming House to the halls of the U.S. House, her time in public service has always been focused on advocating for Wyoming’s future.</biography>
         <phone>202-224-3424</phone>
-        <fax>202-228-0359</fax>
+        <fax>null</fax>
         <latitude>38.892542</latitude>
         <longitude>-77.007415</longitude>
-        <address_complete>379A Russell Senate Office Building, Washington, DC 20510</address_complete>
+        <address_complete>G12 Dirksen Senate Office Building Washington DC 20510</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>379A Russell Senate Office Building</address_street>
+        <address_street>G12 Dirksen Senate Office Building Washington DC 20510</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>Washington</address_city>
         <address_state>DC</address_state>
         <address_zipcode>20510</address_zipcode>
         <address_type>Building</address_type>
-        <website>http://www.enzi.senate.gov</website>
-        <contact_page>http://www.enzi.senate.gov/public/index.cfm/e-mail-senator-enzi</contact_page>
-        <facebook_url>https://facebook.com/mikeenzi</facebook_url>
-        <twitter_handle>SenatorEnzi</twitter_handle>
-        <twitter_url>https://twitter.com/SenatorEnzi</twitter_url>
-        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/michael-enzi.jpg</photo_url>
+        <website>https://www.lummis.senate.gov</website>
+        <contact_page>https://www.lummis.senate.gov</contact_page>
+        <facebook_url>https://www.facebook.com/sencynthialummis/</facebook_url>
+        <twitter_handle>SenLummis</twitter_handle>
+        <twitter_url>https://twitter.com/SenLummis</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/cynthia-lummis.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Minnesota</state_name>
+        <state_name_slug>minnesota</state_name_slug>
+        <state_code>MN</state_code>
+        <state_code_slug>mn</state_code_slug>
+        <class>II</class>
+        <bioguide>S001203</bioguide>
+        <thomas>null</thomas>
+        <opensecrets>N00042353</opensecrets>
+        <votesmart>152968</votesmart>
+        <fec>null</fec>
+        <maplight>null</maplight>
+        <wikidata>null</wikidata>
+        <google_entity_id>null</google_entity_id>
+        <title>senator</title>
+        <party>democrat</party>
+        <name>Tina Smith</name>
+        <name_slug>tina-smith</name_slug>
+        <first_name>Tina</first_name>
+        <middle_name>Flint</middle_name>
+        <last_name>Smith</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TEE-nuh SMITH</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>no</openly_lgbtq>
+        <date_of_birth>1958-03-04</date_of_birth>
+        <entered_office>2018-01-02</entered_office>
+        <term_end>2019-01-03</term_end>
+        <biography>Tina Smith, a Senator from Minnesota; born in Albuquerque, N.Mex., March 4, 1958; B.A., Stanford University, 1980; M.B.A., Dartmouth College, Tuck School of Business, 1984; marketing consultant and executive; chief of staff to Minneapolis mayor R.T. Rybak; chief of staff to Minnesota governor Mark Dayton; lieutenant governor of Minnesota 2015-2018; appointed as a Democrat to the United States Senate to fill the vacancy caused by the resignation of Al Franken, for the term ending January 3, 2021, and took the oath of office on January 3, 2018.</biography>
+        <phone>202-224-5641</phone>
+        <fax>null</fax>
+        <latitude>38.892839</latitude>
+        <longitude>-77.004356</longitude>
+        <address_complete>309 Hart Senate Office Building, Washington, DC 20510</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>309 Hart Senate Office Building</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Washington</address_city>
+        <address_state>DC</address_state>
+        <address_zipcode>20510</address_zipcode>
+        <address_type>Building</address_type>
+        <website>https://www.smith.senate.gov/</website>
+        <contact_page>https://www.smith.senate.gov/content/contact-senator</contact_page>
+        <facebook_url>https://facebook.com/USSenTinaSmith</facebook_url>
+        <twitter_handle>SenTinaSmith</twitter_handle>
+        <twitter_url>https://twitter.com/SenTinaSmith</twitter_url>
+        <photo_url>https://cdn.civil.services/us-senate/headshots/512x512/tina-smith.jpg</photo_url>
     </councilor>
 </us-senate>

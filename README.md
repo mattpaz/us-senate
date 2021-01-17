@@ -55,7 +55,7 @@ Civil Services created high-resolution photos for each US Senator and made them 
 
 You can either copy the `headshots` folder into your project, or we also offer a CDN.
 
-If you are using the image `headshots/512x512/bernard-sanders.jpg` the CDN for that file would be `https://cdn.civil.services/senate/headshots/512x512/bernard-sanders.jpg`
+If you are using the image `headshots/512x512/bernard-sanders.jpg` the CDN for that file would be `https://cdn.civil.services/us-senate/headshots/512x512/bernard-sanders.jpg`
 
 
 Senator Data

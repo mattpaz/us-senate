@@ -71,7 +71,7 @@
     "url": "https://civil.services"
   },
   "scripts": {
-    "update-csv": "curl -o ./source/us-senate.csv 'https://docs.google.com/spreadsheets/d/1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0/export?format=csv&id=1aul9yLqShz76cmvIdhjpSyohRI60s3FppCICRtAwfA0&gid=284703522'",
+    "update-csv": "curl -o ./source/us-senate.csv -L 'https://docs.google.com/spreadsheets/d/14H5ThBwFIE1H7p1kcXc3-JmSsRKpMt4uknt864mDIjo/export?format=csv&id=14H5ThBwFIE1H7p1kcXc3-JmSsRKpMt4uknt864mDIjo&gid=284703522'",
     "json-to-yml": "if ( test -e ./us-senate/data/us-senate.json ); then ./node_modules/.bin/json2yaml ./us-senate/data/us-senate.json > ./us-senate/data/us-senate.yml && echo '✓ Updated us-senate/data/us-senate.yml'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
     "json-to-xml": "if ( test -e ./us-senate/data/us-senate.json ); then node ./.scripts/json-to-xml.js && echo '✓ Updated us-senate/data/us-senate.xml'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
     "csv-to-sql": "if ( test -e ./us-senate/data/us-senate.json ); then node ./.scripts/csv-to-sql.js && echo '✓ Updated us-senate/data/us-senate.sql'; else echo '\n× Missing ./us-senate/data/us-senate.json ( npm run -s convert-csv )\n'; fi",
@@ -79,6 +79,7 @@
     "resize-headshots": "node ./.scripts/resize-headshots.js",
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
+    "purge-headshots": "node ./.scripts/purge-headshots.js",
     "convert-csv": "if ( test -e ./source/us-senate.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/us-senate.csv ( see ./source/README.md )\n'; fi",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-senate/data/us-senate.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-senate/data/us-senate.csv\n'; fi",
