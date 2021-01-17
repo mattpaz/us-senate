@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 [![Donate](https://cdn.civil.services/donate-button.png)](https://www.paypal.me/civilservices)
 
 
-116th United States Senate
+117th United States Senate
 ===
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/api/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/api.svg)](https://github.com/CivilServiceUSA/api/graphs/contributors)
@@ -26,9 +26,9 @@ This project provides the __[US Senate Data](./us-senate)__ ( JSON, XML, CSV, SQ
 Data Source
 ---
 
-Our team Manages the [116th Congress United States Senate Demographic Data](http://bit.ly/116th-congress-us-senate).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
+Our team Manages the [117th Congress United States Senate Demographic Data](http://bit.ly/117th-congress-us-senate).  This document is Read Only for the general public.  If you would like to update this document, [Join our Slack Team](https://slack.civil.services/bkx7n2) to learn how.
 
-> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/116th-congress-us-senate).  If you edit the data in this repo manually, it will get overwritten.
+> **IMPORTANT**: All data in this repository comes directly from [This Spreadsheet](http://bit.ly/117th-congress-us-senate).  If you edit the data in this repo manually, it will get overwritten.
 
 
 Completed Tasks
@@ -61,7 +61,7 @@ If you are using the image `headshots/512x512/bernard-sanders.jpg` the CDN for t
 Senator Data
 ---
 
-This project offers data for the 116th United States Senate in the following formats:
+This project offers data for the 117th United States Senate in the following formats:
 
 * [CSV](us-senate/data/us-senate.csv)
 * [JSON](us-senate/data/us-senate.json)
@@ -143,7 +143,7 @@ Updating House Data can be done with the following instructions:
 <details>
   <summary>View Instructions</summary>
 
-1. [Download Latest CSV](http://bit.ly/116th-congress-us-senate) from Google Sheets
+1. [Download Latest CSV](http://bit.ly/117th-congress-us-senate) from Google Sheets
 2. Replace [./source/us-senate.csv](./source/us-senate.csv) with this new file
 3. Run the following commands:
 
