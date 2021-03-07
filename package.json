@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-senate",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "117th Congress United States Senate. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "engines": {
