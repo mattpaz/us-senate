@@ -1,9 +1,16 @@
+# :warning: This Project is No Longer Maintained
+
+> After several years of successful operation, I need to shut it down. The only contributions I have been receiving are folks asking for updates, but no one helping to make them, and the work has just piled to a point where I just can't do it on my own.
+>
+> **I will be taking the entirety of Civil Services offline on March 1st, 2023**
+
+![Farewell](https://media.giphy.com/media/Q7pmmDVQ6AixW/giphy.gif "Farewell")
+
+---
+
 ![Civil Services Logo](https://cdn.civil.services/common/github-logo.png "Civil Services Logo")
 
 __Civil Services__ is a collection of tools that make it possible for citizens to be a part of what is happening in their Local, State & Federal Governments.
-
-[![Donate](https://cdn.civil.services/donate-button.png)](https://www.paypal.me/civilservices)
-
 
 117th United States Senate
 ===
