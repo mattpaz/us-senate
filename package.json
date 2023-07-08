@@ -97,7 +97,7 @@
     "json-pretty-print": "0.0.4",
     "json2csv": "^4.5.4",
     "json2yaml": "^1.1.0",
-    "jsdom": "^16.0.1",
+    "jsdom": "^16.7.0",
     "object.values": "^1.1.1",
     "parse-address": "1.1.2",
     "slug": "^2.1.0",
